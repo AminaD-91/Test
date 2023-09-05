@@ -1,0 +1,393 @@
+2023-08-22 14:00:31, suche nach Data Analyst
+2023-08-22 14:00:40, Browser konnte nicht geoeffnet werden
+2023-08-22 14:24:40, suche nach Data Analyst
+2023-08-22 14:24:45, Browser konnte nicht geoeffnet werden
+2023-08-22 14:30:22, suche nach Customer Data Analyst
+2023-08-22 14:30:27, Browser konnte nicht geoeffnet werden
+2023-08-22 14:34:01, suche nach Customer Data Analyst
+2023-08-22 14:34:05, Browser konnte nicht geoeffnet werden
+2023-08-22 14:34:40, suche nach Data Analyst
+2023-08-22 14:34:47, Browser konnte nicht geoeffnet werden
+2023-08-22 14:38:58, suche nach Data Analyst
+2023-08-22 14:39:03, Browser konnte nicht geoeffnet werden
+2023-08-22 14:48:27, suche nach Data Analyst
+2023-08-22 14:48:32, Browser konnte nicht geoeffnet werden
+2023-08-22 14:55:03, suche nach Data Analyst
+2023-08-22 14:55:08, Browser konnte nicht geoeffnet werden
+2023-08-22 15:07:23, suche nach Data Analyst
+2023-08-22 15:07:30, Browser konnte nicht geoeffnet werden
+2023-08-22 15:10:19, suche nach Data Analyst
+2023-08-22 15:10:23, Browser konnte nicht geoeffnet werden
+2023-08-22 15:18:16, suche nach Data Analyst
+2023-08-22 15:18:20, Browser konnte nicht geoeffnet werden
+2023-08-22 15:20:01, suche nach Data Analyst
+2023-08-22 15:20:06, Browser konnte nicht geoeffnet werden
+2023-08-22 15:20:26, suche nach Data Analyst
+2023-08-22 15:20:30, Browser konnte nicht geoeffnet werden
+2023-08-22 15:23:08, suche nach Data Analyst
+2023-08-22 15:23:16, Browser konnte nicht geoeffnet werden
+2023-08-22 15:29:16, suche nach Data Analyst
+2023-08-22 15:29:23, Browser konnte nicht geoeffnet werden
+2023-08-22 15:30:15, suche nach Data Analyst
+2023-08-22 15:30:20, Browser konnte nicht geoeffnet werden
+2023-08-22 15:36:45, suche nach Data Analyst
+2023-08-22 15:36:52, Browser konnte nicht geoeffnet werden
+2023-08-22 15:38:39, suche nach Data Analyst
+2023-08-22 15:38:46, Browser geoeffnet
+2023-08-22 15:39:27, Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-22 15:39:27, link liste erstellt
+2023-08-22 15:39:28, 57287 in der datenbak bereits vorhanden
+2023-08-22 15:39:29, Abfrage begonnen
+2023-08-22 15:39:33, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7e3d2ca7e6fd1954&fccid=57ed5f0210b0681a&vjs=3
+2023-08-22 15:39:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=07bab61be88d49d2&fccid=88d5a1f5e6ace718&vjs=3
+2023-08-22 15:39:45, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_xEgCKm0rlcdiPKDN1HoFj1Q3cHidAGTxuJZzhleBT-Ddj3_lyZyTXjJL9A7URzTvW3JgDcVJiL_KycTywK9Fe3NSw2xI7wE57-hGu1SIldrCqR2aieUQe2ELvKLJYZ_OHduUTB9GShrEKCGjhe9rz3A3kC3Q-3aY9v-QIPkNospAxKUKl-PoFGKhebBtvcmyByIrXDAJOiUwZWCzSe_biLEOUBummK_hPgBoTp836MNkzRTpDC9XblbynB0gDaenaR4jGvLQzIMfeLKklMA8bK6TCZmKunosd8b-H2Wq7L1cw_l3CxrjsdDoYJobgJ19RJWeHV0IOeZWxXk-6JRoK6POvQlSjESbMPtlj7kvIfSieJHQGTF6u82mx898xp-0v2UcqbzIOQP5hyC3TY6jRR2Tw88UJJnQU1ZmV-lsjsgk9YAwVowMQPsDPGBuxyxGu2iGqX4FkDWU0Y5t_veC5XmRWEkVkJTn6GYc9lhm8b_1XB_16G5RS7fb0rJKQ6Nv9l_8dBE7fApnXAylhvlQweyLejVJPVIdJD-ogA050LF2b13gSpG_qMECZgcANTNnxn6oYGdhLhkevcOgdZ9AxOSbR7USgFYtYWsu1JvjRO-iqvkUJQkLJ3dMQpXWh5E-fuuEGxiYXey2zirZrXFda-6yRRq5aAbbebe-CMVuuASJQqQDjDz5HMi4H8rwxGkAAdbECHQTpLkP_m3KNTaEcRzvKUNjoWsuulCVCgS_F8A_sd8_EMmnqEBhhJi7Fi1prWcTe6z0GdpLwPJpwsB_mqxHpExOS6bTHaEFeCm_Fzphwg9pvbL-G4eCD9QEoNOoiXLLbPYkaexIldq8HcMDj4fdgatL62GmopA4SWmhSvC9DYC8KmUEjTEbxm6kVtdFacst5ccG-NwxyMsVjAUMk57rMrL2yopPg==&xkcb=SoA9-_M3LOnMJfwNKB0NbzkdCdPP&p=5&fvj=1&vjs=3
+2023-08-22 15:39:50, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d318b88c834e6ff3&fccid=17d03426b6db0e39&vjs=3
+2023-08-22 15:39:57, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ApPdf0ENZzOIDAHwUplcxip-jV9l53exE_nlbzH2GDt9hsHc1pmpCfydv2KWwMmrxkhRGwv40sw3HdLkYMmj2ov5LogtvqykQNZSJ5otQEpMHhHzwYLYooNQXKgJK-KCwQqPLbuAdulGON5juh2mv_Sw-VazQmw0Ek-4G7OOy0QLOatvGNCOD8CvUaZc7EUTi2MQTHxOb3PWd2_Zw6Sblj9PmqOx4x547z-w5F_pY4RuQd4642fES6JxvMQQ2_3-D8b5EPHMpTUzvaik6q7m_KAtpu8IGhP2BpzBzuJB_hi2REkmiOm6ufohNeG5whTHlmBPOjRlytGmPlJyyomUuz2418WRnitNRkfoeupa88xn5gTCwlfeWqMU17yaWDpO1k6ApxLHz3acmk6s8MA19eQ3VVEOiSu3YEWkuM3lcZiwr2ecOFHmZuq9qlULUzFOH1rzF_pMxnJRxB-ejr9wBadRy5LVqM-hf3aGS5tOIntam45Cpy9rLBCrgySAPXKPEQHG-VzK4hnw==&xkcb=SoCZ-_M3LOnMXZwI5B0KbzkdCdPP&p=1&fvj=1&vjs=3
+2023-08-22 15:40:02, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d56b5ae7d362fce1&fccid=fe641d006172a34e&vjs=3
+2023-08-22 15:40:10, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6b9b7953631f47f9&fccid=57ed5f0210b0681a&vjs=3
+2023-08-22 15:40:14, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6c312ccb5f72d804&fccid=3228946bc134183e&vjs=3
+2023-08-22 15:40:17, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=1ac46b076f1232a1&fccid=0f68f0d34ef9c0fb&vjs=3
+2023-08-22 15:40:24, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=cdb5db48e628e459&fccid=7f2379b46a2f6203&vjs=3
+2023-08-22 15:40:30, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7bebfd42f0e6777a&fccid=e23a9ad4c5d4a881&vjs=3
+2023-08-22 15:40:36, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=108a887fb2f24bdc&fccid=f8b265243da9f9d7&vjs=3
+2023-08-22 15:40:41, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a56491375c0d637b&fccid=79b1953a75a5cc1a&vjs=3
+2023-08-22 15:40:48, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7b5524b68a903507&fccid=00cf9d7cf01ff0dc&vjs=3
+2023-08-22 15:40:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=15f5d7882c11ada0&fccid=0cd3e5184863bd78&vjs=3
+2023-08-22 15:41:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ef419c6e8c194cab&fccid=90e4785daba42814&vjs=3
+2023-08-22 15:41:08, Abfrage abgebrochen !!!
+2023-08-22 15:41:08, Abfrage beendet
+2023-08-22 15:41:13, Browser geschlossen
+2023-08-22 15:41:13, Es wurden 16 Daten von Indeed hinzugefügt
+2023-08-22 15:42:19, suche nach Customer Data Analyst
+2023-08-22 15:42:27, Browser geoeffnet
+2023-08-22 15:43:12, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-22 15:43:12, link liste erstellt
+2023-08-22 15:43:13, 57303 in der datenbak bereits vorhanden
+2023-08-22 15:43:13, Abfrage begonnen
+2023-08-22 15:43:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f54cddf1d7a1345f&fccid=5b8d10630cb111eb&vjs=3
+2023-08-22 15:43:24, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=99f8082e850de931&fccid=f1d8e147024abb3f&vjs=3
+2023-08-22 15:43:32, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7994c725730ce4fe&fccid=d56baf8d322ea311&vjs=3
+2023-08-22 15:43:38, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2fc479c5b13b5aee&fccid=e20375c31904aa86&vjs=3
+2023-08-22 15:43:44, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=fcef3d6c17f68d4a&fccid=cade3d70855267e6&vjs=3
+2023-08-22 15:43:53, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6cadcec78e48d6cb&fccid=90e4785daba42814&vjs=3
+2023-08-22 15:44:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=e5b73cdf2c195ed0&fccid=49a77b2ee868472d&vjs=3
+2023-08-22 15:44:06, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=31f73f9614ae4e1f&fccid=d81ec8e4ad62f933&vjs=3
+2023-08-22 15:44:14, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d07d0dbbacb92c54&fccid=4e041af1d0af1bc8&vjs=3
+2023-08-22 15:44:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=e0e9a9cffc92737f&fccid=3a2b2ba6b59ef227&vjs=3
+2023-08-22 15:44:25, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c6465b9d62f33c57&fccid=ea6bb53f0b18b8f2&vjs=3
+2023-08-22 15:44:31, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ac778d3d65251703&fccid=986fc8191799c24d&vjs=3
+2023-08-22 15:44:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=9f39620b2b3ca71c&fccid=cf7c2c7f93aab1dd&vjs=3
+2023-08-22 15:44:46, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a2a89d573eb7c7a7&fccid=cade3d70855267e6&vjs=3
+2023-08-22 15:44:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f95319fbd2a37277&fccid=b297e9db5cb74500&vjs=3
+2023-08-22 15:44:55, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=48d121efe42e0e12&fccid=b21c3092e4360e56&vjs=3
+2023-08-22 15:45:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ac5404a93c8d5706&fccid=e4a5e7f93e374233&vjs=3
+2023-08-22 15:45:08, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=9fa7010917368e93&fccid=85e12d633851df89&vjs=3
+2023-08-22 15:45:11, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=73fb23dd08688325&fccid=e5cc6c46ecdc8426&vjs=3
+2023-08-22 15:45:17, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=778ca6c2ba9dc799&fccid=25fcc0ef2edd3f05&vjs=3
+2023-08-22 15:45:21, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0604dee9d8c6b75a&fccid=3228946bc134183e&vjs=3
+2023-08-22 15:45:25, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b2cb00a4e9475b94&fccid=9d09b6020ab7579c&vjs=3
+2023-08-22 15:45:30, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=efe760f399bfe8db&fccid=4dc22f444f741d3d&vjs=3
+2023-08-22 15:45:35, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=22aa2d88197c6077&fccid=110ccf1fd6ca4080&vjs=3
+2023-08-22 15:45:38, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3cbbf7e89a64fc05&fccid=031fcbd781d7a179&vjs=3
+2023-08-22 15:45:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b2ecffee69dbc0cf&fccid=2d0740e02e80cf22&vjs=3
+2023-08-22 15:45:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5ea5b4ee3039ba3f&fccid=552acc128eb405ac&vjs=3
+2023-08-22 15:45:56, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CXpcyY2pXsU87xVGzBn7n5BscwQ78xMBTsKBNA-FU4LjHzCx9ds8IG9-FoUTU9ceXZNzgkehyQ3iXs8dDEf0mkYHEQbXWanrOVf9szgD1U3AeAFFBp4A0gs6PMg0gtIJQ6vh1gw7jt8ok7s10CFpyftj541hY3IjokaOADWIVMJ99PaL0Vw_p9l-8AdsfPUUgD7ryl8xa67V1nE0Z_NgtO4PeGFg68j_ZNxmInhz6t6mGtmFvgKbNHl7m8RNestpkfdxu6aMuiSxJI_LvBHZKKA3HbPOH9tzFSadgcHv9kysjcNEsxigKpEtshxVcFPH5TdwdVINgNNurhLLnURnvttB-efEawNBA3sTkrfIG4Rha_mC7uB0iPnNE9oyOUAwXfiWLtQD_GmTRZM0UxUlc-dFXMTX6oERPBTDwo3NvhYrhorIQ1hNSrA3n8VpBm9cmt5KR6XxvOG03RZWPZTzETwTW2weNr6VemE-9vKlcKCf_s9-vmOsFX3Ax5nYVYws8MG-Vj_eDMpRFhnZkyVewJf5jvC1bMIGV-SOqNj6lIgFG84dwF3KBVIqs652mi8F2EuIfuab2jfpVFNKTY9mXSdqRUkwi2bF1NNToYt_PVDiV8g-N_A0sUCYx_bcj-vC1xKQxjZ7Gz9imw6fu6R41J1CsWu_a9n6nlNRBqV0Ma2whySjB2bh-ZYSXwDC3hL8z5ZkgI_zZIrgue70454BJMOvfP141JMXvDTYaI9ReUpPLD_sJ1-xDIrMRpKR5k6YM=&xkcb=SoBu-_M3LOnRr5QI5B0JbzkdCdPP&p=2&fvj=1&vjs=3
+2023-08-22 15:46:01, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a5ff9dcdecfc5d52&fccid=156c7820d1988640&vjs=3
+2023-08-22 15:46:07, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7cad8076b15bd0ef&fccid=9917de3c28f569f6&vjs=3
+2023-08-22 15:46:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8ca55bad22ecea5b&fccid=cbe3b647ed644e03&vjs=3
+2023-08-22 15:46:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0a098f54cf919944&fccid=30c0f7e51623ede6&vjs=3
+2023-08-22 15:46:26, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=e24ce6d4352329ee&fccid=56f6094a15f4c7d1&vjs=3
+2023-08-22 15:46:30, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d48f77de2c460507&fccid=3228946bc134183e&vjs=3
+2023-08-22 15:46:33, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3c27ebe6d63559a7&fccid=1a0eee8ef41e113f&vjs=3
+2023-08-22 15:46:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=72a28441e1653843&fccid=19372b907b9f6217&vjs=3
+2023-08-22 15:46:46, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=29e630684f7110ea&fccid=70bbeb2771f8c8e7&vjs=3
+2023-08-22 15:46:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6be1f5a30147769d&fccid=82d5b185512893c3&vjs=3
+2023-08-22 15:47:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f5dc14a094ad909d&fccid=b65436ab9fb04791&vjs=3
+2023-08-22 15:47:04, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f236cb1b12b25d79&fccid=2e7644406e62ef41&vjs=3
+2023-08-22 15:47:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=99dc13889030cc17&fccid=6902b1131240791f&vjs=3
+2023-08-22 15:47:24, Abfrage abgebrochen !!!
+2023-08-22 15:47:24, Abfrage beendet
+2023-08-22 15:47:28, Browser geschlossen
+2023-08-22 15:47:29, Es wurden 41 Daten von Indeed hinzugefügt
+2023-08-22 15:47:33, suche nach Data Analyst
+2023-08-22 15:47:40, Browser geoeffnet
+2023-08-24 09:21:53, suche nach Data Analyst
+2023-08-24 09:22:00, Browser geoeffnet
+2023-08-24 09:22:46, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-24 09:22:46, link liste erstellt
+2023-08-24 09:22:47, 57370 in der datenbak bereits vorhanden
+2023-08-24 09:22:47, Abfrage begonnen
+2023-08-24 09:22:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=e1beeedd8fe53a33&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-24 09:22:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=4f0ea96a11f7763f&fccid=f1d8e147024abb3f&vjs=3
+2023-08-24 09:22:57, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f37a3f2410e4a6a6&fccid=0bdbfb647e3e0af1&vjs=3
+2023-08-24 09:23:01, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C0wj5AXSXvlSTZ_ElArzG3rzKm092HTC4At3lyVzSrhd8qT1GjZRIXorITIY4toNsZlSBKy62AdOCeHZTqqy63FyFsnnJzQKutP9DcLgtsr6dD2plxIIoC8cEun14FwxLT7psKpovNtvOM1Ncxnrp81hhxhjIh_K94Dgb-eXKnKSLf50JlBO04nkKStiR4-BNrJdNoT3Bekrzn2afiVmf17PE405D27erm8ow4ggBMPiRNU9b_aHzpmIRlAl-dWvgvW5Z4wjx-OxMKTA60XwpgWkguBHnuri2p0UN_KlSN3jkeZM5-1Dgza1Si5-qJV3hB-zIMQ7NxeCLMfwQg1gSgcYXg1bEFA7XgvjdYlCCMgWXW05HERX0jQH_pJWTGKBP-0MMGUt3BDvULqamr_E8lqhMorxR2Tkm3sTviiN3PDTMU_DKG3rlKKjNADWirD3xV48z8Mo869oZPe4aNsYm9KLlVmegECQwXgR7HMPKQ7-rPqODPv-i3A_MccVB0NyIMn9WjCvy9bUFsflajMCIIMlZi0oPwEMbL-KDTr2iNe6W6eFb0ZSbZAaJuSbzh2WWwquS0td_SF_9eVVQgsJbHkmeK6F5jGNqywirEp4IKAB004ezMcqvGJyxcjeF_lyxcxsT2zjPuJkfnhMaku1PGDCowkUz9_rIn4B2yvOAjHhlxgNGxY3rzEMQDt_TQmblfoCzky2pjFqkbwie-uBVgJvc9uyCqitB1uEec5CtQBE_x1AS9CiPGMSgERJE_11-xL1Ei2H458Q6foK69gozgMfscjrW649Td40VKRb49LDOICznQioeU3SaACDaiOS-NSPgPhxJEiI3AAMjg3UaMlfmHQCVZDMKsXcm1CO59hMGc9r7OLfj1&xkcb=SoCg-_M3LTFt1AQsWh0MbzkdCdPP&p=7&fvj=1&vjs=3
+2023-08-24 09:23:06, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3f360b713be8646e&fccid=5ba546776fe51776&vjs=3
+2023-08-24 09:23:13, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=dc1b3a277badd927&fccid=40a74c5136c4b33d&vjs=3
+2023-08-24 09:23:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=bba8bfb85fa46173&fccid=963f2edbf71c4b4d&vjs=3
+2023-08-24 09:23:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=967e47d84d4374fd&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-24 09:23:25, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BxmYOcUAOCxszE55UOx1TO4Bjpw4RpwxvlqCjBXNXKm5TbtsH2cqhIs7ehRFzKDDeyOtXnaaplCjaA_Mqe1AIGPmEw_2wkvkXZs4XtM27veNXe_r4WJzX7uqVigbpD5m6TnJBzJ-6MA70D8L88-x4xheKhc1tIfzcBUYWRFIOlUSM88mrzrJNy6fiVUU3Ao6Cll13osSnsc1SzXZx-VB2r92YrXIWU0pvAI-h2MZKaIHT-gF2ZxFXVNYorxvLiUxs3OVfuZOZhRY8q9ZQ1IS0-iwuubbxHo_qIPDp2A2jZAeJSBG4sEpegh6Ww73D91OPjRyf-M1ENoxHWMxoootqYvm5RwnyTuYXXcY6HL8hTW0dhPeH-PpOVnv6fdm8jshJMGXPFFSiPNog3on-A9YCMv39OPewzS8MMZgxekiZkWdOB1kx-q4FRkwaT3kF0IU8c4G6ClnG8WZeCeJnR_DuJNKEnuJTnECFtThAXIG3QPk0W_4WZ4OR_TQnEZAKbOmoacWc6X_QemQNZbt-gy4G2a_mnLPPHLFjNM0Zo571Jh5jrZUtUjDRDwJ8KwYJqHTfc0RJxrd3vzVh3ed-WvnHengtFhVWGun-ZlyO-0-fs9Ww3g1rVadh1JEl3pmksH_gxGokAhAfbXrlhp743NJwEehNK1OIRpwb--YgDnVd625gfMV9p1ezDsgWA3M28q8whFSJ9EMeOBQ==&xkcb=SoBN-_M3LTFvHSQsZZ0ObzkdCdPP&p=3&fvj=0&vjs=3
+2023-08-24 09:23:29, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=534bee5a0053dcf7&fccid=0977409587e6930d&vjs=3
+2023-08-24 09:23:34, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=23e4c7dc7f822c41&fccid=2808bd9c1878c8cd&vjs=3
+2023-08-24 09:23:41, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a948cf786505d634&fccid=76a3eb445dfdef20&vjs=3
+2023-08-24 09:23:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=702ef0ee3324584e&fccid=4b511dcd795ee3d3&vjs=3
+2023-08-24 09:23:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b4930d5d038d5fa4&fccid=5d07ee5aed821208&vjs=3
+2023-08-24 09:23:56, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8f227b5074881060&fccid=2d0740e02e80cf22&vjs=3
+2023-08-24 09:24:02, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a3668d4a2f00b8e3&fccid=350f919a1e6a54e1&vjs=3
+2023-08-24 09:24:07, Daten wurden gezogen: https://de.indeed.com/company/LANIUS-GmbH/jobs/Data-Specialist-40d7b1837fcf601e?fccid=534e5e2d651e8d26&vjs=3
+2023-08-24 09:24:10, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=945ba6b7a38d7dbe&fccid=d4448c192a012f32&vjs=3
+2023-08-24 09:24:16, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=dad366aa42941c48&fccid=f31d7d57c5eed6e6&vjs=3
+2023-08-24 09:24:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=214ab08e446f9324&fccid=bd611a997abf19f3&vjs=3
+2023-08-24 09:24:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=420d54a9ca811f80&fccid=3228946bc134183e&vjs=3
+2023-08-24 09:24:27, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8e88a93114704e82&fccid=4b105baee432a121&vjs=3
+2023-08-24 09:24:32, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=275bda6d2f8ce189&fccid=75895f2661e015de&vjs=3
+2023-08-24 09:24:36, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_xEgCKm0rlcdiPKDN1HoFj02flOXkBujvtpk2TmfEGeGLQ8qe5IrkvPhb46gLLxx_JhkGCQ7w7G6-Pp7O3VAwXlfTfskd81xs-D_65V8dMY2jVRcAS2mNvAsRg3SD6GYQaiuEaxutKzd1cjVj2ui9v0J72ufJF-grOQ9jDCSW4Id-F6paVvjFTG3JkhOAMB_Witwm-5EGh9VhdmyBKSwJHm3FwZ6imW841lyk2tYCkoM06Mvqhul1zSW6ggXA6UjCkOvcA_Rkifd5DA1HqnjCZVR2jNlzIHskQVeuKL5QGz-zUYUy1ctJq_oYE5SVkEb-TG0wl-DR-qM3qdcElIMhOt2ba8UJ2jNxXE_OJ4VhCXw7rCQZosFAVfZL3SCB4tXhtodUlfsHLAixQ1bM5Kza1uzMaKd6mqN_mDPUsRre9RyutADOOQHkuyn6Yu-VMoQ-RvE2XA2QAoqmo1iwsSyXGeFKrx7gZ8QjQdTKJrjfLn0kL7cTMe7g54C6YJ3ITXqmf48pqu05YAGEg7hg05kijNV2Ja4mzIo0GdeUDx5T2MQpXiFJ--UWw4bq5ieYpBkYLzDQ97FCft34iehe1LdqcKdkegnWpoB1D0i5f4PfPyDWDXIpgbwcJPinp_l3n4xkfInBmcsraqqees9C4RHHO_fAdQ-BLHSyzIXrmg4OUjXRiC0_RfGYATyAaaYVZ9ejudQ2Mkmhwg2S62l7aJnxEwcHfAOEZwfBkuih5BlqsID0mcXVCI_T8-h3SXUuNTImwx-w2xG5oVM4CB6BAyKu52MHdmou2jkpfE2LqBzD0097MsODXJ13Lgqww_xE-HrrBN8zZa_HCGiLsntW37CcVy0JIi1k_ie0XDurDOC5SbzwbWDfNX18vDRLNo0CUrA7JDo-nl83YzoJ2Nt8Pd3_SA=&xkcb=SoBa-_M3LTFtWowHDx0BbzkdCdPP&p=10&fvj=1&vjs=3
+2023-08-24 09:24:42, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=11c97ce3d15121fb&fccid=3228946bc134183e&vjs=3
+2023-08-24 09:24:45, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f66e49b815cf0cb6&fccid=dd616958bd9ddc12&vjs=3
+2023-08-24 09:24:49, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=311ce81b9b294bd4&fccid=94b34076ab6ec62f&vjs=3
+2023-08-24 09:24:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3a77ff7431cd794b&fccid=f1d8e147024abb3f&vjs=3
+2023-08-24 09:24:59, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=29ecaaf58da80433&fccid=3228946bc134183e&vjs=3
+2023-08-24 09:25:03, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5ee2ef95c8f52cba&fccid=ce527f971de2a93a&vjs=3
+2023-08-24 09:25:10, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=21f1be1b5d961ea4&fccid=8852e4785c7f0abe&vjs=3
+2023-08-24 09:25:13, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=986663d74d29fc02&fccid=4e041af1d0af1bc8&vjs=3
+2023-08-24 09:25:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ee989516d129ded8&fccid=0ecd8408394ef8ec&vjs=3
+2023-08-24 09:25:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2e0c51fdcba95eda&fccid=fdb210f6a49b1c13&vjs=3
+2023-08-24 09:25:28, Daten wurden gezogen: https://de.indeed.com/company/Steinemann-Holding-GmbH&Co.KG/jobs/Business-Intelligence-Analyst-0b24239c07c0d553?fccid=cd81878273dffd47&vjs=3
+2023-08-24 09:25:35, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=972cbd33a96b74a6&fccid=4550ce1bddcedd38&vjs=3
+2023-08-24 09:25:40, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=875f2f69ebd3e742&fccid=552acc128eb405ac&vjs=3
+2023-08-24 09:25:45, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=db60409e484544af&fccid=4e041af1d0af1bc8&vjs=3
+2023-08-24 09:25:47, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpFG2_TTbJYsKj-IBsu_TLOh95OU7rc8qeDDjFMtt2kRjUxLSNjSnnDp7AW2BRthe2EGBCRbl4WEDXWv79msDFFnLcPaDIjv91lEa_lrq4_-p7lx-AjTolOeccS9_vM1lV31BEddc1kcpOZX0qISrODNye0F2ywBsjju0ifBdsHbFSUo6dsfJg_OGipRB_mFDaDQe3q0yCC_h7tgRddo6spdr5hbPpeHuss11DM-B3txoWlc_sl0BKHvHr1_1ifN79PwvmfR6Bfof8rKZXoSHbr1kzH-Z7ZxUEdUkuXWXbilQCOpgnS2-QXHDrNaxXGP2DcEZTAbOHM3ZVarlePOcwstOdrME96sAkCrc1Or6sgSF6H6H62dElagO8GFhbcppLmFAeKCzQ14YKuWf5vUeP_VgfSi6wRnsqBOUHYQJqMuHYKC44a-4hrqpd_tGMFg7hEKzL9MbSGo2B5hv5FZRSGgf9j1vxGdHHGmde6r-7QYxH-KTV39xzdo=&xkcb=SoDn-_M3LTFu2rSS9J0KbzkdCdPP&p=1&fvj=0&vjs=3
+2023-08-24 09:25:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=43c37f5543ff7485&fccid=1684d3322a4331bc&vjs=3
+2023-08-24 09:25:58, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=50c1d3aa36fa7e0e&fccid=4e041af1d0af1bc8&vjs=3
+2023-08-24 09:26:05, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b8142db459204495&fccid=b8b7cb5f7561f45b&vjs=3
+2023-08-24 09:26:11, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=03c7ddc14031fad4&fccid=8db79899066a2f07&vjs=3
+2023-08-24 09:26:16, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5991e87b796d292c&fccid=8385ada8f5f70209&vjs=3
+2023-08-24 09:26:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7a618217df60ed59&fccid=dd616958bd9ddc12&vjs=3
+2023-08-24 09:26:25, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d4f3cc40305809a4&fccid=223a83189e0bc47a&vjs=3
+2023-08-24 09:26:28, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=46a7d0bd7e3baaad&fccid=71b22ed9c5c03efe&vjs=3
+2023-08-24 09:26:33, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=27177544c0713672&fccid=c8511f683d2db79d&vjs=3
+2023-08-24 09:26:41, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c838b95f73d0084b&fccid=00cf9d7cf01ff0dc&vjs=3
+2023-08-24 09:26:48, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=85334a5b68cfb863&fccid=e3d9441660df1bb7&vjs=3
+2023-08-24 09:26:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0606d73a457bbe76&fccid=00cf9d7cf01ff0dc&vjs=3
+2023-08-24 09:27:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=46abd483a87d43db&fccid=62599063b0c07e76&vjs=3
+2023-08-24 09:27:07, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8dd94f8ae4eb6618&fccid=ec5cf91cfd6131a5&vjs=3
+2023-08-24 09:27:14, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6f795bbbcacd732b&fccid=274b7972ee749917&vjs=3
+2023-08-24 09:27:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=80d48e5546c589c0&fccid=0db024cbf2433317&vjs=3
+2023-08-24 09:27:28, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c15b2ccfaa4fb0ef&fccid=da07c31b2c45e7f5&vjs=3
+2023-08-24 09:27:32, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=942c5835dc03eacd&fccid=9627d989082a3c3c&vjs=3
+2023-08-24 09:27:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2acf53283697573b&fccid=74e3fe9005fd70fc&vjs=3
+2023-08-24 09:27:43, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=16a11a84b7d32e08&fccid=e20375c31904aa86&vjs=3
+2023-08-24 09:27:49, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7117c15206eaedb8&fccid=3e8810aa220c3441&vjs=3
+2023-08-24 09:27:56, Daten wurden gezogen: https://de.indeed.com/company/Adler-Modem%C3%A4rkte-AG/jobs/Data-Specialist-cb43db724b7d9fe2?fccid=198c54baf6eacdf9&vjs=3
+2023-08-24 09:28:02, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d31e0da079368b80&fccid=261ac50f439ebf2c&vjs=3
+2023-08-24 09:28:04, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CwKJxL8gbd_rhPf5fvISFez4Gp-ZerJZCc7cEyyH7PcSWPosMfHlNlUVE40vMea7yzAJqzVLbMFz8IIuBfqDiq356DOvrcDNt7iYqFZVs43OqNm36P7uYhLzPh_lEfr1ShQV5qr31jVq5mzvainQXio4C7FCkyWwtwzdapE9q6SkSisBpRQSqlzUCwpeM-dajIawOKIcQg_6JTX9f-rR9yoMYTeG_js2VZU0SKPJG6WCGebD-CXY5_YT-BlLiMtfLjVhjXpZ-9LdAn6EhP5Vs5j9SCj8jNG0hFxglYcSzH8UH0Xb2gKxSxKFWcpgGOfFz7Bmf9WpVAbJ0_tkhhOxP4PcMu_q9c7fM0DauK8E0bOs0eWP1_vgp15qSkWH5A8uciFaIsspqaW6X5Zlc7z3XPqVtbMDuD5umlt23yv-VbV8CPKh-Yh02rSPmNodwIoqUXlo-pCQQwnsS06iqxOlBosCuG50XZmPHjY7O2vA1APX-ng2NY3G-CkoYXUPk9VAcrCXpxTIVDU6z70O3WF5LKrQ3wjwBt0P9KO_c9FTHqzYEZF1SAvM4fvKhD9tEXUxg=&xkcb=SoDd-_M3LTFubTQI7B0EbzkdCdPP&p=14&fvj=1&vjs=3
+2023-08-24 09:28:11, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f007db1bfb3c9c13&fccid=ccf155b8e5eb4bf8&vjs=3
+2023-08-24 09:28:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0d1d02b83501d6d1&fccid=00cf9d7cf01ff0dc&vjs=3
+2023-08-24 09:28:19, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c443510183d3effb&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-24 09:28:27, Daten wurden gezogen: https://de.indeed.com/company/Sharp-Brains-Ltd/jobs/Desktop-Support-Technician-fd5c62d299944df4?fccid=ec7a9d23196ef905&vjs=3
+2023-08-24 09:28:32, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=cc904b4eaf6129de&fccid=7dc8be9efe945d3a&vjs=3
+2023-08-24 09:28:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d0612f9e6c62c4fb&fccid=c35194d01a9e2595&vjs=3
+2023-08-24 09:28:43, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ea76bc08a33fbfd2&fccid=b953fe155b813516&vjs=3
+2023-08-24 09:28:49, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=011455897d193b70&fccid=006f06510235b2e2&vjs=3
+2023-08-24 09:28:55, Abfrage abgebrochen !!!
+2023-08-24 09:28:55, Abfrage beendet
+2023-08-24 09:28:58, Browser geschlossen
+2023-08-24 09:28:59, Es wurden 71 Daten von Indeed hinzugefügt
+2023-08-27 14:03:39, suche nach Data Analyst
+2023-08-27 14:03:42, Browser geoeffnet
+2023-08-27 14:04:15, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-27 14:04:15, link liste erstellt
+2023-08-27 14:04:16, 59180 in der datenbak bereits vorhanden
+2023-08-27 14:04:17, Abfrage begonnen
+2023-08-27 14:04:18, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8c75728f73d7349d&fccid=de38a3052d8aef2b&vjs=3
+2023-08-27 14:04:24, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6c55182b315bdd0a&fccid=963f2edbf71c4b4d&vjs=3
+2023-08-27 14:04:27, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a4f7f0a7d3894aed&fccid=f229b354f5d64873&vjs=3
+2023-08-27 14:04:33, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8ef7316e63a0e684&fccid=5bcd1ef0a7f4fb99&vjs=3
+2023-08-27 14:04:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=53426e7bf2616ce6&fccid=ae9756cedf0d1fd3&vjs=3
+2023-08-27 14:04:44, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=9d47e49580f1e7d6&fccid=c21abee0de715f4a&vjs=3
+2023-08-27 14:04:48, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5b66967d970f1fe2&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:04:50, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ebb25eb916cc3c0b&fccid=5ab70f51dab71955&vjs=3
+2023-08-27 14:04:57, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7ebfd6edacdd957f&fccid=b4b82804159877f2&vjs=3
+2023-08-27 14:05:02, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=1d224fb46ff30961&fccid=dd616958bd9ddc12&vjs=3
+2023-08-27 14:05:07, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c713755932645e51&fccid=374d720d3973ca1c&vjs=3
+2023-08-27 14:05:11, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=03c851461983aa93&fccid=7a819ef2fd9cd7d6&vjs=3
+2023-08-27 14:05:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=502155e493875a0b&fccid=1544766d4c2915b0&vjs=3
+2023-08-27 14:05:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=00d081e835c17364&fccid=006f06510235b2e2&vjs=3
+2023-08-27 14:05:23, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=75f46c28c0c7fabf&fccid=339fb9140adc6b4f&vjs=3
+2023-08-27 14:05:29, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ef6b5d6e8eda284e&fccid=e4d7fdf22349b022&vjs=3
+2023-08-27 14:05:35, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6942d5cb1d8d6291&fccid=f31d7d57c5eed6e6&vjs=3
+2023-08-27 14:05:40, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=1085abe5f9a67405&fccid=d29c5f56235af7ca&vjs=3
+2023-08-27 14:05:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=78aa3ddd34d59584&fccid=91e1dcd557e0b8f5&vjs=3
+2023-08-27 14:05:50, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=94407749a2d1a2fe&fccid=f81ac8442ab91d20&vjs=3
+2023-08-27 14:05:56, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=cca232909b356035&fccid=67799ed964b1ef1f&vjs=3
+2023-08-27 14:06:04, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8d6a62ee836742fb&fccid=7a819ef2fd9cd7d6&vjs=3
+2023-08-27 14:06:12, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2f2f40422ea90479&fccid=15d4863b88e7f298&vjs=3
+2023-08-27 14:06:16, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=47dc7e312147dbbf&fccid=0dfd454cfb013c51&vjs=3
+2023-08-27 14:06:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6e395bb3a193e215&fccid=ea6bb53f0b18b8f2&vjs=3
+2023-08-27 14:06:27, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=9c54564e58934035&fccid=f8b265243da9f9d7&vjs=3
+2023-08-27 14:06:30, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c0d24dab2465c81a&fccid=56df4cecaba9f4d0&vjs=3
+2023-08-27 14:06:36, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2a85fe62f34285d3&fccid=cf60b0e606708831&vjs=3
+2023-08-27 14:06:40, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=1d90d6669d72fa45&fccid=7442885bc0fa7c14&vjs=3
+2023-08-27 14:06:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=df3672336676030f&fccid=5a4270cf6805450b&vjs=3
+2023-08-27 14:06:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d58129a538c348e6&fccid=59b59845934ae288&vjs=3
+2023-08-27 14:07:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ed16a25f724c64dc&fccid=8d7a01028a9bff6a&vjs=3
+2023-08-27 14:07:07, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a1c58a29f3d98a4a&fccid=4b841d912d46e4fd&vjs=3
+2023-08-27 14:07:12, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ce83180f49baa7be&fccid=85cf654463829360&vjs=3
+2023-08-27 14:07:19, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=9af399af3d7a483f&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:07:25, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=dc2aa9937017996b&fccid=bbc617720a982315&vjs=3
+2023-08-27 14:07:29, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f8f8dacbb34722cc&fccid=49a77b2ee868472d&vjs=3
+2023-08-27 14:07:35, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=05775b6cec501563&fccid=e3b1a9cf6208df00&vjs=3
+2023-08-27 14:07:40, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=068e6018b2a9342d&fccid=01bb9926411ba157&vjs=3
+2023-08-27 14:07:44, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=1dec00650ffbf72e&fccid=2d0740e02e80cf22&vjs=3
+2023-08-27 14:07:49, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=fe20b684b99ebde0&fccid=4dbb53e232c41877&vjs=3
+2023-08-27 14:07:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8bb6918c38e25c14&fccid=5d3ed74ca4598964&vjs=3
+2023-08-27 14:08:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c3c75ba4d56b3c40&fccid=0c39fb2c91742dcf&vjs=3
+2023-08-27 14:08:07, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A5OspAwuJFw_vvJ1kmDCwQt1dGN1svIA7DmL5RoURsBW4TQaDMKLIdS9YRhnovpYtQ1jHXLSKdk5drO66nJtGz97oBJarAshaJWeR0o8vsu_ZPWbavj_ts0J9gBkkzWK96Pc39fAy2z_PkYbuxHVsepBNlX1n-6Z_wsBNgBMdGGzUcG-X5y2qpJqmuFTvsH-0_qYMjpXipVDpnKvtNnYr62JuvCUHWc3aMaJFicIgLSac8_XXyQfmEUpoDjk_iUh9GdlWsduae8awBk5LmC5BZXUl8peTkrlPvO4M3bzGrCIj5PM44wv5tW8KpjSWg-DezFtCorwkbBvQsNI-L76MF59fX5C97T7gEqLcyOoeZYci91KowVjry_vdowOhhHJulQF-GS9-k3HMoy2Icc8W0VtxwlEDKlbJwzrXuSta7_TLcC0R7aOwlw8Ye_lzkldp5GnbmbzzyMUhX2dtTxRNb3TtHvVGVJnb7HdrKEu93P47dtcUqmsrY_Hk2Yhw9apnRV4huwlvoy9JWjWEE41Sq1KX1zQpndw18rqfNSWfh4vnkLCqismXz1LK5Yo_s4m3G1X8wULp0CTDCygy03Xtaf39YNKIuv8AuewZa00-BKg==&xkcb=SoCj-_M3LbUHyHWMGp0BbzkdCdPP&p=10&fvj=1&vjs=3
+2023-08-27 14:08:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=79a7da0a2cec702c&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:08:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3302148640adb9bc&fccid=963f2edbf71c4b4d&vjs=3
+2023-08-27 14:08:27, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=7089ca5ce716fed5&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:08:34, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5925e4cd13a1a995&fccid=f068b97f8e0ae17a&vjs=3
+2023-08-27 14:08:38, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=adbf6680c44582ed&fccid=9514e4bb9d86329e&vjs=3
+2023-08-27 14:08:43, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5e160255b7221382&fccid=f229b354f5d64873&vjs=3
+2023-08-27 14:08:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=371aa12ab39862d6&fccid=1ca12de3f4ef5d70&vjs=3
+2023-08-27 14:08:50, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=13190aa66c35fc1c&fccid=a23b36e1d6d2d53f&vjs=3
+2023-08-27 14:08:58, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=1321b129dfdb77fe&fccid=d576b5b1f45626a0&vjs=3
+2023-08-27 14:09:02, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=c884dd33afdd4765&fccid=b7505b3fcef72635&vjs=3
+2023-08-27 14:09:09, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=28b5e4ba4f7760b8&fccid=6f8339707b2d6538&vjs=3
+2023-08-27 14:09:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=98f0175d31cc3d9a&fccid=56f6094a15f4c7d1&vjs=3
+2023-08-27 14:09:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f1f8f9611d3b7e2d&fccid=1b5ab8def75ec247&vjs=3
+2023-08-27 14:09:28, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=09a789bafd0a8427&fccid=56df4cecaba9f4d0&vjs=3
+2023-08-27 14:09:35, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5461c7e48934a672&fccid=dafe308e2df58db6&vjs=3
+2023-08-27 14:09:40, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=01f977c1e5952b14&fccid=87504fc6fa414982&vjs=3
+2023-08-27 14:09:44, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b1532a5c0510b9f1&fccid=5aecff49966a6ffd&vjs=3
+2023-08-27 14:09:50, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=95f3e3e17122a97d&fccid=e20375c31904aa86&vjs=3
+2023-08-27 14:09:57, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a23afabb3a2fc6d2&fccid=4e041af1d0af1bc8&vjs=3
+2023-08-27 14:10:02, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d53f8b67ddef8174&fccid=b870ab1cea3ac3b0&vjs=3
+2023-08-27 14:10:08, Daten wurden gezogen: https://de.indeed.com/rc/clk?cmp=Zertificon-Solutions-GmbH-%2F-PRIVAT&ti=Junior+Data+Analyst&jk=915cad1f96dd24ef&fccid=d96bda6a53cf19b9&vjs=3
+2023-08-27 14:10:16, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b9d4e7d4ffe22a34&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:10:24, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=afaf254e8db6e1c3&fccid=951747f6f8df331c&vjs=3
+2023-08-27 14:10:33, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6f80576f45f4b6ef&fccid=766625bc6522eb8c&vjs=3
+2023-08-27 14:10:39, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a4e310752ef8f5b1&fccid=8190723d61783d46&vjs=3
+2023-08-27 14:10:42, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=4babe606b226d7ee&fccid=418e6aa26d41079e&vjs=3
+2023-08-27 14:10:50, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=50a8774804ab85c7&fccid=4e041af1d0af1bc8&vjs=3
+2023-08-27 14:10:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b265edd2a2ad4ad8&fccid=963f2edbf71c4b4d&vjs=3
+2023-08-27 14:11:01, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d63fd0211551be15&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:11:06, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=950cf2ec286a80a1&fccid=003656df63cede32&vjs=3
+2023-08-27 14:11:13, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=dddb1d6c8154b58e&fccid=1f7e14ba0bdc598f&vjs=3
+2023-08-27 14:11:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0c33fac8a7c9e21f&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-27 14:11:22, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=acfc019c2670fbee&fccid=5728bb77c59e185b&vjs=3
+2023-08-27 14:11:25, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a0468c4838fc5cd3&fccid=a23b36e1d6d2d53f&vjs=3
+2023-08-27 14:11:31, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=11d06367ef3febd9&fccid=55e246035f02c566&vjs=3
+2023-08-27 14:11:38, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3f65bb9014d532d3&fccid=a1cb3c12346f9ff3&vjs=3
+2023-08-27 14:11:44, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=816e8fbac350f00f&fccid=dc2461d1b5b47511&vjs=3
+2023-08-27 14:11:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=9c83dd5818ca50e0&fccid=0c39fb2c91742dcf&vjs=3
+2023-08-27 14:11:52, Daten wurden gezogen: https://de.indeed.com/company/Scoobe3D-GmbH/jobs/Intern-562478bfeaeedec1?fccid=99f2d37422d602e4&vjs=3
+2023-08-27 14:11:56, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=5f83c7b659546d13&fccid=13e8120fafd02c96&vjs=3
+2023-08-27 14:12:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=17002e25ec3ab60c&fccid=24d2bacb9e5b24ee&vjs=3
+2023-08-27 14:12:06, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=75bcb43d37c33f16&fccid=b7505b3fcef72635&vjs=3
+2023-08-27 14:12:09, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=ee0c442ce37176e4&fccid=8826e2e2fafaa05c&vjs=3
+2023-08-27 14:12:13, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f73fca329adc5d6c&fccid=fe641d006172a34e&vjs=3
+2023-08-27 14:12:20, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0ad71a41b4bb6511&fccid=963f2edbf71c4b4d&vjs=3
+2023-08-27 14:12:24, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=3f85a6857f0f176b&fccid=4b511dcd795ee3d3&vjs=3
+2023-08-27 14:12:31, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0da42c85f599747c&fccid=b4048be2884af072&vjs=3
+2023-08-27 14:12:38, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=968f5b65b090def1&fccid=8765a4045377753a&vjs=3
+2023-08-27 14:12:41, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=857a40fa73055fb6&fccid=22ec6ef3cc441ac2&vjs=3
+2023-08-27 14:12:43, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0258d26fcb3bec30&fccid=1b866506aec22461&vjs=3
+2023-08-27 14:12:52, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=af4d7479325b18ec&fccid=666575b57e3c99ce&vjs=3
+2023-08-27 14:13:01, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=cdbcabb18ab18e3c&fccid=3c604cde8304333c&vjs=3
+2023-08-27 14:13:07, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=e8ad3d63e7d8c9c5&fccid=b27002481490d89f&vjs=3
+2023-08-27 14:13:13, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A6ogdi6n_iiXzujCQ_RIpdW1Dy1ZvEY8aat_7Ldc4r_xEgCKm0rlcdiPKDN1HoFj2ANJYB02mqpez24w_9irKJFpssIre4EiPnJvzR9lIUz6_9jR5QbEHLs3bY6YnWPf9XN5VAMeVq54xARVyq0ZTuvjBlEMpjpSEV2oTnc-SHkqhR7MTp_I_oTxWTNoBI93Fuw8L9yVCFtUoGPMWINCtebNRrvWEJoOqdoBMH4xrWoECYOVPSx8aSVGn1BOlfJFXVSgf2s-CaIr262x3FYL-k1St4py8q50w9aT6NfjkvEUwnbnD0Dc5hZjLirGzn5coWexNl7Sab7NCRjN_DEU163hwb4CDX81tfoRgqao4oJlcJkdg77H5zkMP3d1eHqEhwmkwbR44YM7GC_7XZYY4XUfbY8b7TMFy1GyY8YLfT1lB4TJRrDm0z4kqFmJ5HLjB_H07aJiKdAs-2_sZrxM1dcZlKx6Yudyd0nuHGMQcdbs26AQ92HQMwvf94RGWxsZp2cayO62x4QRtdq3RPmZ0GENDJrg9rsaB5tGGZvgWK2idmUGPAAbA-BaX7m2sgKbNr98uNEeWGVp11rXzJGwwNX-SidQAgD9LUBzFzlSR1rqcjzLaRcRMgF3fLzJPbzVixIgvJyL3410marUfo3C9TJQn75y20FwirVmuHtltqq-HmtfU5OO0rA5MM5yL_hGCBDitIODUKWxM2LC-logrOf8Vngnnh1tTPgijO27aHx4wOy_DtyO63jGr0QtvjP4AdaNFlqE3FN7kwkBpCgjGpUfDP9HizrifyV0eOsto4mCYOaiVw5vSlY3EllB-1Wfe4mhEOI1N5tImpNnDLTIEsenzUZcsecvT6NFHy7J4wsIpLBgLq_9QC2mtLLFeWi5rZ15TKhWVBU_kSP36cTqnlZZPI8MZ74DxNyL5fmBL7WXlmeS5OZqqNjJpayihHBj1aZvB7dpIooA==&xkcb=SoAt-_M3LbUIY3QHpB0LbzkdCdPP&p=0&fvj=1&vjs=3
+2023-08-27 14:13:15, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8d5826ae986b0104&fccid=d0409e1cb5641b2c&vjs=3
+2023-08-27 14:13:24, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BpR_GSSQuMqTS8-S4VzYLSWN5oKm_J9YpjC-YSfVPLKbMTZhfU009SwIanjABAzX0FfhQpOraE_9dF1p2pGGQTSG77s3XLtrYdcng3tYzAHEolpxFpewZJ2ehOjrxoDPOF1zSvVfbngcZ5eXrIocmSoafOMYY29vhtVvaucp4hZtCvwZDiOA86Dj7xccoXNKph8ytFLaX8BpgOo6rIDTDkA3AJmlqiaOJEDcdhAeH-KgQbhzHPaemm2uOOHDBRmyyQ72xtaYmPjxJ_n9EErB2QAllKZTotBFosRnb0c8_Na258Tij1W2n0Y9f4OZSj6Ha0kqd_HPQiHRVCxu78O56voX6c1ZNGXJ_3GN1NrHFEsyc33rrytekDOu4Z3GOpGjvPWt2Tnylz5SJpQJsq1SRfAUY4duWboglbD2yXDM6SoGFOcoaZ28UHUW5dqSY7IYCSPdFdbJTRNiYgplfrQrtNQ5EpNXJuTYiAGGH8m-pIalEWHr253a-9MWk6O5WIbs-fykdTnE0Au-3rjokwWcdFwF1LTai_yvkJ2EbzCigc5h1R_bExxpUmpnCP1-J25VaBmqgweXHpBPRviFImLN4I0VJyi9jeI5p5j4-5we1cOgw_ww_wV9sRPidIXohS8RDfH-xXVuOuL-n_vNbpuT1LytJmTbl5akeL1TfgFQcsxxMRj9UkuOfD3lD30YwUH7c2D-5_aWwL7W9UsiYtvAMfQWgzbsBC7sMKx46hY1fHl49TBLTxcN6ZLNMXHVcQWrbARMdBU9VSxQMdZ4SvT9z9li4gECR-g7a-FQ9smj_hnmiRDFsR1KqPPiDKXg00F5H0radDNY9WmbB0T8s2icKTvBIBrf-GGW6y6xrz513QE928yC0Q5Y0xLkkOGOEDsjhlsiJ22ooterReypjqozctEXnoobP14o989EcatAah6AdJ46aGgHojYuj8GlxVh5YjOJFRvMbMaxNHD_HQ_8N15HdIw4CeKWoIfki57nI9AAiMCiiTLZtyTnQam7wr1HyEhW2mqiZvE3Du752FtONrrWzYx7LBv5NFFA-E4tQ30KBa3LNvbe3A_-Yic35bohc2EVesDyOY2g==&xkcb=SoCo-_M3LbUHvnSFsJ0JbzkdCdPP&p=2&fvj=0&vjs=3
+2023-08-27 14:13:30, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=668598e6cde0d736&fccid=d0409e1cb5641b2c&vjs=3
+2023-08-27 14:13:36, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=41c179badbad6f95&fccid=f8b265243da9f9d7&vjs=3
+2023-08-27 14:13:43, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BM_vtDWRoLLHXg0AhBzztJ2TrJIbvgh_R6w-2Lu7IKEdcFgGHpQKf14PsoushpJA0vEik-2mB1tnCgZ0EAijyzTbQltgVY5icP9d89Hz86E-BgI8pSsmYuZmgY0XxZgDG_Cfln2Auh5syZuF7OYYwWUy0HlWiWOC21_IhogL3HbiI-613pruyDUjul1DZ5d4wePYHSx1DyQnf9yWu1UWxdVwXAeRamb08miIVwqJ_mb8rz0Q1Y-cQNnDWdaCL1cTWhY8TB7ZeKJ5mBdGIDCeqwJpBt7BTsOiyEaYCHr45N-PXG57MKt7nhIXw8FLI3n_sP5Myqf17OGZUCXh81mj6xFtNVvBsgX-VhUfj5mbJJe1WxEqpLFPdKwFBF7sAQLrNf_rQLXSJ9kIAJfrcP6sn4ju3_70xBtV8iAOWJIp7iCLPKGkeosYxjouiBouaYAFxvXTDxZ2LtSQ-MbGV2p8GlOUKbmPQy6No7fJD05KtLw4p6MXiBxQGm1aqmLwGK0uuCknP_FL285a396IsMOEwV201S2UEObQEu_pYfysv9mZCIOsqaQ9VaFBaiEZ9OhL_W0kWuuth2IFztBqirUyO5zNQUi9u6gKQYuCkG-RlO4PgRkAdwnmeOBaty8OiouFo=&xkcb=SoCa-_M3LbUGmFWMGp0JbzkdCdPP&p=0&fvj=0&vjs=3
+2023-08-27 14:13:47, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=cbe9106979842046&fccid=e4d7fdf22349b022&vjs=3
+2023-08-27 14:13:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=b96f3e0bed475f4a&fccid=8190723d61783d46&vjs=3
+2023-08-27 14:13:58, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2c5e2db8de0cb7f0&fccid=e2257bef14ff2e7e&vjs=3
+2023-08-27 14:14:03, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AuOCSRSU7o2q-pn6A6q8qEaicsalZ2sSfL9wE1arFZ38-Heww8f1tbqoszyOKex5YwGp6aPPiAPqx7dVt7RJme8GpDATLmKCGoPfoTeRYOmcHPPKeGowyps4o12WVhhqKyjJvQvzCuBRw-qAmrZOkQM2R2r8xev_3q0NmOHMEV999_3AGZYvuPwjGq3M7CDvocVVDUJagOuMfC5qmIOCNzVCPHdO3OmBMz_6qASKY24g05YDhdyjWKAAh6Cjfh8AdMBSlmCnLYiXxiOSwAAYhFZxaq_Fyv5BGe_RVDtgwjDzpGFASLtvrn5LBSzcxL-f_qnQ0mPBTLB6GSnr9AqS3XMMGYpdfzH1poo0KHLbhaC2iQ-qz8Cnnv8S-lzaKurfWS-rDMQPclRZpbqFEbxud05EqrgQi6x2bjRbDbuec8ygmkCFO-PkHTYKC62XVr-eKDzQVe_AriOmPyyS7xiXlEPN4Udjeg9uaC-AasQP8XJxD5jx5YFp1YdW1oXfJiAbgsjKy1l6jPnJJYc7Uo2-tTejy-0kcD8nsOLh73VI-HGywpB7WhOKcOdOw2NpT1ziFA26VuZDsYFCsMjqp_qZZt1rb_9wBtN8WlvD5J9qUNbT3y0ALTQgB574ZYmVMCw7f1vQSVgadbsqwS4kdbFXetb0oxvxu_b_aIqZ4Q33Ei8jQpNq0PeGB4wEHWRvSzDiobcObObpZnuRMth8iGpZOPAs2M_-dc31I=&xkcb=SoBS-_M3LbUHvnSFsJ0CbzkdCdPP&p=9&fvj=0&vjs=3
+2023-08-27 14:14:10, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0e8f8326aada7c8f&fccid=f36d675e2036b2e5&vjs=3
+2023-08-27 14:14:18, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Cqd2ZSbh1yl-cLWaiBCytk7lRtNNoI745m33aNnxuvR5gKuCtkTIY_Heb23WMx9QaYe8x29OLkXdwKSNtaXKoqFjj6EhxPlX7o8Tal-xG5ySfjJPpa5b-ADy4ZrMkwzE7ad2Qxp8cRby9gO_b43HTAkCE0wmYcN5PpJ6o2kuOmhGRjPDCojnJ8YuqwTu9uWaawUk-M6U4Ae5ZcWLK6jZGqDkx_Vm0r11KHqKL5TwitQT4zYolEF5uVKjP3sxqvzdjUz7YUr_bFJSu0DVVimyjaf7GI2zvofysy96e8koPv9Bo0bsef-DImBDi-WHE0Ct3cTUKAzRaToPLpEdz0hDRwFQBRY2v87G5B03Nt694DpMq1HCVXh_R4Bf1HhXxDcUskob3G7Rpg0933LmWHa88bl35dyQAABNi2zRe7_8bj4C54so4VgYW0GMjBXwb2ztfoRNg-9HRDSXH6WpGi3YhewcC7QR0_Tf797XRSUnx6elgkkWH3RLzCcAWV9UCk9cyWbdI5UFGyhFrFWsbNm_42Rw019-1yP-mwakzzB3dHImTr7UH-V-UZgK1dTx0SmlKiQmKdhuC52es9YXg0zknsfBKHYt2gQbk=&xkcb=SoBJ-_M3LbUH6qSFsJ0LbzkdCdPP&p=0&fvj=1&vjs=3
+2023-08-27 14:14:23, Abfrage beendet
+2023-08-27 14:14:26, Browser geschlossen
+2023-08-27 14:14:28, Es wurden 109 Daten von Indeed hinzugefügt
+2023-08-28 09:02:43, suche nach Customer Data Analyst
+2023-08-28 09:02:48, Browser konnte nicht geoeffnet werden
+2023-08-28 09:04:33, suche nach Customer Data Analyst
+2023-08-28 09:04:37, Browser konnte nicht geoeffnet werden
+2023-08-28 09:06:53, suche nach Customer Data Analyst
+2023-08-28 09:06:58, Browser geoeffnet
+2023-08-28 09:07:42, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 09:07:42, link liste erstellt
+2023-08-28 09:07:43, 60402 in der datenbak bereits vorhanden
+2023-08-28 09:07:44, Abfrage begonnen
+2023-08-28 09:07:46, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=8df60645dc9c948c&fccid=602763420c81ee1c&vjs=3
+2023-08-28 09:07:51, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=956e8b5f1f825b42&fccid=cfa5726518e7bd19&vjs=3
+2023-08-28 09:07:56, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CRWB3M_A_xVMaQzo0kYGXZqmmgSZjEzI2Ote5kyt7B1SlQeOQXdnm7C97rQT0eJGxsyAFapnQ2Uo4RgqKMrhxYUg65U7npqVUTYTnyx2mp9KALZGJF7T_ao8jWa-z-GH01t7EYHgYfITYQkWTXzrm1g9oadC-JCnA6JLteaZthCJ7jlrICTxfG_gH_tneHXk-bPZYQiMwEgTRht-XCi1JJpUNkNc0afhyHaIs59-WT67CPpSS5EHcRb6xz09a2HfD-e6qrgcu4_i0bHD2NU6oOhJkXwBecjzPBU52zzG3febU-Lfh3n7gveanEoe-FYouj4M6Qc5UYJMa5DT34WhY3boIVmRBmJQAYfzN6cEfKrJ4VUHdukHUf9czT2K1lgC_JYI9VnWZF0Cwuf5QVHQvCsrZoW4bNw-MwwaAA7nsZqKuJZX4a-HG32DQAHj0IrWR1di98AL8XFHF7vCRHZkTggj7JS-sHWOmdyLx1-qjEhJitPQu0t3sfuGFMLmADnfDaG3NnzKA0GHpm2cYmgEJRV58KrFlqpRSIbjgee0xLzUhkzJtS2BomBxhheUlKl44JRuVAZ-eL6bhP5EkWI3hI2xK7lz6LjDk=&xkcb=SoBq-_M3LdWw8hwHmJ0JbzkdCdPP&p=2&fvj=0&vjs=3
+2023-08-28 09:08:04, Abfrage abgebrochen !!!
+2023-08-28 09:08:04, Abfrage beendet
+2023-08-28 09:08:07, Browser geschlossen
+2023-08-28 09:08:07, Es wurden 3 Daten von Indeed hinzugefügt
+2023-08-28 09:08:12, suche nach Data Analyst
+2023-08-28 09:08:15, Browser geoeffnet
+2023-08-28 09:08:54, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 09:08:54, link liste erstellt
+2023-08-28 09:08:55, 60405 in der datenbak bereits vorhanden
+2023-08-28 09:08:55, Abfrage begonnen
+2023-08-28 09:08:59, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AlIKbc9Tyx4vJU4OHNoRRKFBhWOkjwDbNPY3SF0FUuuU3Cm_OrymjHjKjFD9zU70bsgodyklS9ssXHQtbpNlh9c1kJlU21dORwLfclJlkf_FCFESW_jH8nqyFB5tNrQI8UCcKAX1leVM-lW6umuvUcwlFXkmcVXRzbQbN9UMPlW234Nq3Cum57NjFya8Ixj-Z0h0XwZJC8xBQVDxU1E6G6-uP6h_ufmVeiChCt9Ivwrti_pkc4p8IPfVbtCfxrVP4SRkaffKHWbcI6RG3SwmQHxizwbPZsLsfxiQxPdPm481epO2DNqrsgQ9f7Yblu2c73hPvlRusppV-nhWdU285Bigrl3puL04axutXZqZj_hzwx4AvW9gLo6LRIEkPcEm4b0cXsnI4FdCy0_UqrBhD3x4WisfSba79JPi_-GdK1uv0V6O0q_6legZB16IsSuiZ1qJ81LFjw7FcvSdDhO124llzEO2-vKRf5p_6kt76J8srleH_ITvJOFPxCkErH4iPAppjtBO4N1gye2Zy34Zb8bMakKDSkCSs70h8V7DuFUZWheboAt-X5FRQEh0ojTPjSo1rDHgyE04pmaele2xe2bF5JBPE82GaGYgsOdfYcUA==&xkcb=SoDz-_M3LdXH8Nx9GJ0IbzkdCdPP&p=2&fvj=1&vjs=3
+2023-08-28 09:09:07, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=45091e626afced61&fccid=417646b6892d29ef&vjs=3
+2023-08-28 09:09:12, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=0028cf386c3f6f54&fccid=32ceca6d2959e6c3&vjs=3
+2023-08-28 09:09:17, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=dd1c9ea2d108eb7f&fccid=a23b36e1d6d2d53f&vjs=3
+2023-08-28 09:09:20, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Cqd2ZSbh1yl-cLWaiBCytk7lRtNNoI745m33aNnxuvR5gKuCtkTIY_Heb23WMx9QaYe8x29OLkXdwKSNtaXKoqFjj6EhxPlX7o8Tal-xG5ySfjJPpa5b-ADy4ZrMkwzE7ad2Qxp8cRby9gO_b43HTAkCE0wmYcN5PpJ6o2kuOmhGRjPDCojnJ8YuqwTu9uWaawUk-M6U4Ae0Gv0X5vdDINinGVhfkWh1vAwdEUQq6K4isjnr2P3RGsEYD_zxbzqe0TgE8Ge2dcBsU7lNjTHK8YG0F49Uqnn5VPFUpC8g8xm4nVXMMKVBzuR8I7lQRZcxpmWYxJxuv_BbX44QxwmkpITRh5eCCj4KCeU4J4n0isDJIAc26W7nCLJGeZN1f0aEK6YKJztHrnR1BT2O0pOUVfI1CykOHTPrxLbWRYHvG3mVsoE3PWEXX4-D6Mt5KtVO5iuAkDV8LrSgtry3g7Z2wgQWANwml5EeKiSXnfPABQsbv7xxhqdY--7JQME7fRpUEur0ZzLCMJ3IWMrHsuzxlWdjGN1yQWWmjwAf_eUdqhKC7wr1v2iHFgPKEkWmzAm5UdLwUIspm6xInRlWyUGw9kuF-99NBCSC0=&xkcb=SoCA-_M3LdXI7Zx9JB0NbzkdCdPP&p=6&fvj=1&vjs=3
+2023-08-28 09:09:24, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=58f08d4705b89283&fccid=eaa4aba90b501609&vjs=3
+2023-08-28 09:09:33, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=6dc112a63efec2e2&fccid=286504d52a575665&vjs=3
+2023-08-28 09:09:40, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AlIKbc9Tyx4vJU4OHNoRRKFBhWOkjwDbNPY3SF0FUuuU3Cm_OrymjHjKjFD9zU70bsgodyklS9stmPseKfxztUqFwveUzhV_46rloNj4zNAhUbbr35G-GrxYphHVSZQrcJTfC9xq6mrBzM8fnyW-k7NNjfV9OD7X5csKAmQKsJIiUUG0fplk0UqB21k9_aPdZhnCfQSmlDNvrNx3HeW8Y6vbJoNUIDXb-YLA23Y-UMp3EwGj2kREFwG7KjRfIzkz1qCxd-aIar_pbnNGOReX4CI-ZbDVDriCcbRSiIEKiMM6R9ml8DCa1utwf2f_bIqiBG5n_RlNlxYSQ_hI3X4QkWm83Kxs-Fu_gKMA6z7xqXz8-4c7LblAJYxzX-51eLOPbRwSHnahdhgJY84Iq9525UUpe5Vwe5TB5-G50rBXH0p6fG1Z3G5akVErBtVOcGFNaG2hfTG9JnFzBUKVGhbrMKCxIzaSiXyLyNdmOaM1QDE2PGfNwz3Ci2o2pEdhLyucodEbeMXxWpFBab-Lf38bk52IWDiXIjte8uME7VGn3XWaSiVFiWfrM41TAN9L3plt9uIJbZfDZF2kBEWEaD2dZ9d9K7ci2Cnh4SJ5DF5GKeYg==&xkcb=SoB9-_M3LdXH8Nx9GJ0PbzkdCdPP&p=3&fvj=1&vjs=3
+2023-08-28 09:09:46, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CRWB3M_A_xVMaQzo0kYGXZqmmgSZjEzI2Ote5kyt7B1SlQeOQXdnm7C97rQT0eJGxsyAFapnQ2Uo4RgqKMrhxYUg65U7npqVUTYTnyx2mp9KALZGJF7T_ao8jWa-z-GH01t7EYHgYfITYQkWTXzrm1g9oadC-JCnAxXNRf2yrEQvbiI6G-rEYvmzjk8bIq6pLMNAm3dSwAIlpKVJhw2nRqW0C_gOvGbIpC10uAm0bwpTBPf6v30k8UL2KFrfnt6-ZbOK6dKSG07zpEb0PuAZQXE3PDNBn7BWT3dVT-6duhlsd5SWpHDDajwkcBF27G3l-aCnY9Gee6WyvRmXAWNyoBgvRPRuSIfaaqB38yoIsiAIMY7p8LHGQmcC1ZIPlyUhkspfnSOfokFbbJzRD8O1djK9Zu99N1OKIszAcCDhIHwqNsDqfvrJqVkNqAXF9yG0KrTXwLm8wee8pfQ8tyzkP6JTgbhTPW_jJGS8G7GqhbRFc23dPuWs6KFk5bLmEKildorg0V9HmgJnz_pkKThqVYpDlFyr4nUh6vhAiovdejdXF0tmPttX3_DKNCaZ1O3zPqaBgCQvRaGJKiXwPJ1lU7pnoBIQa9QGo=&xkcb=SoBF-_M3LdXGFHSS050FbzkdCdPP&p=14&fvj=0&vjs=3
+2023-08-28 09:09:54, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=14a0b96b30fe7a38&fccid=0a69746d5e1c76c1&vjs=3
+2023-08-28 09:10:00, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=fd4b11d10ad34eaa&fccid=96422bd303e98c84&vjs=3
+2023-08-28 09:10:05, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C8DhssTksZ4tAWhh8LVIFF2qionQVVpONm6qYGpiaOiXgUd5OxlJfCzfxl1Mf4_v8LRQLeUcAHBG9kBi8kbGzT_ohwA0X3ju3SOSy7JdTcAGlUOngoRFgJ8oP4hupb1VstZGsTC-U5KwgvvUFlTGelCal2Dl8frKyTdoXQBjC0EL-9SknaUIyzSh_CYDAa9egO9zjME8tvaR7wKNKOkrPKlhggv1vvbQtR-I3ZMfz0yEs_EIyZN4ukIOdSxMjMSm3TVveqikQNAu6rTmIPQD3WI76sYbdg_YMlLzYrKNJZOeNWKAApouc8-QIw2wSE0KeFlV_vz_qWfBMipp8-PmAYUHv5p-L69nMR_s65UboDEQsLKJv7uNcZ8HGTiaNszLPaa5gQQbfWH_6qSj9EdSCxaqfxrR0pAbkxTX4aTsoQuCuD-1Ax7l4lPBPqbx-SnRyaHhH6B5-bsT0FuDyS2BMPihoZYbxM8kqvzseibLvhuAd3FTUAnk2pBb5XoiMl1eys1kXAUF00mIXFy84emey9c_jzm3OlSGyun9OfIoaGUlPtwZNVGO-EqjniGszCJbOe7DLFV-JawLID009MxWY9_KtNZZqAmaQn3sOv7drnL7yQKZGyfwvcRwQyfSr8jezd_6reH30noCL8Z8DM-AU6FfniTMnj7bO7y_ddfGsm-dEokncNbmDrg7g3uRx_b_bQ0EkfTlfAV4MM1zUMwUo8oUIL78mLwsc=&xkcb=SoBK-_M3LdXHesAChL0GbzkdCdPP&p=13&fvj=0&vjs=3
+2023-08-28 09:10:11, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=05bcadcdb10450c0&fccid=e34849f295d198ad&vjs=3
+2023-08-28 09:10:16, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AuOCSRSU7o2q-pn6A6q8qEaicsalZ2sSfL9wE1arFZ38-Heww8f1tbqoszyOKex5YwGp6aPPiAPqx7dVt7RJme8GpDATLmKCGoPfoTeRYOmcHPPKeGowyps4o12WVhhqKyjJvQvzCuBRw-qAmrZOkQM2R2r8xev_1okicP_aUvy4cmXqFd9M__PCY2pgTS-jduA1L8PlTIWdn8NLUO51fTn8PqdAMgushjK1LsEC3P4w4DcYsFS7fmFkcxTWM2UDDqM2oBqqhpY-7RNTvn-VDDIXFdwX5mKrfLI20oIJ4yXap6R1v1DGQ4ynx4PTuuyW7Inu42JYIn8_-5sDqSm8n-hctKrs25VbFifYqO6auNM-z4t0HDChcBp2jHTGcFFWq6maAIRtgLwS2fZoP2LkJ75h23OWFMzupkI3FEHssVUbAxmFLlAK8Y19E2TS5eUuE6mzVIApEXBWHe8A1xDU1V4u134W2fk4eeav6Zp-oRFYq5-2Y6hLSF0iBHbWU-mxNWwscruPFzyy-Sw4KWcz4-xgllU-svWa-Qp26V20LGVhSxlAWRYIAhYWR56PsBAuM_OWxVzijkhtxCUvQHmC_MDPATacMxSOaE_A9r7qPxkOH51vM1I8IoZjDHsxTlzca02Xh50g3L2iuV88t6vPbsR09H5AmDeTG15-5spiue97TWRuNZwcaJUx_Ruoj5UG5zTlKsrtkzQ9JjhISZKpvM2Cl4Dz52Pm8=&xkcb=SoDJ-_M3LdXH8Nx9GJ0ObzkdCdPP&p=4&fvj=0&vjs=3
+2023-08-28 09:10:26, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BpR_GSSQuMqTS8-S4VzYLSWN5oKm_J9YpjC-YSfVPLKbMTZhfU009S9zZ_bJVPOwqcY38nFgwXWVzxsHy62_enjf083x9dpeaq8hPxAEwUW7jvNFMHMy81UobQ3feQZF2-dMbYrzHM_bJPrtXnaHYvU77SYfc-uq0lKGrGJOq5ajHnRVS70s_h00c9aQg_fhw4DAFptA8o5VT1Lj3q7tg57F21a_to6WlsD24Ey2Q2Z8cAuMK_TPIC8go43pQU7jfUkNtfyuJd1pFbk7ZQT53AFipTPxt2i2MZQOpiR8BXdIZK9ycfW6jalUxWAmmWMjC3pCJ7tgcFrlxKgepZqQr5oczDo0sBWxDCf8nYMc7YV5n_duJ-y_0ITW2ZqHiEOI4pUVsS8S9-gXMUIuN0KVYNCOzDXQIa2RseAmhy0RFMkpYPvCzffENveILdv4DgJEIhc1Iq7XadfAatLFaY6UR8GDnT0y-_1wkwfy_dBEmyRma4AobEphXmg_nQSlcrdXNynK4d0NRkGjM0LyQjcpS7BZwEBz9QLFRxil-emWmoUaWQ5HrsdC9YaPqmumji79XlixiwTWgvVWJneClGOU_B5lAdfK1B43ZAEz5y43D8TFm2_-BUObirf04c_KIYWcGYwZVzr8cgpjlw-VplsKxr7YcnwG6o9I-5Mtu-FbBmNIVGtDs-2IzHqIT4FCvEt0-bwNvZQs7XGMA3ss6ziD7imXn1cTV0pAnPq1Kw2urUG3Ol__gBnuCJwsb_WPZEgbWAa0-EC0Y9r7mYRiu7bvq3PWegII5KmMjeklJ1E2k8EnSmSVTTzfzyzfSmwPriMp-1B7x9xDn-C6emNM9cUcdtzRgERBWj20c79IsYVtASdcXP3PFoI2Mv-Ca3tujDtt0dCAm-qQ2K478IyMde3aysgH109fBskYGhtg4GyZTUafe8NbvxzBYuItUISgNe_nMrFJUPFPRqFHrMXY2_9yeK5uwpa9eNffU1uth0YguY1p2wlXxx9Su1-gqf5qv1eCjRx1oQ9I_g_JpvTgHxkoQk2fVx0gYp1vIyex95abTlCeQ8eT8IHDqBM585CD2iBxEgQe1YVyMD9A==&xkcb=SoBH-_M3LdXH8Nx9GJ0JbzkdCdPP&p=1&fvj=0&vjs=3
+2023-08-28 09:10:35, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpABRNwjxOOibGSWtXJ-lnnMgeH3nzlhsNtggIfQZYBo2Bzsze7FNlN0ucdAfynm1kj5XZ_U8J1C2iCbwO-qvsZs3OncUpCj1XItanKfk9zqhJacedHbXhIFgrCUfOQ8bBAIQ9C_ONJPzobDjTFP-gsZpnMMmzL4QuLTtVd2VW6nxvFUNu_-PDSojE5bu3CoMGC9uEWpysib0z7JV1b-v9yqSWLGUXrmdb5QKOdwXeJ9sFjhjxb7fi0Qm35qSeZt9S2OlafLhc84WKCUGELF8SiWBQT6E0ikGzO3J8suJOzoeJa1_M4Gz3enpqcI19xPDnUKDL3GLd15NlHIAnexCoM12S66HsS98kfZPIJkzxY_ovH2R_vv2ISuGBj4UepUY3vHSZycD260F5A5CbjCD_2phR8KqPNu8qoExPV-VaD-uIol_bGs1bhUx5wQrcsGIO6FVZHoSR89yhSjs6Fz6EIUehzCnxnWtkoakx_o2lFmESnYmC34uwZDcfPpw3QVT3V_dGy4DrFWxlwgBo7fQ3ho=&xkcb=SoDg-_M3LdXH8Nx9GJ0MbzkdCdPP&p=6&fvj=0&vjs=3
+2023-08-28 09:10:42, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f61c157ef3048f35&fccid=5a888b8f0b1144c8&vjs=3
+2023-08-28 09:10:48, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpABRNwjxOOibGSWtXJ-lnnNjrni7jBNEBFmZ-5i2bBG0J1GEMsmoPXh6Aw9lTyRZ6oBDJg05772Id4R61FR-OUkysP3yeaWNmyGORmuZC8StvRfrdO90vIKGaQHdJVgN5HVn8Jf21zAYiAJrZ6vXR-nlsuBc8q3x7F0ZdIyK4NpFJOliLblgdBzsvvZqksks5MVbNmw-FlkZon8nWHaLEq7waum3LxWWZpN-2yid0OyUKpGpiBBH9kgfbNi8yB5V0riZxm-ebaND8dr2C1KbWeo3ssllAPJZve86sss3ybZNFhfAt_XEfWUufhhJch3nkvLakpXBVN8aawaboUTn2SpJT3jsfTBYwPRQaju4qRhzo3uAqnrifzFfhkZ6kjlz_v1_gWA5CG86f6cqnBqk27B8OvBzwVJblci0dwJKUzMp1WRkJaZSOoE-WcBBPEzPjBGsbdO-C1lKRXIR28uFtSUqLAdxqbval__E6n1qPzttg__2r_y20CHaal3oH-9JB_9w0QOMclsG&xkcb=SoAY-_M3LdXGFHSS050LbzkdCdPP&p=0&fvj=0&vjs=3
+2023-08-28 09:10:53, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a690e4247c909358&fccid=88904d797710d4f0&vjs=3
+2023-08-28 09:10:57, Daten wurden gezogen: https://de.indeed.com/company/Isento-GmbH---IT--Beratung-&-Services/jobs/Testautomatisierer-03a84cf525eddf39?fccid=ad2af6588c24e496&vjs=3
+2023-08-28 09:11:04, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpFG2_TTbJYsKj-IBsu_TLOh95OU7rc8qeDDjFMtt2kRjUxLSNjSnnDp7AW2BRthe2EGBCRbl4WEDXWv79msDFFnLcPaDIjv91lEa_lrq4_-p7lx-AjTolOeccS9_vM1lVy_6CqgnHLW6c4C9QganNBYlCox_j8UcmxjrvwJUl7F1OrX8CVJcAQuGf_M99xXqgr-NF3Ug3Q1jolsMyG__KqgO9MdRF4cVMaNReeTytcNU85GqL8cEC3rZ2-_p2DQwvZZZvjEi_gJQM3x2tO9ZA_F62uUf2KZgQinISg84d_Czh4DXyvJFIQNqd3btit5vgc9dGf9pTB-UwIKE9idTdiIRPAPe07xYqcaGcWpAGEdsf8OBsF5HWRpuHxZlNjNZ2AnOhQXUmekduYFytihULEXVjuU9Zw6mpYXLeyPXr5dgud-Z3931rrJqy4k6YGeI4kf4YD2fQucF60ZO577t9LbaRB3k9ADAdcHGf4h0zEy7rzszO5wMazs=&xkcb=SoBs-_M3LdXGFHSS050HbzkdCdPP&p=12&fvj=0&vjs=3
+2023-08-28 09:11:08, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=113d8401d623b483&fccid=f81ac8442ab91d20&vjs=3
+2023-08-28 09:11:11, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=4443a53f5f401a27&fccid=4c720ed4c5a01d46&vjs=3
+2023-08-28 09:11:15, Abfrage beendet
+2023-08-28 09:11:18, Browser geschlossen
+2023-08-28 09:11:18, Es wurden 23 Daten von Indeed hinzugefügt
+2023-08-28 09:11:22, suche nach Junior Data Analyst
+2023-08-28 09:11:25, Browser geoeffnet
+2023-08-28 09:12:05, Es wurden 45 Duplikate in der "Link Liste" entfernt
+2023-08-28 09:12:05, link liste erstellt
+2023-08-28 09:12:06, 60428 in der datenbak bereits vorhanden
+2023-08-28 09:12:06, Abfrage begonnen
+2023-08-28 09:12:10, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CyeJlA1XuA2xDuRUAbE6dFsRUq1h6QGsM9zu40FdXmsIV82nAO8IWg4MK7koLpXlhuBWkcMAiwCMrf0_MPUHMG84ou34BcCmjuHgo-3Qjp8ywSSsrQCKqmYNScA4RmFSEef0icqcInghBHUE1jMG4iLqVW9wR1f2HfgJO9qd7510v9DCB2T_961BPmKyhTtRKCygFqDDne5CezpzMT0O4TLGy6QsXQJVuW7bg4MzOkI7o1wlUuxAyqeofTxizTeM9jDPtlxI8TIQeRkPZw-yMpEah73cVHRPUmksVDG2UuL0zsz3id6rLdKINqn-km97Rbo4kTI6TEapR24iUiNavv_JRgGfc5FzKqIpQVEIrqkSEz7Y0oecgShbfaJf8HjNaz00k0Dli6FnZ68cSgXVSGrguGnJg2gNmzdfGK45gSPnJWqNo2netmaPGIEgjePKB0TSQXorPPAZyaEC9nzFzhiCtKmjRV686MmzG0XjsfzxgptOlY2ooIae6uqgRQKEh3RKZq89OfZeLOrDcgrE9dGNPPWW4aOEOM61PUpvFrVD5e34c7ob1Qice-6TlYRNQAFBkv-3MLXkGile0iQiDLTbYJ6Tozi4gL19quDhTWfg==&xkcb=SoDI-_M3LdXvoVgChL0JbzkdCdPP&p=2&fvj=1&vjs=3
+2023-08-28 09:12:17, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=d4f004466a94ebfe&fccid=7d597e0ff1560ff6&vjs=3
+2023-08-28 09:12:23, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=a8d1aa5dd98aae0b&fccid=55f80de6402c9e7b&vjs=3
+2023-08-28 09:12:29, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f183186ccb121995&fccid=6614fc310b2a91ee&vjs=3
+2023-08-28 09:12:35, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpABRNwjxOOibGSWtXJ-lnnMgeH3nzlhsNtggIfQZYBo2Bzsze7FNlN0ucdAfynm1kj5XZ_U8J1C2iCbwO-qvsZs3OncUpCj1XItanKfk9zqhJacedHbXhIEXgOEeJ6_OuaT1mqom5TuVPWjuxVNyWWPjkE5q1Jy8HILQKkMW1UCDrEcUG0lje971_AGYa1noMc6s2MaU84q_JxdYlVLxd3e4o2mKQQXV-PZD_LxJG3DhHzx5_KmFGEmWk4xrJw-asNZOcEG2q5krUN_G-gKy95fFArJXg5b0I-kWtQ2d1YMbbl7eG9exjGSQUFUidagwyAMAe9VJ0pU779x4MBJ_Mq2yTxhBG47yiG031a_zz8c_nHAPwUwyGo7knoZ65oN-HfbbG9j7RH9Bb2erckmFjfx0zKREYoLl0uemj8QQLlEVHB-8CmRjMHDPx1TF4LyidRpQg3END9lmphW5ULJTMuECkXJIgXtpS6oohJWrEL3y6SsE9j2D5P3SlDvJJ-EDO22agTx6EH3B0yerzYgImS7Ef5wT0zd_IRawXaznrJtx&xkcb=SoBL-_M3LdXRj4wHmJ0IbzkdCdPP&p=3&fvj=0&vjs=3
+2023-08-28 09:12:39, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CL7UC3CqcUCDqfs-g28KC7ZoQRVQ9dnnjnYdN-TEhliTpT3xtN_w0z63abcqywTSPL6Uq2Ny0klQtRz6F5kBDZbZ23CBVML0EgqUu-xmz3VVaapa8A8vVCM37iVQCJvEdxNpZ6OMOz_26RJFWlgrGx5saOr7W55wQEwPSU_LceVF3hjZmSc96ZjR8b1wNdn03FREDAVk936OkkDXu69tYak32d1cUq-uvbl_VZblh-5OpnJZJQPut9JifmHvMbYkr9Ar-EWlVBuLUVnK0Oos6GQGkiVh9NWPnhi_pkROt5TAkvHRCJUXI3X1RniBWSBPLfOpwaIP8asMrxmi90IdVuix8Kj0V6DpsTsa1tk8MiGchR3KMIlIhyO7FNB9VRBr0qU97L7yTLtt6JxxCGtSsD3hY33N4YfmCQTEA-Rn5Q2EYJ_dMQ7X3c-yrLKXLhBU2XO2FOcNSvZ3Vfon-L1GtHLpWI2POkFRQd8CbEizvTIPfQMClSRjMIZPtMiPWo8f9baXqqKW8U9wAxc68pGWNL5fLU9MBYXu0gvLgKigycDco3AkbNgU0h&xkcb=SoAe-_M3LdXv1XQHmJ0PbzkdCdPP&p=2&fvj=1&vjs=3
+2023-08-28 09:12:44, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpFG2_TTbJYsK8L4UhGml73RS8SdfZ0iDrlsh4qP09Wg_8m8j7CIca2Qm0NmBSXbcnuSl8v4UFy8BrqI0gLBP_z-UH_MPNYEmmfB8TlQVCphtbAhjcdPOdtX_JE4YxlnziDyAfRkfk9BrpOQuDJcksJf5s8pRUsVaKO_HTLotwuBizZOQY01DLFOFqCBwiaxZ0se34M_dHvdw132PGxkkgDI8XZzXfIhrs8FUUqaU7NJVQQ1TVOxOusJ0S5gnWHdZJCq58QeaR-l5xeycGvQPYPrrFU3eH9P1uKdVw9rwweID_qP2W3Md4t7V4Q-1F8s2iRnvB4l6LaNTj2_Q_ucRpjHmHcWIPHtbuiwY-JydXsXxYq_0wg5sgxfUo-lFP1hIOfCOXbFShwlkWe8CoEM6YcWKVz0B_a6gLRpAbA0fY8L2ZmRqaUHYyckoFU_eLqXxbAJ7dVNNJsAuLiSmTnSKj1S-HRyUUMccdiCvhqEZ98PJ8V2_E8XWo3t3T_6DG7bvGMHd5OgdDGky&xkcb=SoBV-_M3LdXvoVgChL0KbzkdCdPP&p=1&fvj=0&vjs=3
+2023-08-28 09:12:52, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpFG2_TTbJYsKj-IBsu_TLOiyugobqnHWIiQIVcKjX9hhHDuTIrtBhAZtJCl7Dp7l6mN-YbrwKUXgwvUYQ5s-qkce0sDTW6geFXlJ31bOV_Mc7C32g-92-tV2ycFoZhsUcIidLLz9gWlNvPAAQfadfdA7-wk-s1gTR7zRJ7QFwE2s8nwQ-Ge5t1hxfCqhIyjDqViFIyjG0RHceB_63OxwEYWkzD3RB0OPWVSc8YChlDZFH1YHgOwZjm4Rk0bCNoZVU5x-b8EVimeQWZ4WWVN7h-ivKRjoOnfsaMt6N40zRNvVTeMpebfEkmjjoJ12JGfCFPHh4F7U99v7PTp0TFcHqqLxuuEx9OQ98QRzSHuJrtUe3looUDL7obROOI-d3YwzjQubNiwWZmH5hCImKhP-Lj3Cy0bUx5_iW4vAHKOM2SuJeFDnqlsFdXhZc4zi5ZxAz7u_2Gh1sx3Xkwh0WfnMFbbj3Apw-3N1RyuORbRHfV3gLx0fnJcDEGyQCMGwvRRrNQ==&xkcb=SoDh-_M3LdXvoVgChL0LbzkdCdPP&p=0&fvj=0&vjs=3
+2023-08-28 09:12:58, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=2de6e8874eba870f&fccid=bfad4e6ec3564288&vjs=3
+2023-08-28 09:13:06, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CL7UC3CqcUCDqfs-g28KC7ZoQRVQ9dnnjnYdN-TEhliTpT3xtN_w0z63abcqywTSPL6Uq2Ny0klZVxuWbo8mo3fnQi-av3EpdGFns0q8BT_zhDDn5BoVGFdsVoOSgpviLvXefACS1MeD8T228DjAVhwrhX_9_pVt1o_a7aAjqeAHxQFGRv7hB7WujSH9F-q4nF82coviwmw7F37yv1p5TbL79X5yo24wtEJmHzQUiIbdYjMiY3P1DIfFm-A4ZsG65audnCjgiBMUxCRqLUp3laYi2HAobWRSydtyjXVnSB_RjstX2eiBtG0zN4AuBQl8nDoVHmTTdIrjJWHE76aKe9BQ0ActVaopuRwELSBoxFbd3QmhAMwzj8zl6c7b2l5Dmq1PFBUVLgvp23qU2X2tpDT2DZ6Q9c55q_-jOYufMlUQgvHhqBaaBY2BGjFxdeEODxzNAZv_9IVMpXRmDajAN-OR8_rbMqiCZ5Bt4uPBbQZDjFf8DMhyuJbrMqSasR8Bdb8borLmsb_xd-wjQpD0GNI3Cm1t95AgpDZULDYXng1lzjoSBws936iGh0s5bA8xRui6BvRcKCKw==&xkcb=SoA6-_M3LdXvmEQHpB0JbzkdCdPP&p=0&fvj=1&vjs=3
+2023-08-28 09:13:10, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f4523b1ac4f65c61&fccid=539428c214ed9c84&vjs=3
+2023-08-28 09:13:18, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=582ba63dee67d6e2&fccid=93f66086a5f6ed6c&vjs=3
+2023-08-28 09:13:25, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CwKJxL8gbd_rhPf5fvISFez4Gp-ZerJZCc7cEyyH7PcSWPosMfHlNlUVE40vMea7yzAJqzVLbMFz8IIuBfqDiq356DOvrcDNt7iYqFZVs43OqNm36P7uYhLzPh_lEfr1ShQV5qr31jVq5mzvainQXio4C7FCkyWwtwzdapE9q6SkSisBpRQSqlzUCwpeM-dajIawOKIcQg_07YLo28mO8SK4fdvmr-UTxzwFtU_gDwEmo5ek35fET7rgC0qzn0RZVnP0whFrYVuJHqGBF7ifD6uKA5BR8Q38h4AE88hw2_dt5G04YRJJ91Ff_-zR0pEeeJLpSYDre2Jqqe_n4K6PjV9R4KvJDdHvhZ-Jgc2CuGLTGDMApBejEQW3aglilJQ21T3WxsClXT1SbK8NvtSzUG_JWtejeYL5gzgqhtJZLWRRfliXxMnZJawv56yLyG9T4Ho34wSAZVCz3XNvGBQbpR-pnFCQFsnK25JmNjAd9stwpc31vLom-LNiBctbpbAS4KyzPlHK2q7tudzlmquuFcJR7z7o5xUEPutEIysjCeSI6BxHJEV21lc0UixtEPMMrI8MjS6N2WtA==&xkcb=SoDn-_M3LdXQ8CwI7R0KbzkdCdPP&p=1&fvj=1&vjs=3
+2023-08-28 09:13:28, Daten wurden gezogen: https://de.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CgYCB7fZPHXlObFc86CfBGJRgAH99GtvejjEFhbUgEpFG2_TTbJYsKj-IBsu_TLOh95OU7rc8qeDDjFMtt2kRjUxLSNjSnnDp7AW2BRthe2EGBCRbl4WEDXWv79msDFFnLcPaDIjv91lEa_lrq4_-p7lx-AjTolOeccS9_vM1lV0sY0N20_ZzanS2Tn6DOSi-7DH3zub6XQziBTxkVSDxRwZ6b4cPYlpqDQKimRb7S-g2Dn_5hYpnPwHpmv-lAbyDLlYFIfmgpm5taWIz6kbM4slRoVbblSaftB4h63as06GHSO4cVNsm1o5_MadyQwUitGb2VuYhWtgY-jRirqtVrDCmsHSulc_gNw3JC2ClR9cjH1e7o0t9VJEkt0huary-lKA0O3XO-AyJVgvmUvYULYLOWYRed6RJyaAoh2ZXZemphH398fn3pUUKnYHgvk-9ut4AVPnmuhkOL-ilpQTpP7eQZKk0RDI1XCfvXefAQGKhry3Y92X1-8pShcDZCOnyLCgBBzvoFUAE0rQ6U2lzsNHGuddAM19P7GNOOEublNg==&xkcb=SoBY-_M3LdXRj4wHmJ0MbzkdCdPP&p=7&fvj=0&vjs=3
+2023-08-28 09:13:34, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=960d8e6d09c10563&fccid=1be342533cadbce5&vjs=3
+2023-08-28 09:13:41, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=28d76f53c973df23&fccid=c2453695f7d070bc&vjs=3
+2023-08-28 09:13:46, Daten wurden gezogen: https://de.indeed.com/rc/clk?jk=f4cb4e4df2da5a6b&fccid=5249628ca8679b10&vjs=3
+2023-08-28 09:13:51, Abfrage abgebrochen !!!
+2023-08-28 09:13:51, Abfrage beendet
+2023-08-28 09:13:55, Browser geschlossen
+2023-08-28 09:13:55, Es wurden 17 Daten von Indeed hinzugefügt
+2023-08-28 09:13:59, suche nach (Junior) Data Analyst
+2023-08-28 09:14:03, Browser geoeffnet
+2023-08-28 09:14:10, Suchdaten eingeben nicht möglich: Jobtitel:-(Junior) Data Analyst; Suchort-Deutschland
+2023-08-28 09:14:12, suche nach Datenanalyst
+2023-08-28 09:14:14, Browser konnte nicht geoeffnet werden

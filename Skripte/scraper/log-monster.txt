@@ -1,0 +1,682 @@
+2023-08-28 15:38:57, monster : Suche nach BI Analyst in Deutschland
+2023-08-28 15:39:07, monster: Browser geoeffnet
+2023-08-28 15:39:48, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-28 15:49:36, monster : Suche nach BI Analyst in Deutschland
+2023-08-28 15:49:40, monster: Browser geoeffnet
+2023-08-28 15:50:13, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 11:26:58, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 11:27:05, monster: Browser geoeffnet
+2023-08-29 11:27:46, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 11:47:01, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 11:47:07, monster: Browser geoeffnet
+2023-08-29 11:47:39, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 11:48:48, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 11:48:55, monster: Browser geoeffnet
+2023-08-29 11:49:28, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 12:06:26, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 12:06:32, monster: Browser geoeffnet
+2023-08-29 12:07:14, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 12:15:11, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 12:15:17, monster: Browser geoeffnet
+2023-08-29 12:15:58, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 13:23:56, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 13:24:02, monster: Browser geoeffnet
+2023-08-29 13:24:45, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 13:28:52, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 13:28:58, monster: Browser geoeffnet
+2023-08-29 13:29:05, Suchdaten eingeben nicht möglich: Jobtitel:-BI Analyst; Suchort-Deutschland
+2023-08-29 13:29:08, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 13:30:16, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 13:30:22, monster: Browser geoeffnet
+2023-08-29 13:30:31, Suchdaten eingeben nicht möglich: Jobtitel:-BI Analyst; Suchort-Deutschland
+2023-08-29 13:30:34, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 13:31:51, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 13:31:58, monster: Browser geoeffnet
+2023-08-29 13:32:39, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 13:34:14, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 13:34:21, monster: Browser geoeffnet
+2023-08-29 13:35:01, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 13:51:23, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 13:51:30, monster: Browser geoeffnet
+2023-08-29 13:52:11, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 14:03:06, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 14:03:12, monster: Browser geoeffnet
+2023-08-29 14:03:52, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 14:07:52, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 14:07:58, monster: Browser geoeffnet
+2023-08-29 14:08:40, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 14:09:47, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 14:09:53, monster: Browser geoeffnet
+2023-08-29 14:10:34, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 14:26:05, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 14:26:11, monster: Browser geoeffnet
+2023-08-29 14:26:55, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 14:33:14, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 14:33:21, monster: Browser geoeffnet
+2023-08-29 14:34:03, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 14:47:42, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 14:47:49, monster: Browser geoeffnet
+2023-08-29 14:48:31, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 15:22:36, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 15:22:43, monster: Browser geoeffnet
+2023-08-29 15:23:23, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 15:24:52, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 15:24:57, monster: Browser geoeffnet
+2023-08-29 15:25:37, monster: Keine Links auf gefunden: Jobtitel => BI Analyst
+2023-08-29 15:37:29, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 15:37:36, monster: Browser geoeffnet
+2023-08-29 15:50:12, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 15:50:17, monster: Browser geoeffnet
+2023-08-29 16:00:01, monster : Suche nach BI Analyst in Deutschland
+2023-08-29 16:00:08, monster: Browser geoeffnet
+2023-08-29 16:00:54, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:00:54, monster : Linkliste erstellt
+2023-08-29 16:00:55, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:00:55, monster : Abfrage begonnen
+2023-08-29 16:06:20, monster : Abfrage beendet
+2023-08-29 16:06:22, monster: Browser geschlossen
+2023-08-29 16:06:22, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:06:26, monster : Suche nach Business Intelligence in Deutschland
+2023-08-29 16:06:32, monster: Browser geoeffnet
+2023-08-29 16:07:21, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:07:21, monster : Linkliste erstellt
+2023-08-29 16:07:22, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:07:22, monster : Abfrage begonnen
+2023-08-29 16:15:42, monster : Abfrage beendet
+2023-08-29 16:15:45, monster: Browser geschlossen
+2023-08-29 16:15:45, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:15:49, monster : Suche nach Data Analyst in Deutschland
+2023-08-29 16:15:55, monster: Browser geoeffnet
+2023-08-29 16:16:42, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:16:42, monster : Linkliste erstellt
+2023-08-29 16:16:43, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:16:43, monster : Abfrage begonnen
+2023-08-29 16:17:11, monster : Abfrage beendet
+2023-08-29 16:17:13, monster: Browser geschlossen
+2023-08-29 16:17:13, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:17:17, monster : Suche nach Data Consultant in Deutschland
+2023-08-29 16:17:24, monster: Browser geoeffnet
+2023-08-29 16:18:08, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:18:08, monster : Linkliste erstellt
+2023-08-29 16:18:08, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:18:08, monster : Abfrage begonnen
+2023-08-29 16:18:36, monster : Abfrage beendet
+2023-08-29 16:18:38, monster: Browser geschlossen
+2023-08-29 16:18:38, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:18:43, monster : Suche nach Data Engineer in Deutschland
+2023-08-29 16:18:48, monster: Browser geoeffnet
+2023-08-29 16:19:34, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:19:34, monster : Linkliste erstellt
+2023-08-29 16:19:35, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:19:35, monster : Abfrage begonnen
+2023-08-29 16:20:01, monster : Abfrage beendet
+2023-08-29 16:20:04, monster: Browser geschlossen
+2023-08-29 16:20:04, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:20:08, monster : Suche nach Data Expert  in Deutschland
+2023-08-29 16:20:14, monster: Browser geoeffnet
+2023-08-29 16:21:00, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:21:00, monster : Linkliste erstellt
+2023-08-29 16:21:01, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:21:01, monster : Abfrage begonnen
+2023-08-29 16:21:09, monster : Abfrage beendet
+2023-08-29 16:21:12, monster: Browser geschlossen
+2023-08-29 16:21:12, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:21:16, monster : Suche nach Data Scientist in Deutschland
+2023-08-29 16:21:22, monster: Browser geoeffnet
+2023-08-29 16:22:05, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:22:05, monster : Linkliste erstellt
+2023-08-29 16:22:06, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:22:06, monster : Abfrage begonnen
+2023-08-29 16:22:34, monster : Abfrage beendet
+2023-08-29 16:22:37, monster: Browser geschlossen
+2023-08-29 16:22:37, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:22:41, monster : Suche nach Data Specialist in Deutschland
+2023-08-29 16:22:47, monster: Browser geoeffnet
+2023-08-29 16:23:29, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:23:29, monster : Linkliste erstellt
+2023-08-29 16:23:30, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:23:30, monster : Abfrage begonnen
+2023-08-29 16:23:45, monster : Abfrage beendet
+2023-08-29 16:23:47, monster: Browser geschlossen
+2023-08-29 16:23:47, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:23:52, monster : Suche nach Datenanalyst in Deutschland
+2023-08-29 16:23:57, monster: Browser geoeffnet
+2023-08-29 16:24:46, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:24:46, monster : Linkliste erstellt
+2023-08-29 16:24:46, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:24:46, monster : Abfrage begonnen
+2023-08-29 16:25:19, monster : Abfrage beendet
+2023-08-29 16:25:21, monster: Browser geschlossen
+2023-08-29 16:25:21, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-29 16:25:25, monster : Suche nach Machine Learning in Deutschland
+2023-08-29 16:25:32, monster: Browser geoeffnet
+2023-08-29 16:26:22, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-29 16:26:22, monster : Linkliste erstellt
+2023-08-29 16:26:23, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-29 16:26:23, monster : Abfrage begonnen
+2023-08-29 16:26:51, monster : Abfrage beendet
+2023-08-29 16:26:53, monster: Browser geschlossen
+2023-08-29 16:26:53, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 09:31:25, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 09:31:30, monster: Browser geoeffnet
+2023-08-30 09:32:15, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 09:32:15, monster : Linkliste erstellt
+2023-08-30 09:32:16, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 09:32:16, monster : Abfrage begonnen
+2023-08-30 09:38:18, monster : Abfrage beendet
+2023-08-30 09:38:20, monster: Browser geschlossen
+2023-08-30 09:38:20, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 09:38:24, monster : Suche nach Business Intelligence in Deutschland
+2023-08-30 09:38:30, monster: Browser geoeffnet
+2023-08-30 09:39:10, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 09:39:16, monster: Browser geoeffnet
+2023-08-30 09:40:00, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 09:40:00, monster : Linkliste erstellt
+2023-08-30 09:40:00, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 09:40:00, monster : Abfrage begonnen
+2023-08-30 09:44:50, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/anwendungsentwickler-programmierer-m-w-d-wagh%C3%A4usel-01--d5123af4-dce1-4516-96a4-a60f47a3fdde?sid=416af045-c105-4aea-b1c0-6a27ac53c81f&jvo=m.go.s-gvr.69&so=m.h.s&hidesmr=1
+2023-08-30 09:45:08, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 09:45:13, monster: Browser geoeffnet
+2023-08-30 09:45:57, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 09:45:57, monster : Linkliste erstellt
+2023-08-30 09:45:58, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 09:45:58, monster : Abfrage begonnen
+2023-08-30 09:46:25, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/praktikum-sales-kundenservice-b2b-marktanalyse-marketing-m-w-d-k%C3%B6ln-07--323231fd-8eb0-4e19-82f3-972472527e77?sid=1e69f985-36f7-46d4-9982-586d9d519a2a&jvo=m.go.s-gvr.34&so=m.h.s&hidesmr=1
+2023-08-30 09:59:18, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 09:59:24, monster: Browser geoeffnet
+2023-08-30 10:00:07, monster :Es wurden 78 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:00:07, monster : Linkliste erstellt
+2023-08-30 10:00:08, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:00:08, monster : Abfrage begonnen
+2023-08-30 10:00:42, monster : Abfrage beendet
+2023-08-30 10:00:44, monster: Browser geschlossen
+2023-08-30 10:00:44, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:00:49, monster : Suche nach Business Intelligence in Deutschland
+2023-08-30 10:00:55, monster: Browser geoeffnet
+2023-08-30 10:01:40, monster :Es wurden 189 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:01:40, monster : Linkliste erstellt
+2023-08-30 10:01:41, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:01:41, monster : Abfrage begonnen
+2023-08-30 10:02:07, monster : Abfrage beendet
+2023-08-30 10:02:09, monster: Browser geschlossen
+2023-08-30 10:02:09, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:02:13, monster : Suche nach Data Analyst in Deutschland
+2023-08-30 10:02:19, monster: Browser geoeffnet
+2023-08-30 10:03:01, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:03:01, monster : Linkliste erstellt
+2023-08-30 10:03:01, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:03:01, monster : Abfrage begonnen
+2023-08-30 10:03:28, monster : Abfrage beendet
+2023-08-30 10:03:30, monster: Browser geschlossen
+2023-08-30 10:03:30, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:03:34, monster : Suche nach Data Consultant in Deutschland
+2023-08-30 10:03:40, monster: Browser geoeffnet
+2023-08-30 10:04:20, monster :Es wurden 80 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:04:20, monster : Linkliste erstellt
+2023-08-30 10:04:21, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:04:21, monster : Abfrage begonnen
+2023-08-30 10:04:53, monster : Abfrage beendet
+2023-08-30 10:04:55, monster: Browser geschlossen
+2023-08-30 10:04:55, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:04:59, monster : Suche nach Data Engineer in Deutschland
+2023-08-30 10:05:05, monster: Browser geoeffnet
+2023-08-30 10:05:48, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:05:48, monster : Linkliste erstellt
+2023-08-30 10:05:48, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:05:48, monster : Abfrage begonnen
+2023-08-30 10:06:17, monster : Abfrage beendet
+2023-08-30 10:06:19, monster: Browser geschlossen
+2023-08-30 10:06:19, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:06:23, monster : Suche nach Data Expert  in Deutschland
+2023-08-30 10:06:29, monster: Browser geoeffnet
+2023-08-30 10:07:08, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:07:08, monster : Linkliste erstellt
+2023-08-30 10:07:08, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:07:08, monster : Abfrage begonnen
+2023-08-30 10:07:23, monster : Abfrage beendet
+2023-08-30 10:07:25, monster: Browser geschlossen
+2023-08-30 10:07:25, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:07:30, monster : Suche nach Data Scientist in Deutschland
+2023-08-30 10:07:35, monster: Browser geoeffnet
+2023-08-30 10:08:18, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:08:18, monster : Linkliste erstellt
+2023-08-30 10:08:18, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:08:18, monster : Abfrage begonnen
+2023-08-30 10:08:48, monster : Abfrage beendet
+2023-08-30 10:08:50, monster: Browser geschlossen
+2023-08-30 10:08:50, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:08:54, monster : Suche nach Data Specialist in Deutschland
+2023-08-30 10:08:59, monster: Browser geoeffnet
+2023-08-30 10:09:40, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:09:40, monster : Linkliste erstellt
+2023-08-30 10:09:41, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:09:41, monster : Abfrage begonnen
+2023-08-30 10:09:53, monster : Abfrage beendet
+2023-08-30 10:09:56, monster: Browser geschlossen
+2023-08-30 10:09:56, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:10:00, monster : Suche nach Datenanalyst in Deutschland
+2023-08-30 10:10:05, monster: Browser geoeffnet
+2023-08-30 10:10:50, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:10:50, monster : Linkliste erstellt
+2023-08-30 10:10:50, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:10:50, monster : Abfrage begonnen
+2023-08-30 10:11:18, monster : Abfrage beendet
+2023-08-30 10:11:20, monster: Browser geschlossen
+2023-08-30 10:11:20, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 10:11:24, monster : Suche nach Machine Learning in Deutschland
+2023-08-30 10:11:29, monster: Browser geoeffnet
+2023-08-30 10:12:11, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 10:12:11, monster : Linkliste erstellt
+2023-08-30 10:12:12, monster : 17215 in der Datenbank bereits vorhanden
+2023-08-30 10:12:12, monster : Abfrage begonnen
+2023-08-30 10:12:41, monster : Abfrage beendet
+2023-08-30 10:12:43, monster: Browser geschlossen
+2023-08-30 10:12:43, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:18:39, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 11:18:45, monster: Browser geoeffnet
+2023-08-30 11:19:29, monster :Es wurden 78 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:19:29, monster : Linkliste erstellt
+2023-08-30 11:19:30, monster : 17276 in der Datenbank bereits vorhanden
+2023-08-30 11:19:30, monster : Abfrage begonnen
+2023-08-30 11:20:05, monster : Abfrage beendet
+2023-08-30 11:20:07, monster: Browser geschlossen
+2023-08-30 11:20:07, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:20:11, monster : Suche nach Business Intelligence in Deutschland
+2023-08-30 11:20:17, monster: Browser geoeffnet
+2023-08-30 11:20:59, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:20:59, monster : Linkliste erstellt
+2023-08-30 11:20:59, monster : 17276 in der Datenbank bereits vorhanden
+2023-08-30 11:20:59, monster : Abfrage begonnen
+2023-08-30 11:21:25, monster : Abfrage beendet
+2023-08-30 11:21:27, monster: Browser geschlossen
+2023-08-30 11:21:27, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:21:31, monster : Suche nach Data Analyst in Deutschland
+2023-08-30 11:21:37, monster: Browser geoeffnet
+2023-08-30 11:22:20, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:22:20, monster : Linkliste erstellt
+2023-08-30 11:22:21, monster : 17276 in der Datenbank bereits vorhanden
+2023-08-30 11:22:21, monster : Abfrage begonnen
+2023-08-30 11:22:49, monster : Abfrage beendet
+2023-08-30 11:22:51, monster: Browser geschlossen
+2023-08-30 11:22:51, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:22:55, monster : Suche nach Data Consultant in Deutschland
+2023-08-30 11:23:01, monster: Browser geoeffnet
+2023-08-30 11:23:13, monster: Keine Links auf gefunden: Jobtitel => Data Consultant
+2023-08-30 11:27:39, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 11:27:46, monster: Browser geoeffnet
+2023-08-30 11:28:30, monster :Es wurden 78 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:28:30, monster : Linkliste erstellt
+2023-08-30 11:28:31, monster : 17276 in der Datenbank bereits vorhanden
+2023-08-30 11:28:31, monster : Abfrage begonnen
+2023-08-30 11:28:34, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-n%C3%BCrnberg-02--2d567489-9430-440b-be1b-8181ddd1188f?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 11:28:37, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-karlsruhe-01--a655160b-e1be-4859-8a36-e1afeddb3264?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.70&so=m.h.s&hidesmr=1
+2023-08-30 11:28:40, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-kiel-10--cdb88667-f721-4447-ae6b-4accb8fc5710?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 11:28:43, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-mainz-08--7d3d21c4-1c73-4c83-bc00-d0f22de96f6e?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 11:28:45, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-k%C3%B6ln-07--c8319946-da10-4f54-8d5d-6ffe74ff9864?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 11:28:48, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-duisburg-07--6fa9ab3a-1cda-4184-8a4f-b61e682c75d3?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 11:28:52, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-halle-saale-14--bf7c3fa5-d340-4693-b474-47c0466f2601?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 11:28:55, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-m%C3%BCnchen-02--563af8e0-45be-4118-9d4b-a490411a4b78?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.53&so=m.h.s&hidesmr=1
+2023-08-30 11:28:59, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-frankfurt-am-main-05--ae29211a-4467-4064-a1bd-a1bd4b2108e2?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.54&so=m.h.s&hidesmr=1
+2023-08-30 11:29:02, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-intelligence-bi-superheld-m-w-d-hamburg-04--57c5d70b-510e-4aac-9b48-7ccf276f6cdb?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 11:29:05, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-freiburg-01--4cd5dbec-36b5-4034-ad09-7ca66783c38f?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 11:29:09, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-chemnitz-13--bf536c61-880d-4200-98b0-92fb2d7e27e2?sid=8741f2ac-1895-4c75-80b0-491f8e451984&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 11:29:09, monster : Abfrage beendet
+2023-08-30 11:29:11, monster: Browser geschlossen
+2023-08-30 11:29:11, monster: Es wurden 12 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:29:15, monster : Suche nach Business Intelligence in Deutschland
+2023-08-30 11:29:21, monster: Browser geoeffnet
+2023-08-30 11:30:08, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:30:08, monster : Linkliste erstellt
+2023-08-30 11:30:09, monster : 17288 in der Datenbank bereits vorhanden
+2023-08-30 11:30:09, monster : Abfrage begonnen
+2023-08-30 11:30:12, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-business-intelligence-berlin-16--9f61d0fb-8e8d-494a-91fb-553b4f15b196?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.84&so=m.h.s
+2023-08-30 11:30:15, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-referent-in-business-intelligence-kpi-dashboards-m-w-d-frankfurt-am-main-05--fc976e29-ba6b-4f6b-b37a-ad9596a2a0aa?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.90&so=m.h.s
+2023-08-30 11:30:19, Daten wurden gezogen: https://www.monster.de/stellenangebot/controller-business-intelligence-m-w-d-hamburg-04--4cdefbdd-cf99-404e-a56c-0b7bf181a1a0?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.85&so=m.h.s
+2023-08-30 11:30:22, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-business-intelligence--4ddc4111-da66-4588-a5e0-3f83eda9d035?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.83&so=m.h.s
+2023-08-30 11:30:25, Daten wurden gezogen: https://www.monster.de/stellenangebot/product-owner-m-w-d-business-intelligence-06--73a71d74-9f4c-49c5-8e51-586d582cc126?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.86&so=m.h.s
+2023-08-30 11:30:28, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-business-partner-business-intelligence-controlling-w-m-d-starnberg-02--3c47044c-80aa-4ac8-a687-871d634cf649?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.87&so=m.h.s
+2023-08-30 11:30:31, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-intelligence-specialist-w-m-d-magdeburg-14--39d63d85-939f-4ce0-b12e-9ad3386dae39?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.82&so=m.h.s
+2023-08-30 11:30:34, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-referent-in-business-intelligence-tm1-m-w-d-frankfurt-am-main-05--c429fca3-68b1-4bfb-b0dc-00e5e52e2bbe?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.88&so=m.h.s
+2023-08-30 11:30:38, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-intelligence-bi-superheld-m-w-d-hamburg-04--57c5d70b-510e-4aac-9b48-7ccf276f6cdb?sid=b18f9392-2679-43c0-b938-d3c301bf4c35&jvo=m.lo.s-gvr.89&so=m.h.s
+2023-08-30 11:30:38, monster : Abfrage beendet
+2023-08-30 11:30:40, monster: Browser geschlossen
+2023-08-30 11:30:41, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:30:45, monster : Suche nach Data Analyst in Deutschland
+2023-08-30 11:30:51, monster: Browser geoeffnet
+2023-08-30 11:31:41, monster :Es wurden 72 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:31:41, monster : Linkliste erstellt
+2023-08-30 11:31:42, monster : 17297 in der Datenbank bereits vorhanden
+2023-08-30 11:31:42, monster : Abfrage begonnen
+2023-08-30 11:31:46, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-k%C3%B6ln-07--d51c7a42-44c0-4b98-8fdc-d3a27990693b?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.75&so=m.h.s
+2023-08-30 11:31:49, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-m%C3%BCnchen-02--ed70eea5-5dee-4b79-933a-ed779d1b3692?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.76&so=m.h.s
+2023-08-30 11:31:53, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-w-m-d-k%C3%B6ln-07--ea0a74c3-cbdf-4cff-9f62-99748565e783?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.73&so=m.h.s
+2023-08-30 11:31:56, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-automotive-m-w-d-m%C3%BCnchen-02--57daf540-316a-4b59-abef-49c11ce19fbc?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.78&so=m.h.s
+2023-08-30 11:31:58, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-spremberg-11--dcb600a0-477f-4aad-9c83-b656a16128be?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.74&so=m.h.s
+2023-08-30 11:32:01, Daten wurden gezogen: https://www.monster.de/stellenangebot/cloud-data-analyst-m-w-d-berlin-16--39a73b71-51a3-4ef6-9f3b-f458b9fce4cd?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.80&so=m.h.s
+2023-08-30 11:32:04, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-revision-m-w-d-neckarsulm-01--45a91b1f-1237-4d62-b94b-5e41cb97d0a7?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.81&so=m.h.s
+2023-08-30 11:32:07, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-karlsruhe-01--ba7bdd75-a0d9-4f88-8a64-a44adc60b1a5?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.77&so=m.h.s
+2023-08-30 11:32:10, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-data-analyst-m-w-d-hagen-07--c211c40f-1018-4b94-bfcf-4abe5735fc7c?sid=3e60d1fd-0672-46ad-a690-40b4b33dc18a&jvo=m.lo.s-gvr.79&so=m.h.s
+2023-08-30 11:32:10, monster : Abfrage beendet
+2023-08-30 11:32:12, monster: Browser geschlossen
+2023-08-30 11:32:12, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:32:17, monster : Suche nach Data Consultant in Deutschland
+2023-08-30 11:32:22, monster: Browser geoeffnet
+2023-08-30 11:33:07, monster :Es wurden 80 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:33:07, monster : Linkliste erstellt
+2023-08-30 11:33:07, monster : 17306 in der Datenbank bereits vorhanden
+2023-08-30 11:33:07, monster : Abfrage begonnen
+2023-08-30 11:33:10, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-data-science--af1c6118-105f-4838-b792-79f12d6f0252?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 11:33:13, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-ettlingen-01--3c7e7e1f-8299-4005-871b-7cdca69fe5ad?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 11:33:16, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-m%C3%BCnster-07--7a02874e-db9a-47bf-9d24-2d4dca12f527?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 11:33:19, Daten wurden gezogen: https://www.monster.de/stellenangebot/-senior-consultant-data-science-artificial-intelligence-m-w-d-im-bereich-risk-advisory-services-m%C3%BCnchen-02--69db6636-57ea-4065-a35d-d99b92346762?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 11:33:22, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-data-science-m%C3%BCnchen-02--f7647666-a46a-4b74-9275-356f70d9d58f?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 11:33:25, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-hamburg-04--b09cbec8-2b60-4f58-bd31-cdd9f962ea99?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 11:33:28, Daten wurden gezogen: https://www.monster.de/stellenangebot/-senior-consultant-data-science-artificial-intelligence-m-w-d-im-bereich-risk-advisory-services-hamburg-04--46838b6a-c15d-4715-9f3c-a380a34b7d47?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.81&so=m.h.s&hidesmr=1
+2023-08-30 11:33:31, Daten wurden gezogen: https://www.monster.de/stellenangebot/fintech-data-consultant-q-data-service-datenmigration-finance-m-w-d-m%C3%BCnchen-02--2c0bbc1c-decc-4896-84b0-80eadf5ed3a7?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 11:33:34, Daten wurden gezogen: https://www.monster.de/stellenangebot/junior-consultant-data-analytics-m-w-d-ettlingen-01--fc690038-2d64-40bb-9e65-2c63686a2b9e?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 11:33:38, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-data-science-stuttgart-01--fc00b0d0-1915-43e0-8820-1bd58815dae1?sid=8481afbf-f085-4a47-bab4-fb1758e52e9a&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 11:33:38, monster : Abfrage beendet
+2023-08-30 11:33:40, monster: Browser geschlossen
+2023-08-30 11:33:40, monster: Es wurden 10 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:33:44, monster : Suche nach Data Engineer in Deutschland
+2023-08-30 11:33:50, monster: Browser geoeffnet
+2023-08-30 11:34:36, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:34:36, monster : Linkliste erstellt
+2023-08-30 11:34:37, monster : 17316 in der Datenbank bereits vorhanden
+2023-08-30 11:34:37, monster : Abfrage begonnen
+2023-08-30 11:34:40, Daten wurden gezogen: https://www.monster.de/stellenangebot/big-data-engineer-m-w-d-stuttgart-01--cc1a6028-e136-4d09-8f6f-beebdae4a1c9?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 11:34:44, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-m-w-d-06--5b2e6e85-8897-47c2-b6a6-84b87edc579b?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 11:34:47, Daten wurden gezogen: https://www.monster.de/stellenangebot/big-data-engineer-m-w-d-m%C3%BCnchen-02--61e8b894-7093-4f05-bcaa-752a907ed4f6?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 11:34:50, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--a9985567-92b1-4609-8a02-0220b05439ec?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 11:34:53, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-m-w-d-m%C3%BCnchen-02--356c931b-3052-4991-9941-e6884edc983b?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 11:34:56, Daten wurden gezogen: https://www.monster.de/stellenangebot/cloud-data-engineer-data-analytics-m-w-d-berlin-16--2370a73d-83c2-4766-a252-909639ae50e9?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 11:34:59, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-m-w-d-kiel-10--1355b6f5-f850-478d-99f1-e7ecd6663d27?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 11:35:02, Daten wurden gezogen: https://www.monster.de/stellenangebot/big-data-engineer-m-w-d--0f912ba3-8408-43c8-92c0-1c61460f4cdd?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 11:35:04, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--6faa6873-5f9f-4cd9-9709-44ee7198c019?sid=60319cd6-9b2f-4c96-a9b3-6c3a140b7e82&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 11:35:04, monster : Abfrage beendet
+2023-08-30 11:35:06, monster: Browser geschlossen
+2023-08-30 11:35:07, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:35:11, monster : Suche nach Data Expert  in Deutschland
+2023-08-30 11:35:16, monster: Browser geoeffnet
+2023-08-30 11:35:59, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:35:59, monster : Linkliste erstellt
+2023-08-30 11:36:00, monster : 17325 in der Datenbank bereits vorhanden
+2023-08-30 11:36:00, monster : Abfrage begonnen
+2023-08-30 11:36:04, Daten wurden gezogen: https://www.monster.de/stellenangebot/fachreferent-in-datenmanagement-oberbau-m-w-d-karlsruhe-01--62827607-e9b1-419e-9ff3-ecf07fba5cdc?sid=a192bc99-4564-4781-a0ee-33a7a7bf9f2d&jvo=m.lo.s-svr.4&so=m.h.s&hidesmr=1
+2023-08-30 11:36:09, Daten wurden gezogen: https://www.monster.de/stellenangebot/experte-w-m-d-data-governance-data-officer-offenbach-05--dbd857ce-1f44-4369-b8bf-a42ec228685f?sid=a192bc99-4564-4781-a0ee-33a7a7bf9f2d&jvo=m.lo.s-svr.1&so=m.h.s&hidesmr=1
+2023-08-30 11:36:11, Daten wurden gezogen: https://www.monster.de/stellenangebot/betriebsingenieur-m-w-d-krefeld-07--563dceda-d9fb-463b-a563-e7518e3b9ee8?sid=a192bc99-4564-4781-a0ee-33a7a7bf9f2d&jvo=m.lo.s-svr.2&so=m.h.s&hidesmr=1
+2023-08-30 11:36:14, Daten wurden gezogen: https://www.monster.de/stellenangebot/projektingenieur-projektleiter-projektmanager-maschinen-und-anlagenbau-m-w-d-krefeld-07--350036b9-31bb-4ab2-9b01-7eb9830b8647?sid=a192bc99-4564-4781-a0ee-33a7a7bf9f2d&jvo=m.lo.s-svr.3&so=m.h.s&hidesmr=1
+2023-08-30 11:36:14, monster : Abfrage beendet
+2023-08-30 11:36:16, monster: Browser geschlossen
+2023-08-30 11:36:16, monster: Es wurden 4 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:36:21, monster : Suche nach Data Scientist in Deutschland
+2023-08-30 11:36:26, monster: Browser geoeffnet
+2023-08-30 11:37:12, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:37:12, monster : Linkliste erstellt
+2023-08-30 11:37:13, monster : 17329 in der Datenbank bereits vorhanden
+2023-08-30 11:37:13, monster : Abfrage begonnen
+2023-08-30 11:37:17, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-m-w-d-leipzig-13--601bed5a-61c5-4d04-bcac-1836d7f5342b?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 11:37:21, Daten wurden gezogen: https://www.monster.de/stellenangebot/mathematiker-aktuar-m-w-d-mit-schwerpunkt-alm-und-data-science-hamburg-04--bb6df546-68bf-4186-b064-97b2b0bf4542?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 11:37:24, Daten wurden gezogen: https://www.monster.de/stellenangebot/softwareengineer-data-scientist-m-w-d-essen-07--ee3b872d-d7e5-4124-a0a6-fa5e202968aa?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 11:37:28, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-m-w-d-machine-learning-engineer-neutraubling-02--bfbc6482-7b98-4f87-8220-2c50392289a4?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 11:37:31, Daten wurden gezogen: https://www.monster.de/stellenangebot/softwareengineer-data-scientist-m-w-d-kassel-05--652a79c6-56fb-488c-95a0-2ddfbd6552ea?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 11:37:35, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientists-m-w-d-schweinfurt-02--1c448f8c-0adb-4dfc-be52-b7a65fe9a709?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 11:37:38, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-datenbanken-prozessoptimierung-total-store-m-w-d-hannover-06--0d570df7-d0ef-4696-8a64-f67fcaa45d74?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 11:37:41, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-data-scientist-w-m-d-frankfurt-am-main-05--0bff373f-7d44-4333-b645-ffc813ad65b6?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 11:37:45, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-m-w-d-komposit-oberursel-05--13814f09-2c3f-4d4a-9fa6-4aff8b5430c6?sid=1b447e7b-c5a5-4fa9-b6d3-e71477237429&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 11:37:45, monster : Abfrage beendet
+2023-08-30 11:37:47, monster: Browser geschlossen
+2023-08-30 11:37:47, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:37:51, monster : Suche nach Data Specialist in Deutschland
+2023-08-30 11:37:57, monster: Browser geoeffnet
+2023-08-30 11:38:42, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:38:42, monster : Linkliste erstellt
+2023-08-30 11:38:43, monster : 17338 in der Datenbank bereits vorhanden
+2023-08-30 11:38:43, monster : Abfrage begonnen
+2023-08-30 11:38:46, Daten wurden gezogen: https://www.monster.de/stellenangebot/experte-w-m-d-data-governance-data-officer-offenbach-05--dbd857ce-1f44-4369-b8bf-a42ec228685f?sid=7f9dfa57-92f9-4b96-be46-460f467c72d8&jvo=m.lo.s-svr.1&so=m.h.s&hidesmr=1
+2023-08-30 11:38:49, Daten wurden gezogen: https://www.monster.de/stellenangebot/quereinsteiger-m-w-d-als-data-integration-developer-edi-specialist-m-w-d-ulm-01--b1190763-0615-483f-b1ae-e5379d7dfa2f?sid=7f9dfa57-92f9-4b96-be46-460f467c72d8&jvo=m.lo.s-svr.2&so=m.h.s&hidesmr=1
+2023-08-30 11:38:52, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-automotive-m-w-d-m%C3%BCnchen-02--57daf540-316a-4b59-abef-49c11ce19fbc?sid=7f9dfa57-92f9-4b96-be46-460f467c72d8&jvo=m.lo.s-svr.4&so=m.h.s&hidesmr=1
+2023-08-30 11:38:56, Daten wurden gezogen: https://www.monster.de/stellenangebot/fachreferent-in-datenmanagement-oberbau-m-w-d-karlsruhe-01--62827607-e9b1-419e-9ff3-ecf07fba5cdc?sid=7f9dfa57-92f9-4b96-be46-460f467c72d8&jvo=m.lo.s-svr.3&so=m.h.s&hidesmr=1
+2023-08-30 11:38:56, monster : Abfrage beendet
+2023-08-30 11:38:58, monster: Browser geschlossen
+2023-08-30 11:38:58, monster: Es wurden 4 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:39:02, monster : Suche nach Datenanalyst in Deutschland
+2023-08-30 11:39:07, monster: Browser geoeffnet
+2023-08-30 11:39:54, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:39:54, monster : Linkliste erstellt
+2023-08-30 11:39:54, monster : 17342 in der Datenbank bereits vorhanden
+2023-08-30 11:39:54, monster : Abfrage begonnen
+2023-08-30 11:39:58, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-automotive-m-w-d-m%C3%BCnchen-02--57daf540-316a-4b59-abef-49c11ce19fbc?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 11:40:01, Daten wurden gezogen: https://www.monster.de/stellenangebot/crm-data-analyst-m-w-d-wuppertal-07--15a76e66-8110-41c3-bd6e-437a88638c5f?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 11:40:04, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-spremberg-11--dcb600a0-477f-4aad-9c83-b656a16128be?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 11:40:07, Daten wurden gezogen: https://www.monster.de/stellenangebot/-senior-datenanalyst-m-w-d-neckarsulm-01--821d28e9-4c02-486a-9ca0-c8062b50138d?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 11:40:09, Daten wurden gezogen: https://www.monster.de/stellenangebot/-junior-datenanalyst-m-w-d-06--6b4a9045-261d-4a6b-aaf0-601f2b236ece?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 11:40:12, Daten wurden gezogen: https://www.monster.de/stellenangebot/datenanalyst-m-w-d-aktiver-korrosionsschutz-pipeline-kassel-05--82159cc9-af2f-4620-b60a-be6a3821695d?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 11:40:16, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-k%C3%B6ln-07--d51c7a42-44c0-4b98-8fdc-d3a27990693b?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 11:40:19, Daten wurden gezogen: https://www.monster.de/stellenangebot/datenanalyst-kommunikation-automatisierung-konversion-m-w-d-frankfurt-am-main-05--b6906180-c20e-48e6-b2aa-a1ab0005fce6?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 11:40:22, Daten wurden gezogen: https://www.monster.de/stellenangebot/crm-manager-customer-relationship-management-manager-m-w-d-datenanalyst-o-%C3%A4-norderstedt-10--e01af31d-ccfc-416e-afbe-530eecf359ce?sid=04e1fbe3-34ae-4a66-bab0-0d6eb72fd7be&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 11:40:22, monster : Abfrage beendet
+2023-08-30 11:40:24, monster: Browser geschlossen
+2023-08-30 11:40:25, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 11:40:29, monster : Suche nach Machine Learning in Deutschland
+2023-08-30 11:40:34, monster: Browser geoeffnet
+2023-08-30 11:41:20, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 11:41:20, monster : Linkliste erstellt
+2023-08-30 11:41:21, monster : 17351 in der Datenbank bereits vorhanden
+2023-08-30 11:41:21, monster : Abfrage begonnen
+2023-08-30 11:41:24, Daten wurden gezogen: https://www.monster.de/stellenangebot/praktikum-artificial-intelligence-ai-m-w-d-neckarsulm-01--79b905e4-005a-43d3-8dcd-524a1db39d5e?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 11:41:27, Daten wurden gezogen: https://www.monster.de/stellenangebot/berater-input-management-eakte-machine-learning-projektmanagement-m-w-d-m%C3%BCnchen-02--1326bf9c-24d3-4eaa-9c21-da1090e8fcfa?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 11:41:31, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-m-w-d-im-bereich-process-mining-neutraubling-02--d230ed7a-35c2-44ee-8703-8c2684d13b6a?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 11:41:34, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-m-w-d-machine-learning-engineer-neutraubling-02--bfbc6482-7b98-4f87-8220-2c50392289a4?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 11:41:37, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-customer-success-beratung-probleml%C3%B6sung-reportings-m-w-d-karlsruhe-01--3436e105-04b0-4c36-9324-81fb7b02674b?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 11:41:40, Daten wurden gezogen: https://www.monster.de/stellenangebot/wissenschaftlicher-mitarbeiter-promotion-machine-learning-medizin-m-w-d-karlsruhe-01--69c2ec0b-cff1-4206-8be0-a3cc4cc4c585?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 11:41:43, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-learning-management-m-w-d-neckarsulm-01--2a7c235d-69b0-4209-8803-24e655109a0b?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 11:41:47, Daten wurden gezogen: https://www.monster.de/stellenangebot/wissenschaftlicher-mitarbeiter-promotion-machine-learning-medizin-m-w-d-karlsruhe-01--7f208704-5519-4574-aee4-32d739fe8125?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 11:41:50, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-in-im-bereich-leadership-top-talent-development-m-w-d-herzogenaurach-02--e0ee6362-ed00-4709-8f08-e2403c2e2f21?sid=b485d9b2-0ad3-42ff-bc76-79d81e815423&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 11:41:50, monster : Abfrage beendet
+2023-08-30 11:41:52, monster: Browser geschlossen
+2023-08-30 11:41:52, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:24:52, monster : Suche nach BI Analyst in Deutschland
+2023-08-30 22:25:00, monster: Browser geoeffnet
+2023-08-30 22:25:43, monster :Es wurden 78 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:25:43, monster : Linkliste erstellt
+2023-08-30 22:25:44, monster : 17360 in der Datenbank bereits vorhanden
+2023-08-30 22:25:44, monster : Abfrage begonnen
+2023-08-30 22:25:47, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-freiburg-01--4cd5dbec-36b5-4034-ad09-7ca66783c38f?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:25:50, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-halle-saale-14--bf7c3fa5-d340-4693-b474-47c0466f2601?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:25:53, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-chemnitz-13--bf536c61-880d-4200-98b0-92fb2d7e27e2?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:25:56, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-k%C3%B6ln-07--c8319946-da10-4f54-8d5d-6ffe74ff9864?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.72&so=m.h.s&hidesmr=1
+2023-08-30 22:25:59, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-n%C3%BCrnberg-02--2d567489-9430-440b-be1b-8181ddd1188f?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.70&so=m.h.s&hidesmr=1
+2023-08-30 22:26:03, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-m%C3%BCnchen-02--563af8e0-45be-4118-9d4b-a490411a4b78?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:26:06, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-kiel-10--cdb88667-f721-4447-ae6b-4accb8fc5710?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:26:10, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-duisburg-07--6fa9ab3a-1cda-4184-8a4f-b61e682c75d3?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.71&so=m.h.s&hidesmr=1
+2023-08-30 22:26:12, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-karlsruhe-01--a655160b-e1be-4859-8a36-e1afeddb3264?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:26:15, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-mainz-08--7d3d21c4-1c73-4c83-bc00-d0f22de96f6e?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:26:18, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-intelligence-bi-superheld-m-w-d-hamburg-04--57c5d70b-510e-4aac-9b48-7ccf276f6cdb?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:26:21, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-sap-consultant-f%C3%BCr-bi-und-analytics-m-w-d-frankfurt-am-main-05--ae29211a-4467-4064-a1bd-a1bd4b2108e2?sid=660db249-739f-4e8a-bf4b-f4e86c442b3e&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:26:21, monster : Abfrage beendet
+2023-08-30 22:26:23, monster: Browser geschlossen
+2023-08-30 22:26:24, monster: Es wurden 12 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:26:28, monster : Suche nach Business Intelligence in Deutschland
+2023-08-30 22:26:33, monster: Browser geoeffnet
+2023-08-30 22:27:16, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:27:16, monster : Linkliste erstellt
+2023-08-30 22:27:17, monster : 17372 in der Datenbank bereits vorhanden
+2023-08-30 22:27:17, monster : Abfrage begonnen
+2023-08-30 22:27:21, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-referent-in-business-intelligence-tm1-m-w-d-frankfurt-am-main-05--527c9a3f-5cc9-4b9c-8bb3-48715d7b2e91?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:27:23, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-business-partner-business-intelligence-controlling-w-m-d-starnberg-02--3c47044c-80aa-4ac8-a687-871d634cf649?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:27:27, Daten wurden gezogen: https://www.monster.de/stellenangebot/manager-global-sales-performance-business-intelligence-m-w-divers-neustadt-hessen-05--0b422c8d-e08b-48af-88da-4d0c71156796?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:27:30, Daten wurden gezogen: https://www.monster.de/stellenangebot/controller-business-intelligence-m-w-d-hamburg-04--4cdefbdd-cf99-404e-a56c-0b7bf181a1a0?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:27:33, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-business-intelligence--4ddc4111-da66-4588-a5e0-3f83eda9d035?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:27:36, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-intelligence-bi-superheld-m-w-d-hamburg-04--57c5d70b-510e-4aac-9b48-7ccf276f6cdb?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:27:40, Daten wurden gezogen: https://www.monster.de/stellenangebot/senior-referent-in-business-intelligence-kpi-dashboards-m-w-d-frankfurt-am-main-05--199e8a61-3185-4432-853d-670f6c977749?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:27:43, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-business-intelligence-berlin-16--9f61d0fb-8e8d-494a-91fb-553b4f15b196?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:27:46, Daten wurden gezogen: https://www.monster.de/stellenangebot/product-owner-m-w-d-business-intelligence-06--73a71d74-9f4c-49c5-8e51-586d582cc126?sid=57fb119d-5085-41c7-a746-12c5e7564106&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:27:46, monster : Abfrage beendet
+2023-08-30 22:27:48, monster: Browser geschlossen
+2023-08-30 22:27:48, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:27:52, monster : Suche nach Data Analyst in Deutschland
+2023-08-30 22:27:58, monster: Browser geoeffnet
+2023-08-30 22:28:41, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:28:41, monster : Linkliste erstellt
+2023-08-30 22:28:42, monster : 17381 in der Datenbank bereits vorhanden
+2023-08-30 22:28:42, monster : Abfrage begonnen
+2023-08-30 22:28:45, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-revision-m-w-d-neckarsulm-01--45a91b1f-1237-4d62-b94b-5e41cb97d0a7?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:28:48, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-w-m-d-k%C3%B6ln-07--ea0a74c3-cbdf-4cff-9f62-99748565e783?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:28:51, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-m%C3%BCnchen-02--ed70eea5-5dee-4b79-933a-ed779d1b3692?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:28:54, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-k%C3%B6ln-07--d51c7a42-44c0-4b98-8fdc-d3a27990693b?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:28:57, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-automotive-m-w-d-m%C3%BCnchen-02--57daf540-316a-4b59-abef-49c11ce19fbc?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:29:00, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-spremberg-11--dcb600a0-477f-4aad-9c83-b656a16128be?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:29:03, Daten wurden gezogen: https://www.monster.de/stellenangebot/business-data-analyst-m-w-d-hagen-07--c211c40f-1018-4b94-bfcf-4abe5735fc7c?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:29:07, Daten wurden gezogen: https://www.monster.de/stellenangebot/cloud-data-analyst-m-w-d-berlin-16--39a73b71-51a3-4ef6-9f3b-f458b9fce4cd?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:29:10, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-karlsruhe-01--ba7bdd75-a0d9-4f88-8a64-a44adc60b1a5?sid=be9b0154-a339-4472-b75e-2fe6b5edcf5d&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:29:10, monster : Abfrage beendet
+2023-08-30 22:29:12, monster: Browser geschlossen
+2023-08-30 22:29:13, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:29:17, monster : Suche nach Data Consultant in Deutschland
+2023-08-30 22:29:22, monster: Browser geoeffnet
+2023-08-30 22:30:07, monster :Es wurden 80 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:30:07, monster : Linkliste erstellt
+2023-08-30 22:30:08, monster : 17390 in der Datenbank bereits vorhanden
+2023-08-30 22:30:08, monster : Abfrage begonnen
+2023-08-30 22:30:11, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-data-science-stuttgart-01--fc00b0d0-1915-43e0-8820-1bd58815dae1?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:30:14, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-hamburg-04--b09cbec8-2b60-4f58-bd31-cdd9f962ea99?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:30:17, Daten wurden gezogen: https://www.monster.de/stellenangebot/-senior-consultant-data-science-artificial-intelligence-m-w-d-im-bereich-risk-advisory-services-hamburg-04--46838b6a-c15d-4715-9f3c-a380a34b7d47?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.81&so=m.h.s&hidesmr=1
+2023-08-30 22:30:20, Daten wurden gezogen: https://www.monster.de/stellenangebot/-senior-consultant-data-science-artificial-intelligence-m-w-d-im-bereich-risk-advisory-services-m%C3%BCnchen-02--69db6636-57ea-4065-a35d-d99b92346762?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:30:23, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-data-science-m%C3%BCnchen-02--f7647666-a46a-4b74-9275-356f70d9d58f?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:30:26, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-ettlingen-01--3c7e7e1f-8299-4005-871b-7cdca69fe5ad?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:30:30, Daten wurden gezogen: https://www.monster.de/stellenangebot/junior-consultant-data-analytics-m-w-d-ettlingen-01--fc690038-2d64-40bb-9e65-2c63686a2b9e?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:30:32, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-m%C3%BCnster-07--7a02874e-db9a-47bf-9d24-2d4dca12f527?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:30:35, Daten wurden gezogen: https://www.monster.de/stellenangebot/fintech-data-consultant-q-data-service-datenmigration-finance-m-w-d-m%C3%BCnchen-02--2c0bbc1c-decc-4896-84b0-80eadf5ed3a7?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:30:39, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-m-w-d-data-science--af1c6118-105f-4838-b792-79f12d6f0252?sid=48aff8d5-0a89-4a1f-976a-24f9aff17b37&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:30:39, monster : Abfrage beendet
+2023-08-30 22:30:41, monster: Browser geschlossen
+2023-08-30 22:30:41, monster: Es wurden 10 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:30:45, monster : Suche nach Data Engineer in Deutschland
+2023-08-30 22:30:51, monster: Browser geoeffnet
+2023-08-30 22:31:35, monster :Es wurden 71 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:31:35, monster : Linkliste erstellt
+2023-08-30 22:31:36, monster : 17400 in der Datenbank bereits vorhanden
+2023-08-30 22:31:36, monster : Abfrage begonnen
+2023-08-30 22:31:40, Daten wurden gezogen: https://www.monster.de/stellenangebot/cloud-data-engineer-data-analytics-m-w-d-berlin-16--2370a73d-83c2-4766-a252-909639ae50e9?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.80&so=m.h.s&hidesmr=1
+2023-08-30 22:31:43, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-m-w-d-kiel-10--1355b6f5-f850-478d-99f1-e7ecd6663d27?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.75&so=m.h.s&hidesmr=1
+2023-08-30 22:31:46, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-m-w-d-m%C3%BCnchen-02--356c931b-3052-4991-9941-e6884edc983b?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.73&so=m.h.s&hidesmr=1
+2023-08-30 22:31:49, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--6aca7f28-af48-4b36-a09c-2c9bedcf8d6d?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.78&so=m.h.s&hidesmr=1
+2023-08-30 22:31:52, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--aaa612f3-959a-40d8-a019-dca4e54b5fe7?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.79&so=m.h.s&hidesmr=1
+2023-08-30 22:31:55, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--6faa6873-5f9f-4cd9-9709-44ee7198c019?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.77&so=m.h.s&hidesmr=1
+2023-08-30 22:31:58, Daten wurden gezogen: https://www.monster.de/stellenangebot/big-data-engineer-m-w-d-stuttgart-01--cc1a6028-e136-4d09-8f6f-beebdae4a1c9?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.81&so=m.h.s&hidesmr=1
+2023-08-30 22:32:01, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--a9985567-92b1-4609-8a02-0220b05439ec?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.76&so=m.h.s&hidesmr=1
+2023-08-30 22:32:03, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-engineer-m-w-d-06--5b2e6e85-8897-47c2-b6a6-84b87edc579b?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.74&so=m.h.s&hidesmr=1
+2023-08-30 22:32:07, Daten wurden gezogen: https://www.monster.de/stellenangebot/big-data-engineer-m-w-d--0f912ba3-8408-43c8-92c0-1c61460f4cdd?sid=dd225dce-4e30-4be8-9225-9b63905f8bc5&jvo=m.lo.s-gvr.63&so=m.h.s&hidesmr=1
+2023-08-30 22:32:07, monster : Abfrage beendet
+2023-08-30 22:32:09, monster: Browser geschlossen
+2023-08-30 22:32:09, monster: Es wurden 10 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:32:13, monster : Suche nach Data Expert  in Deutschland
+2023-08-30 22:32:19, monster: Browser geoeffnet
+2023-08-30 22:33:00, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:33:00, monster : Linkliste erstellt
+2023-08-30 22:33:00, monster : 17410 in der Datenbank bereits vorhanden
+2023-08-30 22:33:00, monster : Abfrage begonnen
+2023-08-30 22:33:03, Daten wurden gezogen: https://www.monster.de/stellenangebot/projektingenieur-projektleiter-projektmanager-maschinen-und-anlagenbau-m-w-d-krefeld-07--350036b9-31bb-4ab2-9b01-7eb9830b8647?sid=761d0764-91c4-4c0c-8696-04cbf42df76c&jvo=m.lo.s-svr.3&so=m.h.s&hidesmr=1
+2023-08-30 22:33:07, Daten wurden gezogen: https://www.monster.de/stellenangebot/betriebsingenieur-m-w-d-krefeld-07--563dceda-d9fb-463b-a563-e7518e3b9ee8?sid=761d0764-91c4-4c0c-8696-04cbf42df76c&jvo=m.lo.s-svr.2&so=m.h.s&hidesmr=1
+2023-08-30 22:33:13, Daten wurden gezogen: https://www.monster.de/stellenangebot/experte-w-m-d-data-governance-data-officer-offenbach-05--dbd857ce-1f44-4369-b8bf-a42ec228685f?sid=761d0764-91c4-4c0c-8696-04cbf42df76c&jvo=m.lo.s-svr.1&so=m.h.s&hidesmr=1
+2023-08-30 22:33:16, Daten wurden gezogen: https://www.monster.de/stellenangebot/fachreferent-in-datenmanagement-oberbau-m-w-d-karlsruhe-01--3208db4b-42ec-478f-b425-62e5fbab8940?sid=761d0764-91c4-4c0c-8696-04cbf42df76c&jvo=m.lo.s-svr.4&so=m.h.s&hidesmr=1
+2023-08-30 22:33:16, monster : Abfrage beendet
+2023-08-30 22:33:18, monster: Browser geschlossen
+2023-08-30 22:33:18, monster: Es wurden 4 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:33:23, monster : Suche nach Data Scientist in Deutschland
+2023-08-30 22:33:28, monster: Browser geoeffnet
+2023-08-30 22:34:11, monster :Es wurden 80 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:34:11, monster : Linkliste erstellt
+2023-08-30 22:34:11, monster : 17414 in der Datenbank bereits vorhanden
+2023-08-30 22:34:11, monster : Abfrage begonnen
+2023-08-30 22:34:14, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-data-scientist-w-m-d-frankfurt-am-main-05--0bff373f-7d44-4333-b645-ffc813ad65b6?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:34:17, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-ettlingen-01--3c7e7e1f-8299-4005-871b-7cdca69fe5ad?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:34:21, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-hamburg-04--b09cbec8-2b60-4f58-bd31-cdd9f962ea99?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:34:24, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-m-w-d-leipzig-13--601bed5a-61c5-4d04-bcac-1836d7f5342b?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:34:27, Daten wurden gezogen: https://www.monster.de/stellenangebot/softwareengineer-data-scientist-m-w-d-kassel-05--652a79c6-56fb-488c-95a0-2ddfbd6552ea?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:34:29, Daten wurden gezogen: https://www.monster.de/stellenangebot/mathematiker-aktuar-m-w-d-mit-schwerpunkt-alm-und-data-science-hamburg-04--bb6df546-68bf-4186-b064-97b2b0bf4542?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:34:33, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientists-m-w-d-schweinfurt-02--1c448f8c-0adb-4dfc-be52-b7a65fe9a709?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:34:36, Daten wurden gezogen: https://www.monster.de/stellenangebot/consultant-data-analytics-m-w-d-m%C3%BCnster-07--7a02874e-db9a-47bf-9d24-2d4dca12f527?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.80&so=m.h.s&hidesmr=1
+2023-08-30 22:34:39, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-scientist-datenbanken-prozessoptimierung-total-store-m-w-d-hannover-06--0d570df7-d0ef-4696-8a64-f67fcaa45d74?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:34:42, Daten wurden gezogen: https://www.monster.de/stellenangebot/softwareengineer-data-scientist-m-w-d-essen-07--ee3b872d-d7e5-4124-a0a6-fa5e202968aa?sid=3333accc-6207-42e2-ba45-82c02611033b&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:34:42, monster : Abfrage beendet
+2023-08-30 22:34:44, monster: Browser geschlossen
+2023-08-30 22:34:44, monster: Es wurden 10 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:34:48, monster : Suche nach Data Specialist in Deutschland
+2023-08-30 22:34:54, monster: Browser geoeffnet
+2023-08-30 22:35:37, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:35:37, monster : Linkliste erstellt
+2023-08-30 22:35:38, monster : 17424 in der Datenbank bereits vorhanden
+2023-08-30 22:35:38, monster : Abfrage begonnen
+2023-08-30 22:35:41, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-automotive-m-w-d-m%C3%BCnchen-02--57daf540-316a-4b59-abef-49c11ce19fbc?sid=172ceb16-0631-43f3-8191-8b6b833394f4&jvo=m.lo.s-svr.4&so=m.h.s&hidesmr=1
+2023-08-30 22:35:44, Daten wurden gezogen: https://www.monster.de/stellenangebot/softwareengineer-data-scientist-m-w-d-kassel-05--652a79c6-56fb-488c-95a0-2ddfbd6552ea?sid=172ceb16-0631-43f3-8191-8b6b833394f4&jvo=m.lo.s-svr.6&so=m.h.s&hidesmr=1
+2023-08-30 22:35:47, Daten wurden gezogen: https://www.monster.de/stellenangebot/quereinsteiger-m-w-d-als-data-integration-developer-edi-specialist-m-w-d-ulm-01--b1190763-0615-483f-b1ae-e5379d7dfa2f?sid=172ceb16-0631-43f3-8191-8b6b833394f4&jvo=m.lo.s-svr.2&so=m.h.s&hidesmr=1
+2023-08-30 22:35:51, Daten wurden gezogen: https://www.monster.de/stellenangebot/experte-w-m-d-data-governance-data-officer-offenbach-05--dbd857ce-1f44-4369-b8bf-a42ec228685f?sid=172ceb16-0631-43f3-8191-8b6b833394f4&jvo=m.lo.s-svr.1&so=m.h.s&hidesmr=1
+2023-08-30 22:35:54, Daten wurden gezogen: https://www.monster.de/stellenangebot/softwareengineer-data-scientist-m-w-d-essen-07--ee3b872d-d7e5-4124-a0a6-fa5e202968aa?sid=172ceb16-0631-43f3-8191-8b6b833394f4&jvo=m.lo.s-svr.5&so=m.h.s&hidesmr=1
+2023-08-30 22:35:57, Daten wurden gezogen: https://www.monster.de/stellenangebot/fachreferent-in-datenmanagement-oberbau-m-w-d-karlsruhe-01--3208db4b-42ec-478f-b425-62e5fbab8940?sid=172ceb16-0631-43f3-8191-8b6b833394f4&jvo=m.lo.s-svr.3&so=m.h.s&hidesmr=1
+2023-08-30 22:35:57, monster : Abfrage beendet
+2023-08-30 22:36:00, monster: Browser geschlossen
+2023-08-30 22:36:00, monster: Es wurden 6 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:36:04, monster : Suche nach Datenanalyst in Deutschland
+2023-08-30 22:36:09, monster: Browser geoeffnet
+2023-08-30 22:36:54, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:36:54, monster : Linkliste erstellt
+2023-08-30 22:36:55, monster : 17430 in der Datenbank bereits vorhanden
+2023-08-30 22:36:55, monster : Abfrage begonnen
+2023-08-30 22:36:58, Daten wurden gezogen: https://www.monster.de/stellenangebot/-senior-datenanalyst-m-w-d-neckarsulm-01--821d28e9-4c02-486a-9ca0-c8062b50138d?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:37:01, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-automotive-m-w-d-m%C3%BCnchen-02--57daf540-316a-4b59-abef-49c11ce19fbc?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:37:05, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-spremberg-11--dcb600a0-477f-4aad-9c83-b656a16128be?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:37:08, Daten wurden gezogen: https://www.monster.de/stellenangebot/data-analyst-m-w-d-k%C3%B6ln-07--d51c7a42-44c0-4b98-8fdc-d3a27990693b?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:37:11, Daten wurden gezogen: https://www.monster.de/stellenangebot/datenanalyst-kommunikation-automatisierung-konversion-m-w-d-frankfurt-am-main-05--b6906180-c20e-48e6-b2aa-a1ab0005fce6?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:37:14, Daten wurden gezogen: https://www.monster.de/stellenangebot/datenanalyst-m-w-d-aktiver-korrosionsschutz-pipeline-kassel-05--82159cc9-af2f-4620-b60a-be6a3821695d?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:37:18, Daten wurden gezogen: https://www.monster.de/stellenangebot/crm-data-analyst-m-w-d-wuppertal-07--15a76e66-8110-41c3-bd6e-437a88638c5f?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:37:20, Daten wurden gezogen: https://www.monster.de/stellenangebot/-junior-datenanalyst-m-w-d-06--6b4a9045-261d-4a6b-aaf0-601f2b236ece?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:37:24, Daten wurden gezogen: https://www.monster.de/stellenangebot/crm-manager-customer-relationship-management-manager-m-w-d-datenanalyst-o-%C3%A4-norderstedt-10--e01af31d-ccfc-416e-afbe-530eecf359ce?sid=e4ef0aec-cfa7-4688-a440-f6034dd64a9c&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:37:24, monster : Abfrage beendet
+2023-08-30 22:37:26, monster: Browser geschlossen
+2023-08-30 22:37:26, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-08-30 22:37:30, monster : Suche nach Machine Learning in Deutschland
+2023-08-30 22:37:36, monster: Browser geoeffnet
+2023-08-30 22:38:20, monster :Es wurden 81 Duplikate in der "Link Liste" entfernt
+2023-08-30 22:38:20, monster : Linkliste erstellt
+2023-08-30 22:38:21, monster : 17439 in der Datenbank bereits vorhanden
+2023-08-30 22:38:21, monster : Abfrage begonnen
+2023-08-30 22:38:25, Daten wurden gezogen: https://www.monster.de/stellenangebot/wissenschaftlicher-mitarbeiter-promotion-machine-learning-medizin-m-w-d-karlsruhe-01--69c2ec0b-cff1-4206-8be0-a3cc4cc4c585?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.83&so=m.h.s&hidesmr=1
+2023-08-30 22:38:29, Daten wurden gezogen: https://www.monster.de/stellenangebot/stellvertretende-leitung-m-w-d-der-pharmakovigilanz-bielefeld-07--0969f44f-1d93-4a19-830a-518d65c7df37?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.90&so=m.h.s&hidesmr=1
+2023-08-30 22:38:31, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-in-im-bereich-leadership-top-talent-development-m-w-d-herzogenaurach-02--e0ee6362-ed00-4709-8f08-e2403c2e2f21?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.89&so=m.h.s&hidesmr=1
+2023-08-30 22:38:34, Daten wurden gezogen: https://www.monster.de/stellenangebot/wissenschaftlicher-mitarbeiter-promotion-machine-learning-medizin-m-w-d-karlsruhe-01--7f208704-5519-4574-aee4-32d739fe8125?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.84&so=m.h.s&hidesmr=1
+2023-08-30 22:38:36, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-customer-success-beratung-probleml%C3%B6sung-reportings-m-w-d-karlsruhe-01--3436e105-04b0-4c36-9324-81fb7b02674b?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.88&so=m.h.s&hidesmr=1
+2023-08-30 22:38:40, Daten wurden gezogen: https://www.monster.de/stellenangebot/machine-learning-engineer-m-w-d-berlin-16--a4079941-6c6d-4471-97ad-55e2e96e3c52?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.82&so=m.h.s&hidesmr=1
+2023-08-30 22:38:43, Daten wurden gezogen: https://www.monster.de/stellenangebot/praktikum-artificial-intelligence-ai-m-w-d-neckarsulm-01--79b905e4-005a-43d3-8dcd-524a1db39d5e?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.87&so=m.h.s&hidesmr=1
+2023-08-30 22:38:46, Daten wurden gezogen: https://www.monster.de/stellenangebot/werkstudent-learning-management-m-w-d-neckarsulm-01--2a7c235d-69b0-4209-8803-24e655109a0b?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.85&so=m.h.s&hidesmr=1
+2023-08-30 22:38:50, Daten wurden gezogen: https://www.monster.de/stellenangebot/berater-input-management-eakte-machine-learning-projektmanagement-m-w-d-m%C3%BCnchen-02--1326bf9c-24d3-4eaa-9c21-da1090e8fcfa?sid=098a2a8b-c1f3-4f32-8a3b-50042b2a1c02&jvo=m.lo.s-gvr.86&so=m.h.s&hidesmr=1
+2023-08-30 22:38:50, monster : Abfrage beendet
+2023-08-30 22:38:52, monster: Browser geschlossen
+2023-08-30 22:38:52, monster: Es wurden 9 Daten von monster Stepstone hinzugefügt
+2023-09-01 09:33:49, monster : Suche nach BI Analyst in Deutschland
+2023-09-01 09:33:57, monster: Browser geoeffnet
+2023-09-01 09:42:35, monster : Suche nach BI Analyst in Deutschland
+2023-09-01 09:42:43, monster: Browser geoeffnet
+2023-09-01 09:43:31, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-09-01 09:43:31, monster : Linkliste erstellt
+2023-09-01 09:43:31, monster : 17824 in der Datenbank bereits vorhanden
+2023-09-01 09:43:32, monster : Abfrage begonnen
+2023-09-01 09:50:18, monster : Abfrage beendet
+2023-09-01 09:50:20, monster: Browser geschlossen
+2023-09-01 09:50:20, monster: Es wurden 0 Daten von monster Stepstone hinzugefügt
+2023-09-01 09:50:24, monster : Suche nach Business Intelligence in Deutschland
+2023-09-01 09:50:31, monster: Browser geoeffnet
+2023-09-01 09:51:21, monster :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-09-01 09:51:21, monster : Linkliste erstellt
+2023-09-01 09:51:21, monster : 17824 in der Datenbank bereits vorhanden
+2023-09-01 09:51:21, monster : Abfrage begonnen
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/business-intelligence-engineer-in-m-w-d-frankfurt-am-main-05--0d0f3f8a-fa52-4af8-af79-4b1755c3a34b?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.l.s-gvr.22&so=m.h.s&hidesmr=1&promoted=LEXEME_PAID
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/entwickler-embedded-software-integration-m-w-d-stuttgart-01--293cb9f1-e956-49dc-9ac2-36816c0a29f8?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.go.s-gvr.34&so=m.h.s&hidesmr=1
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/php-developer-w-m-d-karben-05--1e0321b7-66e3-46a3-9ddb-fea99d4e431c?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.go.s-gvr.85&so=m.h.s&hidesmr=1
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/managementconsultant-m-w-d-neckarsulm-01--bf11061c-a9e5-4f6b-ba16-998cdc9bbec2?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.go.s-gvr.56&so=m.h.s&hidesmr=1
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/consultant-senior-consultant-m-w-d-im-bereich-strategie-m%C3%BCnchen-02--3c6c3708-65bf-44c1-a5e0-f34aee9a4f8c?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.go.s-gvr.70&so=m.h.s&hidesmr=1
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/praktikum-kaufm%C3%A4nnische-it-business-intelligence-w-m-d-frankfurt-am-main-05--b991456f-94a5-4a1a-bd03-0e4c7dce3e99?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.l.s-gvr.20&so=m.h.s&hidesmr=1&promoted=LEXEME_PAID
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/data-engineer-gn-m-w-d-08--6aca7f28-af48-4b36-a09c-2c9bedcf8d6d?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.go.s-gvr.51&so=m.h.s&hidesmr=1
+2023-09-01 09:56:54, Fehler beim Aufrufen der URL: https://www.monster.de/stellenangebot/business-consultant-business-development-m-w-d-d%C3%BCsseldorf-07--55606846-aa45-46c3-b29c-3493b8335ea9?sid=4728e715-171e-4630-a784-341186b04301&jvo=m.go.s-gvr.54&so=m.h.s&hidesmr=1
+2023-09-01 09:56:54, monster : Abfrage beendet

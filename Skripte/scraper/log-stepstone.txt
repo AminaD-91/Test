@@ -1,0 +1,1059 @@
+2023-08-03 12:27:42, Suche nach Data Analyst in Deutschland
+2023-08-03 12:27:46, Browser geoeffnet
+2023-08-03 12:28:29, Suche nach Data Analyst in Deutschland
+2023-08-03 12:28:32, Browser geoeffnet
+2023-08-03 12:30:58, Suche nach Data Analyst in Deutschland
+2023-08-03 12:31:00, Browser konnte nicht geoeffnet werden
+2023-08-03 12:31:16, Suche nach Data Analyst in Deutschland
+2023-08-03 12:31:48, Suche nach Data Analyst in Deutschland
+2023-08-03 12:32:20, Browser konnte nicht geoeffnet werden
+2023-08-03 12:35:05, Suche nach Data Analyst in Deutschland
+2023-08-03 12:35:37, Browser konnte nicht geoeffnet werden
+2023-08-03 12:39:14, Suche nach Data Analyst in Deutschland
+2023-08-03 12:39:45, Browser konnte nicht geoeffnet werden
+2023-08-03 12:47:46, Suche nach Data Analyst in Deutschland
+2023-08-03 12:47:50, Browser geoeffnet
+2023-08-03 12:51:23, Browser geschlossen
+2023-08-03 12:51:44, Suche nach Data Analyst in Deutschland
+2023-08-03 12:51:47, Browser geoeffnet
+2023-08-03 12:53:17, Browser geschlossen
+2023-08-03 12:53:40, Suche nach Data Analyst in Deutschland
+2023-08-03 12:53:43, Browser geoeffnet
+2023-08-03 12:56:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Informatik-Data-Scientist-Master-Uni-Diplom-TH-m-w-d-fuer-Satelliten-auswertung-Bergisch-Gladbach-Bundesanstalt-fuer-Strassenwesen-BASt--9887171-inline.html
+2023-08-03 12:57:20, Browser geschlossen
+2023-08-03 12:58:12, Suche nach Data Analyst in Deutschland
+2023-08-03 12:58:16, Browser geoeffnet
+2023-08-03 12:58:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-Data-Analyst-m-w-d-Birkenfeld-STRATEC-SE--9830709-inline.html
+2023-08-03 12:59:19, Browser geschlossen
+2023-08-22 10:55:35, Suche nach Data Analyst in Deutschland
+2023-08-22 10:55:41, Browser geoeffnet
+2023-08-24 12:01:03, Suche nach BI Analyst in Deutschland
+2023-08-24 12:01:08, Browser geoeffnet
+2023-08-24 12:02:46, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-24 12:02:46, Linkliste erstellt
+2023-08-24 12:02:47, 13686 in der Datenbank bereits vorhanden
+2023-08-24 12:02:47, Abfrage begonnen
+2023-08-24 12:02:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-mit-Schwerpunkt-Foerderbanken-w-m-d-Frankfurt-am-Main-Cofinpro-AG--9042514-inline.html
+2023-08-24 12:03:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Business-Analyst-Risiko-Controlling-m-w-d-Duesseldorf-Deutsche-Apotheker-und-Aerztebank-eG-apoBank--9962219-inline.html
+2023-08-24 12:03:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Portfoliomanagement-Analyst-AIF-Fondscontroller-Analyst-m-w-d-Duesseldorf-aik-Immobilien-Investmentgesellschaft-mbH--9899718-inline.html
+2023-08-24 12:03:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--CS-Business-Controller-m-f-d-Heusenstamm-Dematic-GmbH--9826508-inline.html
+2023-08-24 12:03:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-m-w-d-Area-Management-Terminals-am-Flughafen-Frankfurt-Frankfurt-am-Main-Fraport-AG--9897413-inline.html
+2023-08-24 12:03:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Analyst-gn-Rating-Direktvermittlung-Koeln-Bankpower-GmbH--9955106-inline.html
+2023-08-24 12:03:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Manager-m-w-d-Global-Service-fuer-den-Bereich-Professional-Coffee-Machines-Geislingen-an-der-Steige-WMF-GmbH--9894469-inline.html
+2023-08-24 12:03:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controllerin-Financial-Analystin-Business-Unit-Home-Tech-Mainz-SCHOTT-AG--9876940-inline.html
+2023-08-24 12:03:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Specialist-m-w-d-Controller-in-Operations-Oldenburg-BUEFA-Cleaning-GmbH-Co-KG--9893860-inline.html
+2023-08-24 12:03:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Financial-Analyst-all-gender-Hamburg-Mediabrands-GmbH--9555808-inline.html
+2023-08-24 12:04:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analystin-Asset-Management-Neu-Isenburg-Viridium-Gruppe--9901672-inline.html
+2023-08-24 12:04:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Data-Analyst-m-w-d-Kleinostheim-Union-Tank-Eckstein-Gmbh-Co-KG--9862022-inline.html
+2023-08-24 12:04:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controlling-Analyst-m-w-d-Mannheim-Phoenix-Pharmahandel-GmbH-Co-KG--9886098-inline.html
+2023-08-24 12:04:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Essen-BITMARCK-Unternehmensgruppe--9530634-inline.html
+2023-08-24 12:04:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Hamburg-Bank-Deutsches-Kraftfahrzeuggewerbe-GmbH--9766317-inline.html
+2023-08-24 12:04:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Business-Analyst-Business-Intelligence-m-w-d-Nuernberg-Sopra-Financial-Technology-GmbH--7510500-inline.html
+2023-08-24 12:04:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-KYC-Analyst-Business-Banking-w-m-d-Berlin-ING-Deutschland--9876319-inline.html
+2023-08-24 12:04:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Pricing-Data-Specialist-m-w-d-Boppard-BOMAG-GmbH--9899987-inline.html
+2023-08-24 12:04:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Engineer-in-fuer-Microsoft-Power-BI-Hannover-Hannover-Rueck-SE--9836468-inline.html
+2023-08-24 12:05:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-bei-Emvia-Living-GmbH-Hamburg-EMVIA-Living-GmbH--9939633-inline.html
+2023-08-24 12:05:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Gruppenleitung-w-m-d-Standard-systeme-Fonds-geschaeft-Depotbank-Frankfurt-am-Main-DekaBank-Deutsche-Girozentrale--9944457-inline.html
+2023-08-24 12:05:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Ludwigsburg-Wuestenrot-Haus-und-Staedtebau-GmbH--9906547-inline.html
+2023-08-24 12:05:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Transformation-Manager-m-w-d-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9877401-inline.html
+2023-08-24 12:05:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Buehl-Leipheim-Oechsle-Display-Systeme-GmbH--9904743-inline.html
+2023-08-24 12:05:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Referent-Finanzanalyst-Gesamtbanksteuerung-Risikocontrolling-m-w-d-Bad-Homburg-vor-der-Hoehe-Taunus-Sparkasse--9894558-inline.html
+2023-08-24 12:05:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Tuebingen-oder-Stuttgart-Electrolux-Professional-GmbH--9944055-inline.html
+2023-08-24 12:05:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-mit-Schwerpunkt-Demand-Planning-m-w-d-Neuenstadt-a-K-bei-Heilbronn-MS-Motorservice-International-GmbH--9363763-inline.html
+2023-08-24 12:05:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Expertin-Accounting-und-Reporting-Duesseldorf-OXG-Glasfaser-GmbH--9840698-inline.html
+2023-08-24 12:06:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-m-w-d-Digitalisierung-Kempten-Allgaeu-DACHSER-SE--8558874-inline.html
+2023-08-24 12:06:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Markt-und-Produktanalyst-m-w-d-Investment-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9913550-inline.html
+2023-08-24 12:06:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Stammdaten-Spezialist-m-w-d-Hannover-Laverana-GmbH-Co-KG--9955234-inline.html
+2023-08-24 12:06:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Fondscontroller-Portfoliomanager-Hamburg-Frankfurt-am-Main-Joh-Berenberg-Gossler-Co-KG--9887230-inline.html
+2023-08-24 12:06:25, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-bundesweit-Goettingen-SYCOR-GmbH--9966864-inline.html
+2023-08-24 12:06:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-m-w-d-fuer-den-digitalen-Zahlungsverkehr-Frankfurt-am-Main-Deutsche-Bundesbank--9963291-inline.html
+2023-08-24 12:06:38, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Finance-Controlling-Analyst-m-w-d-Muenchen-Cobalt-Deutschland-GmbH--9899727-inline.html
+2023-08-24 12:06:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Digital-Analyst-w-m-d-Koeln-RTL-interactive--9886041-inline.html
+2023-08-24 12:06:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Expert-CRM-Analysis-Intelligence-m-w-d-befristet-fuer-2-Jahre-Remscheid-Vaillant-Deutschland-GmbH-Co-KG--9869905-inline.html
+2023-08-24 12:06:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Referent-Risikomanagement-Non-Financial-Risk-Analyst-w-m-d-in-Voll-oder-Teilzeit-31-Stunden-Duesseldorf-TARGOBANK--9514707-inline.html
+2023-08-24 12:07:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Expert-Financial-Reporting-w-m-d-Wiesbaden-Grossraum-Frankfurt-Aareal-Bank-AG--9948009-inline.html
+2023-08-24 12:07:10, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-m-w-d-Braunschweig-KOSATEC-Computer-GmbH--9924473-inline.html
+2023-08-24 12:07:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-mwd-Frankfurt-Sodexo-Pass-GmbH--9937022-inline.html
+2023-08-24 12:07:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialist-in-Datenmanagement-Investitionsplanung-und-Segmentsteuerung-Frankfurt-Main-Deutsche-Bahn-AG--9951937-inline.html
+2023-08-24 12:07:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Doktorandin-Doktorand-w-m-d-im-Bereich-After-Sales-Umsatz-und-Ergebnisplanung-Hannover-Volkswagen-AG--9909564-inline.html
+2023-08-24 12:07:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--AI-Data-Specialist-fuer-Production-Data-w-m-d-Sindelfingen-Mercedes-Benz-AG--9889018-inline.html
+2023-08-24 12:07:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Analyst-m-w-d-Projektfinanzierung-Erneuerbare-Energien-Muenchen-Qair-Deutschland-GmbH--9935201-inline.html
+2023-08-24 12:07:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-Vertriebsentwicklung-m-w-d-Wiesbaden-R-V-Allgemeine-Versicherung-AG--9841621-inline.html
+2023-08-24 12:07:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-m-w-d-Minden-WAGO-GmbH-Co-KG--9891431-inline.html
+2023-08-24 12:08:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Division-Controller-Geschaeftsfeld-Controller-m-w-x-bundesweit-Sweco-GmbH--9943813-inline.html
+2023-08-24 12:08:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Trainee-in-Market-Analytics-f-m-d-Duesseldorf-Uniper--9956783-inline.html
+2023-08-24 12:08:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-w-m-d-Duesseldorf-Airport-City-Unibail-Rodamco-Westfield--9686822-inline.html
+2023-08-24 12:08:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-Financial-Analyst-Business-Operations-w-m-d-Koeln-TUEV-Rheinland-Group--9646273-inline.html
+2023-08-24 12:08:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Requirements-Engineer-Bonn-Ratbacher-GmbH--9956157-inline.html
+2023-08-24 12:08:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Fleet-Pricing-Analyst-Europe-m-w-d-Bochum-BP-P-L-C--9910828-inline.html
+2023-08-24 12:08:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Financial-Risk-Analyst-im-Risikocontrolling-w-m-d-in-Voll-oder-Teilzeit-31-Stunden-Hauptverwaltung-Duesseldorf-TARGOBANK--9777028-inline.html
+2023-08-24 12:08:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Process-Excellence-Analyst-m-w-d-Heidelberg-ADM-WILD-Europe-GmbH-Co-KG--9835821-inline.html
+2023-08-24 12:09:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Isernhagen-bei-Hannover-CBR-eCommerce-GmbH--9948069-inline.html
+2023-08-24 12:09:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Business-Analyst-m-w-d-SAP-Finance-Koeln-Zurich-Gruppe-Deutschland--9936637-inline.html
+2023-08-24 12:09:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Hamburg-Academic-Work-Academy-Germany-GmbH--9881790-inline.html
+2023-08-24 12:09:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Product-Owner-IT-Application-Analyst-CRM-m-w-d-80-100-Rapperswil-Jona-Schweiz-oder-Pfullendorf-Geberit-Verwaltungs-GmbH--9847128-inline.html
+2023-08-24 12:09:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Risk-Analyst-Threat-Evaluation-and-Risk-Assessment-TERA-Munich-Muenchen-Amazon-Europe-Core--9899771-inline.html
+2023-08-24 12:09:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-Sales-Service-BPS-xfm-Goettingen-Sartorius-Corporate-Administration-GmbH--9717867-inline.html
+2023-08-24 12:09:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-hybrides-Arbeiten-Remote-Praesenz-Mannheim-DIS-AG--9888608-inline.html
+2023-08-24 12:09:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Budgetcontroller-in-DR-Anlage-m-w-d-Duisburg-thyssenkrupp-Steel-Europe-AG--9953163-inline.html
+2023-08-24 12:09:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-Analyst-m-f-d-Hamburg-Stepstone-GmbH--9827657-inline.html
+2023-08-24 12:10:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikant-Order-Fulfillment-Analyst-m-w-x-Jena-ZEISS--9848575-inline.html
+2023-08-24 12:10:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9906766-inline.html
+2023-08-24 12:10:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-Customer-Relationship-Management-m-w-d-Garching-Swiss-Life-AG--9879329-inline.html
+2023-08-24 12:10:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Digital-Solutions-Specialist-w-m-d-fuer-den-Aufsichtsbereich-Wertpapier-Asset-Management-Frankfurt-am-Main-Bundesanstalt-fuer-Finanzdienstleistungsaufsicht--9897646-inline.html
+2023-08-24 12:10:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Anforderungsmanager-m-w-d-Informatiker-in-Hochschule-Chemnitz-Sachsen-Marketplace-Hub--9890420-inline.html
+2023-08-24 12:10:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-f-d-Berlin-Flaconi-GmbH--9967104-inline.html
+2023-08-24 12:10:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analyst-m-w-d-Memmingen-Home-Office-Gardner-Denver-Thomas-GmbH--9897271-inline.html
+2023-08-24 12:10:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-in-Unterluess-Unterluess-bei-Celle-Hannover-Rheinmetall-Waffe-Munition-GmbH--9948030-inline.html
+2023-08-24 12:10:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9894709-inline.html
+2023-08-24 12:11:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-w-m-d-Duesseldorf-Mainz-TARGOBANK--9935185-inline.html
+2023-08-24 12:11:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-m-w-d-Rellingen-Refresco-Deutschland-GmbH--9943846-inline.html
+2023-08-24 12:11:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Hotelmanager-m-w-d-bis-60-000-Euro-fuer-kleines-Design-Hotel-Berlin-AVART-Personal-GmbH--9920531-inline.html
+2023-08-24 12:11:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Developer-m-w-d-im-Controlling-Hamburg-SIGNAL-IDUNA-Asset-Management-GmbH--9810850-inline.html
+2023-08-24 12:11:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Consultant-Business-Analyst-w-m-d-Hannover-HIS-Hochschul-Informations-System-eG--9891564-inline.html
+2023-08-24 12:11:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-in-CRM-Hannover-HDI-AG--9887005-inline.html
+2023-08-24 12:11:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Investitionscontroller-Businesscontroller-Industriekunden-m-w-d-Saarbruecken-Iqony-Energies-GmbH--9956490-inline.html
+2023-08-24 12:11:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-im-Group-Reporting-m-w-d-Wasserburg-am-Inn-J-Bauer-GmbH-Co-KG--9953700-inline.html
+2023-08-24 12:11:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikum-im-Bereich-Finanzanalyse-m-w-d-Mannheim-John-Deere-GmbH-Co-KG--9881953-inline.html
+2023-08-24 12:11:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--FPA-Analyst-Langenfeld-MacDermid-Enthone-GmbH--9935615-inline.html
+2023-08-24 12:12:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Engineer-in-Frankfurt-Main-Deutsche-Bahn-AG--9945255-inline.html
+2023-08-24 12:12:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-hybrides-Arbeiten-Remote-Praesenz-Hamburg-Adecco-Deutschland--9954597-inline.html
+2023-08-24 12:12:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Financial-Analyst-m-w-x-Oberkochen-ZEISS--9457604-inline.html
+2023-08-24 12:12:25, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-fuer-den-Standort-Mannheim-bei-Corporate-Controlling-Road-Air-Sea-Mannheim-DACHSER-SE--9780433-inline.html
+2023-08-24 12:12:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-Kredit-m-w-d-fuer-den-Bereich-Kredit-Stuttgart-DZ-BANK-AG--9894105-inline.html
+2023-08-24 12:12:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analystin-Group-Reporting-Mainz-SCHOTT-AG--9876358-inline.html
+2023-08-24 12:12:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-Pricing-Wirtschaftlichkeit-wmd-Krefeld-SWK-Energie-GmbH--9958852-inline.html
+2023-08-24 12:12:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Supply-Chain-Planner-Analyst-Demand-Planning-Analyst-Muenster-flaschenpost-SE--9899216-inline.html
+2023-08-24 12:13:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Consultant-m-w-div-Selters-Westerwald-Schuetz-GmbH-Co-KGaA--9881439-inline.html
+2023-08-24 12:13:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referent-in-Business-Controller-m-w-d-Hannover-TUI-Business-Services-GmbH--9932978-inline.html
+2023-08-24 12:13:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Specialist-Geo-Analytics-all-genders-Leipzig-Berlin-PYUR-Tele-Columbus--9897053-inline.html
+2023-08-24 12:13:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-Financial-Analyst-m-w-d-Moenchengladbach-Smurfit-Kappa-Recycling-GmbH--9963520-inline.html
+2023-08-24 12:13:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Application-Manager-Business-Analyst-im-Market-Making-m-w-d-Unterschleissheim-bei-Muenchen-Baader-Bank-AG--9865523-inline.html
+2023-08-24 12:13:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analyst-Balance-Accountant-m-w-d-Mainburg-WOLF-Group--9902110-inline.html
+2023-08-24 12:13:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Consultant-Controlling-Applications-f-m-d-Duesseldorf-Uniper--9904569-inline.html
+2023-08-24 12:13:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-im-Controlling-Essen-ista-SE--9899271-inline.html
+2023-08-24 12:13:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Risk-Analyst-m-w-d-Stuttgart-LBBW-Landesbank-Baden-Wuerttemberg--9938092-inline.html
+2023-08-24 12:14:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-w-m-d-Financial-Service-Solutions-Augsburg-Berlin-Duesseldorf-Frankfurt-Hamburg-Koeln-Muenchen-Nuernberg-Stuttgart-PAS-Financial-Advisory-AG--9926122-inline.html
+2023-08-24 12:14:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-w-m-d-fuer-den-Bereich-Unternehmensplanung-Berichtswesen-Essen-GALERIA-Karstadt-Kaufhof-GmbH--9932240-inline.html
+2023-08-24 12:14:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikum-IT-Business-Analyst-Produktionssteuerung-Logistik-m-w-d-Mannheim-John-Deere-GmbH-Co-KG--9882077-inline.html
+2023-08-24 12:14:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Privacy-Specialist-Technology-Information-Governance-w-m-d-Hamburg-Otto-GmbH-Co-KG--9895956-inline.html
+2023-08-24 12:14:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Vertriebscontroller-Business-Analyst-m-w-d-Friedberg-Hans-Segmueller-Polstermoebelfabrik-GmbH-Co-KG--9886405-inline.html
+2023-08-24 12:14:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-Lead-Business-Analyst-Real-Estate-Structured-Finance-w-m-d-Wiesbaden-Aareal-Bank-AG--9933564-inline.html
+2023-08-24 12:14:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-in-Vollzeit-Rosstal-Hisense-Gorenje-Germany-GmbH--9914006-inline.html
+2023-08-24 12:14:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Financial-Analyst-Analytics-Internal-Disclosure-m-w-d-Bad-Homburg-bei-Frankfurt-Fresenius-Kabi--9940845-inline.html
+2023-08-24 12:14:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Merchant-Business-Analyst-mwd-Frankfurt-Sodexo-Pass-GmbH--9934480-inline.html
+2023-08-24 12:15:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Nordic-Short-Term-Trader-f-m-d-Duesseldorf-Oslo-Uniper--9922865-inline.html
+2023-08-24 12:15:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Business-Analyst-m-w-d-CMS-DMS-BI-Herne-Vulkan-Kupplungs-und-Getriebebau-Bernhard-Hackforth-GmbH-Co-KG--9217163-inline.html
+2023-08-24 12:15:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Wholesale-Neuss-Mobilize-Financial-Services--9960136-inline.html
+2023-08-24 12:15:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--EMEA-Financial-Analyst-RD-Function-m-f-d-Heusenstamm-Dematic-GmbH--9839809-inline.html
+2023-08-24 12:15:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Business-Controller-m-w-d-Koblenz-Scania-Deutschland-GmbH--9894383-inline.html
+2023-08-24 12:15:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Key-Account-Manager-im-E-Commerce-fuer-global-Player-m-w-d-Landshut-Regensburg-Deggendorf-HAPEKO-Hanseatisches-Personalkontor-GmbH--9952053-inline.html
+2023-08-24 12:15:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referentin-Risikocontrolling-Entwicklerin-Planungssysteme-Neuss-Bank11-fuer-Privatkunden-und-Handel-GmbH--9840117-inline.html
+2023-08-24 12:15:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Finance-Analyst-m-w-d-Sonneborn-Velux-A-S--9900396-inline.html
+2023-08-24 12:15:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Pleinfeld-Muenchen-ONSKINERY-GmbH-Co-KG--9892217-inline.html
+2023-08-24 12:15:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-US-Gas-Analyst-m-f-t-Essen-RWE-Supply-Trading-GmbH--9892606-inline.html
+2023-08-24 12:16:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Frankfurt-am-Main-Frankfurter-Allgemeine-Zeitung-GmbH-F-A-Z--9958679-inline.html
+2023-08-24 12:16:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Mitarbeiter-Produktkalkulation-w-m-d-Berlin-Mercedes-Benz-Group-Services-Berlin--9894450-inline.html
+2023-08-24 12:16:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Team-Lead-EDI-Competence-Center-m-w-d-Essen-Deichmann-SE--9871075-inline.html
+2023-08-24 12:16:25, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Rueckversicherung-Reporting-Koeln-AXA-Konzern-AG--9819574-inline.html
+2023-08-24 12:16:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Division-Controller-w-m-d-Frankfurt-am-Main-KION-GROUP-AG--9831997-inline.html
+2023-08-24 12:16:38, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Performance-Manager-im-E-Commerce-fuer-global-Player-m-w-d-Landshut-Regensburg-Deggendorf-HAPEKO-Hanseatisches-Personalkontor-GmbH--9927182-inline.html
+2023-08-24 12:16:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Marketing-Analyst-m-f-d-Berlin-Flaconi-GmbH--9897693-inline.html
+2023-08-24 12:16:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Finance-and-Controlling-Analyst-m-w-d-Hamburg-remote-TOM-TAILOR--9891243-inline.html
+2023-08-24 12:16:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Controller-Business-Intelligence-d-m-w-Wiesbaden-Henkell-Co-Sektkellerei-KG--9934105-inline.html
+2023-08-24 12:17:04, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Controller-m-w-d-mit-Schwerpunkt-Reporting-Gewinn-und-Verlustrechnung-Giengen-Albert-Ziegler-GmbH--9947262-inline.html
+2023-08-24 12:17:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Risk-Analyst-all-genders-Corporate-Risk-Management-Koeln-BNP-Paribas-Leasing-Solutions--9886766-inline.html
+2023-08-24 12:17:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Operations-Support-Analyst-m-w-d-Obernkirchen-ITT-Bornemann-GmbH--9901891-inline.html
+2023-08-24 12:17:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-Analyst-m-f-d-Muenchen-Stepstone-GmbH--9827658-inline.html
+2023-08-24 12:17:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-fuer-Boerse-Trading-Finanzen-in-Vollzeit-m-w-d-Berlin-XTB-S-A-German-Branch--9640573-inline.html
+2023-08-24 12:17:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-Gelnhausen-Litens-Automotive-GmbH-Co-KG--9840541-inline.html
+2023-08-24 12:17:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-Consultant-Market-Sales-m-w-d-Duesseldorf-Home-Office-HOEVELER-HOLZMANN-CONSULTING-GmbH--9872787-inline.html
+2023-08-24 12:17:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-Firmenkunden-Mittelstand-w-m-d-Duesseldorf-Offenbach-am-Main-Helaba-Landesbank-Hessen-Thueringen--9947107-inline.html
+2023-08-24 12:17:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Reporting-Specialist-m-w-d-Baden-Baden-GRENKE-AG--9819173-inline.html
+2023-08-24 12:18:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-Financial-Analyst-m-w-d-fuer-renommiertes-Unternehmen-Mannheim-Darmstadt-Heppenheim-HAPEKO-Hanseatisches-Personalkontor-GmbH--9967155-inline.html
+2023-08-24 12:18:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Global-Operations-Analyst-Project-Controlling-m-w-d-Ladenburg-BK-Giulini-GmbH--9892154-inline.html
+2023-08-24 12:18:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-m-w-d-mit-Schwerpunkt-Management-Reporting-Nachhaltigkeitsberichterstattung-Frankfurt-am-Main-Mainova-AG--9899849-inline.html
+2023-08-24 12:18:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Tracking-Analyst-gn-Hamburg-LichtBlick-SE--9892641-inline.html
+2023-08-24 12:18:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-mit-Schwerpunkt-Reporting-Flensburg-netzkontor-nord-gmbh--9944946-inline.html
+2023-08-24 12:18:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Controller-Statistical-Reporting-Team-AVP-Frankfurt-Germany-Germany-Morgan-Stanley--9582784-inline.html
+2023-08-24 12:18:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-FPA-Analyst-m-w-d-Muenchen-Estee-Lauder-Companies-GmbH--9886666-inline.html
+2023-08-24 12:18:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Site-Business-Management-Controller-RD-Controller-m-w-d-Bietigheim-Bissingen-Valeo-Wischersysteme-GmbH--9887567-inline.html
+2023-08-24 12:18:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referent-Konzernfinanzcontrolling-m-w-d-Stuttgart-LBBW-Landesbank-Baden-Wuerttemberg--9897356-inline.html
+2023-08-24 12:18:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-f-x-Muenchen-Daiichi-Sankyo-Europe-GmbH--9964784-inline.html
+2023-08-24 12:19:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-w-m-d-Bremerhaven-Hamburg-oder-Bydgoszcz-Polen-FRoSTA-AG--9935643-inline.html
+2023-08-24 12:19:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Cost-Analyst-m-w-d-Kempten-DACHSER-SE--9528245-inline.html
+2023-08-24 12:19:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Group-leader-I2D-Digital-Warehouse-Analytics-Excellence-f-m-div-Karlsruhe-Bosch-Gruppe--9536302-inline.html
+2023-08-24 12:19:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Microsoft-Business-Intelligence-Developer-wmd-Nuernberg-Mannheim-Stuttgart-BridgingIT-GmbH--9819952-inline.html
+2023-08-24 12:19:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Financial-Planning-Analysis-FPA-Frankfurt-am-Main-CEVA-Logistics--9936854-inline.html
+2023-08-24 12:19:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-in-m-w-d-Bonn-Academic-Work-Academy-Germany-GmbH--9884483-inline.html
+2023-08-24 12:19:38, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-Market-Intelligence-in-der-Unternehmensentwicklung-m-w-d-Ravensburg-Vetter-Pharma-Fertigung-GmbH-Co-KG--9967559-inline.html
+2023-08-24 12:19:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analystin-Asset-Management-Leverkusen-Viridium-Gruppe--9901678-inline.html
+2023-08-24 12:19:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controllerin-mit-Schwerpunkt-Business-Intelligence-w-m-d-Berlin-WBM-Wohnungsbaugesellschaft-Berlin-Mitte-mbH--9953716-inline.html
+2023-08-24 12:19:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-w-d-m-mit-Schwerpunkt-Sales-Oldenburg-EWE-TEL-GmbH--9917953-inline.html
+2023-08-24 12:20:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Controller-Business-Analyst-m-w-d-Neckarsulm-Lidl-Digital--9939694-inline.html
+2023-08-24 12:20:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analyst-Finanzanalyst-m-w-d-Langen-Hessen-Henry-Schein-Services-GmbH--9894658-inline.html
+2023-08-24 12:20:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-w-m-x-Data-Management-and-Business-Intelligence-Muenchen-BMW-Group--9888664-inline.html
+2023-08-24 12:20:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Hannover-Laverana-GmbH-Co-KG--9962789-inline.html
+2023-08-24 12:20:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Inhouse-Systemadministrator-m-w-d-Hamburg-BITMARCK-Unternehmensgruppe--9893006-inline.html
+2023-08-24 12:20:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Analyst-Statista-Q-Business-Analysis-m-w-d-Hamburg-Statista-GmbH--9884560-inline.html
+2023-08-24 12:20:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Financial-Analyst-w-m-d-Stuttgart-Drees-Sommer-SE--9958814-inline.html
+2023-08-24 12:20:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Pricing-Specialist-m-w-d-Koeln-Hoelzel-Diagnostika-Handels-GmbH--9963861-inline.html
+2023-08-24 12:20:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-Nachhaltigkeit-Ware-Schwerpunkt-Handlungsfeld-Mensch-m-w-d-Koeln-REWE-Group--9952088-inline.html
+2023-08-24 12:21:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-Analyst-m-f-d-Berlin-Stepstone-GmbH--9827659-inline.html
+2023-08-24 12:21:03, Abfrage beendet
+2023-08-24 12:21:06, Browser geschlossen
+2023-08-24 13:47:13, Suche nach BI Analyst in Deutschland
+2023-08-24 13:47:19, Browser geoeffnet
+2023-08-24 13:48:01, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:05, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:08, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:11, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:15, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:18, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:22, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 13:48:25, Es wurden 42 Duplikate in der "Link Liste" entfernt
+2023-08-24 13:48:25, Linkliste erstellt
+2023-08-24 13:48:26, 13686 in der Datenbank bereits vorhanden
+2023-08-24 13:48:26, Abfrage begonnen
+2023-08-24 13:48:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Nordic-Short-Term-Trader-f-m-d-Duesseldorf-Oslo-Uniper--9922865-inline.html
+2023-08-24 13:48:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-m-w-d-Digitalisierung-Kempten-Allgaeu-DACHSER-SE--8558874-inline.html
+2023-08-24 13:48:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-mit-Schwerpunkt-Foerderbanken-w-m-d-Frankfurt-am-Main-Cofinpro-AG--9042514-inline.html
+2023-08-24 13:48:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Hotelmanager-m-w-d-bis-60-000-Euro-fuer-kleines-Design-Hotel-Berlin-AVART-Personal-GmbH--9920531-inline.html
+2023-08-24 13:49:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referent-Konzernfinanzcontrolling-m-w-d-Stuttgart-LBBW-Landesbank-Baden-Wuerttemberg--9897356-inline.html
+2023-08-24 13:49:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Data-Analyst-m-w-d-Kleinostheim-Union-Tank-Eckstein-Gmbh-Co-KG--9862022-inline.html
+2023-08-24 13:49:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Gruppenleitung-w-m-d-Standard-systeme-Fonds-geschaeft-Depotbank-Frankfurt-am-Main-DekaBank-Deutsche-Girozentrale--9944457-inline.html
+2023-08-24 13:49:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-w-m-d-Financial-Service-Solutions-Augsburg-Berlin-Duesseldorf-Frankfurt-Hamburg-Koeln-Muenchen-Nuernberg-Stuttgart-PAS-Financial-Advisory-AG--9926122-inline.html
+2023-08-24 13:49:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Expert-CRM-Analysis-Intelligence-m-w-d-befristet-fuer-2-Jahre-Remscheid-Vaillant-Deutschland-GmbH-Co-KG--9869905-inline.html
+2023-08-24 13:49:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-System-Engineers-m-w-d-bis-zu-100-fuer-das-DigitalPakt-Projekt-MUSES-Standorte-Karlsruhe-oder-Stuttgart-Stuttgart-Karlsruhe-Landesmedienzentrum-Baden-Wuerttemberg--9847997-inline.html
+2023-08-24 13:49:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-Vertriebsentwicklung-m-w-d-Wiesbaden-R-V-Allgemeine-Versicherung-AG--9841621-inline.html
+2023-08-24 13:49:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-w-d-m-mit-Schwerpunkt-Sales-Oldenburg-EWE-TEL-GmbH--9917953-inline.html
+2023-08-24 13:49:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Trainee-in-Market-Analytics-f-m-d-Duesseldorf-Uniper--9956783-inline.html
+2023-08-24 13:50:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-Nachhaltigkeit-Ware-Schwerpunkt-Handlungsfeld-Mensch-m-w-d-Koeln-REWE-Group--9952088-inline.html
+2023-08-24 13:50:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Application-Manager-Business-Analyst-im-Market-Making-m-w-d-Unterschleissheim-bei-Muenchen-Baader-Bank-AG--9865523-inline.html
+2023-08-24 13:50:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-m-w-d-Braunschweig-KOSATEC-Computer-GmbH--9924473-inline.html
+2023-08-24 13:50:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Specialist-Geo-Analytics-all-genders-Leipzig-Berlin-PYUR-Tele-Columbus--9897053-inline.html
+2023-08-24 13:50:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Group-leader-I2D-Digital-Warehouse-Analytics-Excellence-f-m-div-Karlsruhe-Bosch-Gruppe--9536302-inline.html
+2023-08-24 13:50:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Team-Lead-EDI-Competence-Center-m-w-d-Essen-Deichmann-SE--9871075-inline.html
+2023-08-24 13:50:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Business-Analyst-Business-Intelligence-m-w-d-Nuernberg-Sopra-Financial-Technology-GmbH--7510500-inline.html
+2023-08-24 13:50:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Performance-Manager-im-E-Commerce-fuer-global-Player-m-w-d-Landshut-Regensburg-Deggendorf-HAPEKO-Hanseatisches-Personalkontor-GmbH--9927182-inline.html
+2023-08-24 13:50:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-fuer-Boerse-Trading-Finanzen-in-Vollzeit-m-w-d-Berlin-XTB-S-A-German-Branch--9640573-inline.html
+2023-08-24 13:51:04, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-Market-Intelligence-in-der-Unternehmensentwicklung-m-w-d-Ravensburg-Vetter-Pharma-Fertigung-GmbH-Co-KG--9967559-inline.html
+2023-08-24 13:51:10, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Doktorandin-Doktorand-w-m-d-im-Bereich-After-Sales-Umsatz-und-Ergebnisplanung-Hannover-Volkswagen-AG--9909564-inline.html
+2023-08-24 13:51:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Key-Account-Manager-im-E-Commerce-fuer-global-Player-m-w-d-Landshut-Regensburg-Deggendorf-HAPEKO-Hanseatisches-Personalkontor-GmbH--9952053-inline.html
+2023-08-24 13:51:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Markt-und-Produktanalyst-m-w-d-Investment-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9913550-inline.html
+2023-08-24 13:51:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-Consultant-Market-Sales-m-w-d-Duesseldorf-Home-Office-HOEVELER-HOLZMANN-CONSULTING-GmbH--9872787-inline.html
+2023-08-24 13:51:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Developer-m-w-d-im-Controlling-Hamburg-SIGNAL-IDUNA-Asset-Management-GmbH--9810850-inline.html
+2023-08-24 13:51:39, Abfrage beendet
+2023-08-24 13:51:41, Browser geschlossen
+2023-08-24 14:01:54, Suche nach BI Analyst in Deutschland
+2023-08-24 14:02:01, Browser geoeffnet
+2023-08-24 14:04:43, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-24 14:04:43, Linkliste erstellt
+2023-08-24 14:04:43, 13686 in der Datenbank bereits vorhanden
+2023-08-24 14:04:43, Abfrage begonnen
+2023-08-24 14:04:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referent-in-Business-Controller-m-w-d-Hannover-TUI-Business-Services-GmbH--9932978-inline.html
+2023-08-24 14:05:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Budgetcontroller-in-DR-Anlage-m-w-d-Duisburg-thyssenkrupp-Steel-Europe-AG--9953163-inline.html
+2023-08-24 14:05:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-Financial-Analyst-m-w-d-fuer-renommiertes-Unternehmen-Mannheim-Darmstadt-Heppenheim-HAPEKO-Hanseatisches-Personalkontor-GmbH--9967155-inline.html
+2023-08-24 14:05:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Tracking-Analyst-gn-Hamburg-LichtBlick-SE--9892641-inline.html
+2023-08-24 14:05:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Process-Excellence-Analyst-m-w-d-Heidelberg-ADM-WILD-Europe-GmbH-Co-KG--9835821-inline.html
+2023-08-24 14:05:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Financial-Planning-Analysis-FPA-Frankfurt-am-Main-CEVA-Logistics--9936854-inline.html
+2023-08-24 14:05:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-w-m-x-Data-Management-and-Business-Intelligence-Muenchen-BMW-Group--9888664-inline.html
+2023-08-24 14:06:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-Customer-Relationship-Management-m-w-d-Garching-Swiss-Life-AG--9879329-inline.html
+2023-08-24 14:06:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Hotelmanager-m-w-d-bis-60-000-Euro-fuer-kleines-Design-Hotel-Berlin-AVART-Personal-GmbH--9920531-inline.html
+2023-08-24 14:06:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Controller-Business-Analyst-m-w-d-Neckarsulm-Lidl-Digital--9939694-inline.html
+2023-08-24 14:06:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analystin-Group-Reporting-Mainz-SCHOTT-AG--9876358-inline.html
+2023-08-24 14:06:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9906766-inline.html
+2023-08-24 14:06:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Key-Account-Manager-im-E-Commerce-fuer-global-Player-m-w-d-Landshut-Regensburg-Deggendorf-HAPEKO-Hanseatisches-Personalkontor-GmbH--9952053-inline.html
+2023-08-24 14:07:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-m-w-d-Area-Management-Terminals-am-Flughafen-Frankfurt-Frankfurt-am-Main-Fraport-AG--9897413-inline.html
+2023-08-24 14:07:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Digital-Analyst-w-m-d-Koeln-RTL-interactive--9886041-inline.html
+2023-08-24 14:07:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-m-w-d-fuer-den-digitalen-Zahlungsverkehr-Frankfurt-am-Main-Deutsche-Bundesbank--9963291-inline.html
+2023-08-24 14:07:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-mit-Schwerpunkt-Foerderbanken-w-m-d-Frankfurt-am-Main-Cofinpro-AG--9042514-inline.html
+2023-08-24 14:07:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Division-Controller-Geschaeftsfeld-Controller-m-w-x-bundesweit-Sweco-GmbH--9943813-inline.html
+2023-08-24 14:07:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Pricing-Specialist-m-w-d-Koeln-Hoelzel-Diagnostika-Handels-GmbH--9963861-inline.html
+2023-08-24 14:08:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Investitionscontroller-Businesscontroller-Industriekunden-m-w-d-Saarbruecken-Iqony-Energies-GmbH--9956490-inline.html
+2023-08-24 14:08:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--FPA-Analyst-Langenfeld-MacDermid-Enthone-GmbH--9935615-inline.html
+2023-08-24 14:08:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referent-Konzernfinanzcontrolling-m-w-d-Stuttgart-LBBW-Landesbank-Baden-Wuerttemberg--9897356-inline.html
+2023-08-24 14:08:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-Nachhaltigkeit-Ware-Schwerpunkt-Handlungsfeld-Mensch-m-w-d-Koeln-REWE-Group--9952088-inline.html
+2023-08-24 14:08:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Reporting-Specialist-m-w-d-Baden-Baden-GRENKE-AG--9819173-inline.html
+2023-08-24 14:08:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Analyst-m-w-d-Projektfinanzierung-Erneuerbare-Energien-Muenchen-Qair-Deutschland-GmbH--9935201-inline.html
+2023-08-24 14:08:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Transformation-Manager-m-w-d-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9877401-inline.html
+2023-08-24 14:09:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-im-Group-Reporting-m-w-d-Wasserburg-am-Inn-J-Bauer-GmbH-Co-KG--9953700-inline.html
+2023-08-24 14:09:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialist-in-Datenmanagement-Investitionsplanung-und-Segmentsteuerung-Frankfurt-Main-Deutsche-Bahn-AG--9951937-inline.html
+2023-08-24 14:09:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-Financial-Analyst-m-w-d-Moenchengladbach-Smurfit-Kappa-Recycling-GmbH--9963520-inline.html
+2023-08-24 14:09:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-hybrides-Arbeiten-Remote-Praesenz-Mannheim-DIS-AG--9888608-inline.html
+2023-08-24 14:09:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-Consultant-Market-Sales-m-w-d-Duesseldorf-Home-Office-HOEVELER-HOLZMANN-CONSULTING-GmbH--9872787-inline.html
+2023-08-24 14:09:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Business-Analyst-Risiko-Controlling-m-w-d-Duesseldorf-Deutsche-Apotheker-und-Aerztebank-eG-apoBank--9962219-inline.html
+2023-08-24 14:10:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Finance-Controlling-Analyst-m-w-d-Muenchen-Cobalt-Deutschland-GmbH--9899727-inline.html
+2023-08-24 14:10:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-Analyst-m-f-d-Berlin-Stepstone-GmbH--9827659-inline.html
+2023-08-24 14:10:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Trainee-in-Market-Analytics-f-m-d-Duesseldorf-Uniper--9956783-inline.html
+2023-08-24 14:10:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analystin-Asset-Management-Neu-Isenburg-Viridium-Gruppe--9901672-inline.html
+2023-08-24 14:10:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Referent-Finanzanalyst-Gesamtbanksteuerung-Risikocontrolling-m-w-d-Bad-Homburg-vor-der-Hoehe-Taunus-Sparkasse--9894558-inline.html
+2023-08-24 14:11:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-fuer-den-Standort-Mannheim-bei-Corporate-Controlling-Road-Air-Sea-Mannheim-DACHSER-SE--9780433-inline.html
+2023-08-24 14:11:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-in-Vollzeit-Rosstal-Hisense-Gorenje-Germany-GmbH--9914006-inline.html
+2023-08-24 14:11:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Marketing-Analyst-m-f-d-Berlin-Flaconi-GmbH--9897693-inline.html
+2023-08-24 14:11:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-System-Engineers-m-w-d-bis-zu-100-fuer-das-DigitalPakt-Projekt-MUSES-Standorte-Karlsruhe-oder-Stuttgart-Stuttgart-Karlsruhe-Landesmedienzentrum-Baden-Wuerttemberg--9847997-inline.html
+2023-08-24 14:11:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-m-w-d-Digitalisierung-Kempten-Allgaeu-DACHSER-SE--8558874-inline.html
+2023-08-24 14:11:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analyst-Balance-Accountant-m-w-d-Mainburg-WOLF-Group--9902110-inline.html
+2023-08-24 14:12:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Site-Business-Management-Controller-RD-Controller-m-w-d-Bietigheim-Bissingen-Valeo-Wischersysteme-GmbH--9887567-inline.html
+2023-08-24 14:12:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--CS-Business-Controller-m-f-d-Heusenstamm-Dematic-GmbH--9826508-inline.html
+2023-08-24 14:12:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referentin-Risikocontrolling-Entwicklerin-Planungssysteme-Neuss-Bank11-fuer-Privatkunden-und-Handel-GmbH--9840117-inline.html
+2023-08-24 14:12:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analyst-m-w-d-Memmingen-Home-Office-Gardner-Denver-Thomas-GmbH--9897271-inline.html
+2023-08-24 14:12:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analystin-Asset-Management-Leverkusen-Viridium-Gruppe--9901678-inline.html
+2023-08-24 14:12:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Mitarbeiter-Produktkalkulation-w-m-d-Berlin-Mercedes-Benz-Group-Services-Berlin--9894450-inline.html
+2023-08-24 14:12:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--AI-Data-Specialist-fuer-Production-Data-w-m-d-Sindelfingen-Mercedes-Benz-AG--9889018-inline.html
+2023-08-24 14:13:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Fleet-Pricing-Analyst-Europe-m-w-d-Bochum-BP-P-L-C--9910828-inline.html
+2023-08-24 14:13:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Referent-Risikomanagement-Non-Financial-Risk-Analyst-w-m-d-in-Voll-oder-Teilzeit-31-Stunden-Duesseldorf-TARGOBANK--9514707-inline.html
+2023-08-24 14:13:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Wholesale-Neuss-Mobilize-Financial-Services--9960136-inline.html
+2023-08-24 14:13:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-Market-Intelligence-in-der-Unternehmensentwicklung-m-w-d-Ravensburg-Vetter-Pharma-Fertigung-GmbH-Co-KG--9967559-inline.html
+2023-08-24 14:13:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikum-im-Bereich-Finanzanalyse-m-w-d-Mannheim-John-Deere-GmbH-Co-KG--9881953-inline.html
+2023-08-24 14:13:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Buehl-Leipheim-Oechsle-Display-Systeme-GmbH--9904743-inline.html
+2023-08-24 14:14:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Finance-and-Controlling-Analyst-m-w-d-Hamburg-remote-TOM-TAILOR--9891243-inline.html
+2023-08-24 14:14:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Data-Analyst-m-w-d-Kleinostheim-Union-Tank-Eckstein-Gmbh-Co-KG--9862022-inline.html
+2023-08-24 14:14:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-w-m-d-Duesseldorf-Airport-City-Unibail-Rodamco-Westfield--9686822-inline.html
+2023-08-24 14:14:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-Analyst-m-f-d-Hamburg-Stepstone-GmbH--9827657-inline.html
+2023-08-24 14:14:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Financial-Analyst-all-gender-Hamburg-Mediabrands-GmbH--9555808-inline.html
+2023-08-24 14:14:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Finance-Analyst-m-w-d-Sonneborn-Velux-A-S--9900396-inline.html
+2023-08-24 14:15:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Product-Owner-IT-Application-Analyst-CRM-m-w-d-80-100-Rapperswil-Jona-Schweiz-oder-Pfullendorf-Geberit-Verwaltungs-GmbH--9847128-inline.html
+2023-08-24 14:15:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controllerin-Financial-Analystin-Business-Unit-Home-Tech-Mainz-SCHOTT-AG--9876940-inline.html
+2023-08-24 14:15:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Stammdaten-Spezialist-m-w-d-Hannover-Laverana-GmbH-Co-KG--9955234-inline.html
+2023-08-24 14:15:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Merchant-Business-Analyst-mwd-Frankfurt-Sodexo-Pass-GmbH--9934480-inline.html
+2023-08-24 14:15:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Digital-Solutions-Specialist-w-m-d-fuer-den-Aufsichtsbereich-Wertpapier-Asset-Management-Frankfurt-am-Main-Bundesanstalt-fuer-Finanzdienstleistungsaufsicht--9897646-inline.html
+2023-08-24 14:15:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Financial-Analyst-Analytics-Internal-Disclosure-m-w-d-Bad-Homburg-bei-Frankfurt-Fresenius-Kabi--9940845-inline.html
+2023-08-24 14:16:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Risk-Analyst-m-w-d-Stuttgart-LBBW-Landesbank-Baden-Wuerttemberg--9938092-inline.html
+2023-08-24 14:16:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Financial-Analyst-m-w-x-Oberkochen-ZEISS--9457604-inline.html
+2023-08-24 14:16:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Controller-m-w-d-mit-Schwerpunkt-Reporting-Gewinn-und-Verlustrechnung-Giengen-Albert-Ziegler-GmbH--9947262-inline.html
+2023-08-24 14:16:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-w-m-d-Duesseldorf-Mainz-TARGOBANK--9935185-inline.html
+2023-08-24 14:16:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Application-Manager-Business-Analyst-im-Market-Making-m-w-d-Unterschleissheim-bei-Muenchen-Baader-Bank-AG--9865523-inline.html
+2023-08-24 14:16:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Nordic-Short-Term-Trader-f-m-d-Duesseldorf-Oslo-Uniper--9922865-inline.html
+2023-08-24 14:17:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Business-Analyst-m-w-d-CMS-DMS-BI-Herne-Vulkan-Kupplungs-und-Getriebebau-Bernhard-Hackforth-GmbH-Co-KG--9217163-inline.html
+2023-08-24 14:17:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Pleinfeld-Muenchen-ONSKINERY-GmbH-Co-KG--9892217-inline.html
+2023-08-24 14:17:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--EMEA-Financial-Analyst-RD-Function-m-f-d-Heusenstamm-Dematic-GmbH--9839809-inline.html
+2023-08-24 14:17:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Microsoft-Business-Intelligence-Developer-wmd-Nuernberg-Mannheim-Stuttgart-BridgingIT-GmbH--9819952-inline.html
+2023-08-24 14:17:25, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Specialist-m-w-d-Controller-in-Operations-Oldenburg-BUEFA-Cleaning-GmbH-Co-KG--9893860-inline.html
+2023-08-24 14:17:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-w-d-m-mit-Schwerpunkt-Sales-Oldenburg-EWE-TEL-GmbH--9917953-inline.html
+2023-08-24 14:17:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Consultant-Controlling-Applications-f-m-d-Duesseldorf-Uniper--9904569-inline.html
+2023-08-24 14:17:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-US-Gas-Analyst-m-f-t-Essen-RWE-Supply-Trading-GmbH--9892606-inline.html
+2023-08-24 14:17:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Isernhagen-bei-Hannover-CBR-eCommerce-GmbH--9948069-inline.html
+2023-08-24 14:17:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-hybrides-Arbeiten-Remote-Praesenz-Hamburg-Adecco-Deutschland--9954597-inline.html
+2023-08-24 14:18:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controlling-Analyst-m-w-d-Mannheim-Phoenix-Pharmahandel-GmbH-Co-KG--9886098-inline.html
+2023-08-24 14:18:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Performance-Manager-im-E-Commerce-fuer-global-Player-m-w-d-Landshut-Regensburg-Deggendorf-HAPEKO-Hanseatisches-Personalkontor-GmbH--9927182-inline.html
+2023-08-24 14:18:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-m-w-d-Minden-WAGO-GmbH-Co-KG--9891431-inline.html
+2023-08-24 14:18:25, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-f-d-Berlin-Flaconi-GmbH--9967104-inline.html
+2023-08-24 14:18:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-KYC-Analyst-Business-Banking-w-m-d-Berlin-ING-Deutschland--9876319-inline.html
+2023-08-24 14:18:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Supply-Chain-Planner-Analyst-Demand-Planning-Analyst-Muenster-flaschenpost-SE--9899216-inline.html
+2023-08-24 14:18:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Operations-Support-Analyst-m-w-d-Obernkirchen-ITT-Bornemann-GmbH--9901891-inline.html
+2023-08-24 14:18:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-Pricing-Wirtschaftlichkeit-wmd-Krefeld-SWK-Energie-GmbH--9958852-inline.html
+2023-08-24 14:19:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Consultant-m-w-div-Selters-Westerwald-Schuetz-GmbH-Co-KGaA--9881439-inline.html
+2023-08-24 14:19:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Specialist-Geo-Analytics-all-genders-Leipzig-Berlin-PYUR-Tele-Columbus--9897053-inline.html
+2023-08-24 14:19:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Analyst-Statista-Q-Business-Analysis-m-w-d-Hamburg-Statista-GmbH--9884560-inline.html
+2023-08-24 14:19:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-im-Controlling-Essen-ista-SE--9899271-inline.html
+2023-08-24 14:19:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Vertriebscontroller-Business-Analyst-m-w-d-Friedberg-Hans-Segmueller-Polstermoebelfabrik-GmbH-Co-KG--9886405-inline.html
+2023-08-24 14:19:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Engineer-in-Frankfurt-Main-Deutsche-Bahn-AG--9945255-inline.html
+2023-08-24 14:19:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Engineer-in-fuer-Microsoft-Power-BI-Hannover-Hannover-Rueck-SE--9836468-inline.html
+2023-08-24 14:19:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-fuer-Boerse-Trading-Finanzen-in-Vollzeit-m-w-d-Berlin-XTB-S-A-German-Branch--9640573-inline.html
+2023-08-24 14:19:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Frankfurt-am-Main-Frankfurter-Allgemeine-Zeitung-GmbH-F-A-Z--9958679-inline.html
+2023-08-24 14:20:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Portfoliomanagement-Analyst-AIF-Fondscontroller-Analyst-m-w-d-Duesseldorf-aik-Immobilien-Investmentgesellschaft-mbH--9899718-inline.html
+2023-08-24 14:20:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-Analyst-m-f-d-Muenchen-Stepstone-GmbH--9827658-inline.html
+2023-08-24 14:20:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-m-w-d-mit-Schwerpunkt-Management-Reporting-Nachhaltigkeitsberichterstattung-Frankfurt-am-Main-Mainova-AG--9899849-inline.html
+2023-08-24 14:20:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-in-Unterluess-Unterluess-bei-Celle-Hannover-Rheinmetall-Waffe-Munition-GmbH--9948030-inline.html
+2023-08-24 14:20:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-mit-Schwerpunkt-Demand-Planning-m-w-d-Neuenstadt-a-K-bei-Heilbronn-MS-Motorservice-International-GmbH--9363763-inline.html
+2023-08-24 14:20:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Ludwigsburg-Wuestenrot-Haus-und-Staedtebau-GmbH--9906547-inline.html
+2023-08-24 14:20:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikant-Order-Fulfillment-Analyst-m-w-x-Jena-ZEISS--9848575-inline.html
+2023-08-24 14:20:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-f-x-Muenchen-Daiichi-Sankyo-Europe-GmbH--9964784-inline.html
+2023-08-24 14:20:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Controller-Statistical-Reporting-Team-AVP-Frankfurt-Germany-Germany-Morgan-Stanley--9582784-inline.html
+2023-08-24 14:21:04, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Risk-Analyst-all-genders-Corporate-Risk-Management-Koeln-BNP-Paribas-Leasing-Solutions--9886766-inline.html
+2023-08-24 14:21:10, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Rueckversicherung-Reporting-Koeln-AXA-Konzern-AG--9819574-inline.html
+2023-08-24 14:21:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-Firmenkunden-Mittelstand-w-m-d-Duesseldorf-Offenbach-am-Main-Helaba-Landesbank-Hessen-Thueringen--9947107-inline.html
+2023-08-24 14:21:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9894709-inline.html
+2023-08-24 14:21:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Team-Lead-EDI-Competence-Center-m-w-d-Essen-Deichmann-SE--9871075-inline.html
+2023-08-24 14:21:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-Lead-Business-Analyst-Real-Estate-Structured-Finance-w-m-d-Wiesbaden-Aareal-Bank-AG--9933564-inline.html
+2023-08-24 14:21:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Developer-m-w-d-im-Controlling-Hamburg-SIGNAL-IDUNA-Asset-Management-GmbH--9810850-inline.html
+2023-08-24 14:21:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-w-m-d-Bremerhaven-Hamburg-oder-Bydgoszcz-Polen-FRoSTA-AG--9935643-inline.html
+2023-08-24 14:21:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Financial-Risk-Analyst-im-Risikocontrolling-w-m-d-in-Voll-oder-Teilzeit-31-Stunden-Hauptverwaltung-Duesseldorf-TARGOBANK--9777028-inline.html
+2023-08-24 14:22:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Gruppenleitung-w-m-d-Standard-systeme-Fonds-geschaeft-Depotbank-Frankfurt-am-Main-DekaBank-Deutsche-Girozentrale--9944457-inline.html
+2023-08-24 14:22:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Cost-Analyst-m-w-d-Kempten-DACHSER-SE--9528245-inline.html
+2023-08-24 14:22:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Fondscontroller-Portfoliomanager-Hamburg-Frankfurt-am-Main-Joh-Berenberg-Gossler-Co-KG--9887230-inline.html
+2023-08-24 14:22:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Hannover-Laverana-GmbH-Co-KG--9962789-inline.html
+2023-08-24 14:22:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Inhouse-Systemadministrator-m-w-d-Hamburg-BITMARCK-Unternehmensgruppe--9893006-inline.html
+2023-08-24 14:22:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-FPA-Analyst-m-w-d-Muenchen-Estee-Lauder-Companies-GmbH--9886666-inline.html
+2023-08-24 14:22:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikum-IT-Business-Analyst-Produktionssteuerung-Logistik-m-w-d-Mannheim-John-Deere-GmbH-Co-KG--9882077-inline.html
+2023-08-24 14:22:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Privacy-Specialist-Technology-Information-Governance-w-m-d-Hamburg-Otto-GmbH-Co-KG--9895956-inline.html
+2023-08-24 14:22:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-bundesweit-Goettingen-SYCOR-GmbH--9966864-inline.html
+2023-08-24 14:25:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-w-m-d-fuer-den-Bereich-Unternehmensplanung-Berichtswesen-Essen-GALERIA-Karstadt-Kaufhof-GmbH--9932240-inline.html
+2023-08-24 14:25:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Manager-m-w-d-Global-Service-fuer-den-Bereich-Professional-Coffee-Machines-Geislingen-an-der-Steige-WMF-GmbH--9894469-inline.html
+2023-08-24 14:25:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Essen-BITMARCK-Unternehmensgruppe--9530634-inline.html
+2023-08-24 14:25:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Business-Controller-m-w-d-Koblenz-Scania-Deutschland-GmbH--9894383-inline.html
+2023-08-24 14:25:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Global-Operations-Analyst-Project-Controlling-m-w-d-Ladenburg-BK-Giulini-GmbH--9892154-inline.html
+2023-08-24 14:25:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Tuebingen-oder-Stuttgart-Electrolux-Professional-GmbH--9944055-inline.html
+2023-08-24 14:26:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-mwd-Frankfurt-Sodexo-Pass-GmbH--9937022-inline.html
+2023-08-24 14:26:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Expertin-Accounting-und-Reporting-Duesseldorf-OXG-Glasfaser-GmbH--9840698-inline.html
+2023-08-24 14:26:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-Vertriebsentwicklung-m-w-d-Wiesbaden-R-V-Allgemeine-Versicherung-AG--9841621-inline.html
+2023-08-24 14:26:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Requirements-Engineer-Bonn-Ratbacher-GmbH--9956157-inline.html
+2023-08-24 14:26:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-Kredit-m-w-d-fuer-den-Bereich-Kredit-Stuttgart-DZ-BANK-AG--9894105-inline.html
+2023-08-24 14:26:38, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Pricing-Data-Specialist-m-w-d-Boppard-BOMAG-GmbH--9899987-inline.html
+2023-08-24 14:26:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-mit-Schwerpunkt-Reporting-Flensburg-netzkontor-nord-gmbh--9944946-inline.html
+2023-08-24 14:26:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Analyst-m-w-d-Rellingen-Refresco-Deutschland-GmbH--9943846-inline.html
+2023-08-24 14:26:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-Financial-Analyst-Business-Operations-w-m-d-Koeln-TUEV-Rheinland-Group--9646273-inline.html
+2023-08-24 14:27:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Risk-Analyst-Threat-Evaluation-and-Risk-Assessment-TERA-Munich-Muenchen-Amazon-Europe-Core--9899771-inline.html
+2023-08-24 14:27:10, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-Sales-Service-BPS-xfm-Goettingen-Sartorius-Corporate-Administration-GmbH--9717867-inline.html
+2023-08-24 14:27:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Hamburg-Academic-Work-Academy-Germany-GmbH--9881790-inline.html
+2023-08-24 14:27:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Markt-und-Produktanalyst-m-w-d-Investment-Muenchen-Fonds-Finanz-Maklerservice-GmbH--9913550-inline.html
+2023-08-24 14:27:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controllerin-mit-Schwerpunkt-Business-Intelligence-w-m-d-Berlin-WBM-Wohnungsbaugesellschaft-Berlin-Mitte-mbH--9953716-inline.html
+2023-08-24 14:27:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-in-CRM-Hannover-HDI-AG--9887005-inline.html
+2023-08-24 14:27:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Consultant-Business-Analyst-w-m-d-Hannover-HIS-Hochschul-Informations-System-eG--9891564-inline.html
+2023-08-24 14:27:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Analyst-Finanzanalyst-m-w-d-Langen-Hessen-Henry-Schein-Services-GmbH--9894658-inline.html
+2023-08-24 14:27:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Division-Controller-w-m-d-Frankfurt-am-Main-KION-GROUP-AG--9831997-inline.html
+2023-08-24 14:28:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-bei-Emvia-Living-GmbH-Hamburg-EMVIA-Living-GmbH--9939633-inline.html
+2023-08-24 14:28:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-m-w-d-Anforderungsmanager-m-w-d-Informatiker-in-Hochschule-Chemnitz-Sachsen-Marketplace-Hub--9890420-inline.html
+2023-08-24 14:28:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Doktorandin-Doktorand-w-m-d-im-Bereich-After-Sales-Umsatz-und-Ergebnisplanung-Hannover-Volkswagen-AG--9909564-inline.html
+2023-08-24 14:28:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Controller-m-w-d-Hamburg-Bank-Deutsches-Kraftfahrzeuggewerbe-GmbH--9766317-inline.html
+2023-08-24 14:28:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Intelligence-Analyst-m-w-d-Braunschweig-KOSATEC-Computer-GmbH--9924473-inline.html
+2023-08-24 14:28:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Financial-Analyst-w-m-d-Stuttgart-Drees-Sommer-SE--9958814-inline.html
+2023-08-24 14:28:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Expert-CRM-Analysis-Intelligence-m-w-d-befristet-fuer-2-Jahre-Remscheid-Vaillant-Deutschland-GmbH-Co-KG--9869905-inline.html
+2023-08-24 14:28:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-w-m-d-Financial-Service-Solutions-Augsburg-Berlin-Duesseldorf-Frankfurt-Hamburg-Koeln-Muenchen-Nuernberg-Stuttgart-PAS-Financial-Advisory-AG--9926122-inline.html
+2023-08-24 14:28:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Controller-Business-Intelligence-d-m-w-Wiesbaden-Henkell-Co-Sektkellerei-KG--9934105-inline.html
+2023-08-24 14:28:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Business-Analyst-in-m-w-d-Bonn-Academic-Work-Academy-Germany-GmbH--9884483-inline.html
+2023-08-24 14:29:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Business-Analyst-m-w-d-SAP-Finance-Koeln-Zurich-Gruppe-Deutschland--9936637-inline.html
+2023-08-24 14:29:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Group-leader-I2D-Digital-Warehouse-Analytics-Excellence-f-m-div-Karlsruhe-Bosch-Gruppe--9536302-inline.html
+2023-08-24 14:29:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Expert-Financial-Reporting-w-m-d-Wiesbaden-Grossraum-Frankfurt-Aareal-Bank-AG--9948009-inline.html
+2023-08-24 14:29:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-Gelnhausen-Litens-Automotive-GmbH-Co-KG--9840541-inline.html
+2023-08-24 14:29:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Business-Analyst-Business-Intelligence-m-w-d-Nuernberg-Sopra-Financial-Technology-GmbH--7510500-inline.html
+2023-08-24 14:29:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Analyst-gn-Rating-Direktvermittlung-Koeln-Bankpower-GmbH--9955106-inline.html
+2023-08-24 14:29:39, Abfrage beendet
+2023-08-24 14:29:41, Browser geschlossen
+2023-08-24 14:30:01, Es wurden 168 Daten von Stepstone hinzugefügt
+2023-08-24 14:30:05, Suche nach Business Intelligence in Deutschland
+2023-08-24 14:30:09, Browser geoeffnet
+2023-08-24 14:31:46, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-24 14:31:46, Linkliste erstellt
+2023-08-24 14:31:46, 13854 in der Datenbank bereits vorhanden
+2023-08-24 14:31:46, Abfrage begonnen
+2023-08-24 14:31:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Cost-Engineer-m-w-divers-Hamburg-Lufthansa-Technik-AG--8754564-inline.html
+2023-08-24 14:32:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--DevOps-Cloud-Engineer-Platform-m-w-d-Koeln-REWE-digital--9843980-inline.html
+2023-08-24 14:32:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-IT-Consultant-Transportmanagement-m-w-d-Neckarsulm-Schwarz-Dienstleistungen--9956752-inline.html
+2023-08-24 14:32:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Engineer-m-w-d-Path-Planning-Wuerzburg-CNH-Industrial-Deutschland-GmbH--9893810-inline.html
+2023-08-24 14:32:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-fuer-Medizintechnik-Hersteller-m-w-d-Raum-Bochum-Dortmund-Essen-HAPEKO-Hanseatisches-Personalkontor-GmbH--9902278-inline.html
+2023-08-24 14:32:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Koeln-COGITANDA-Dataprotect-AG--9898510-inline.html
+2023-08-24 14:32:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-im-Bereich-Digital-Transformation-und-Data-Analytics-im-Controlling-Braunschweig-BMA-Braunschweigische-Maschinenbauanstalt-AG--9959149-inline.html
+2023-08-24 14:32:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--DevOps-Cloud-Engineer-Platform-m-w-d-Frankfurt-am-Main-REWE-digital--9843981-inline.html
+2023-08-24 14:32:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Manager-Business-Analytics-w-m-d-Privatkunden-Wiesbaden-SCHUFA-Holding-AG--9848989-inline.html
+2023-08-24 14:32:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Produktions-und-Vertriebscontroller-m-w-d-Hanau-Flexa-GmbH-Co-Produktions-und-Vertriebs-KG--9906479-inline.html
+2023-08-24 14:33:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Engineer-m-w-d-Core-Technologies-Wuerzburg-CNH-Industrial-Deutschland-GmbH--9893811-inline.html
+2023-08-24 14:33:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Manager-m-w-d-IT-Administrator-in-Grossraeschen-Marketplace-Hub--9901175-inline.html
+2023-08-24 14:33:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Engineer-Power-Platform-w-m-d-Frankfurt-am-Main-Berlin-Erfurt-Deutsche-Bahn-AG--9957556-inline.html
+2023-08-24 14:33:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-m-w-d-im-Business-Service-Management-Mannheim-MVV-EnergySolutions-GmbH--9837790-inline.html
+2023-08-24 14:33:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Leitung-Supply-Chain-Controlling-m-w-d-Heimenkirch-Hochland-Deutschland-GmbH--9897313-inline.html
+2023-08-24 14:33:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Group-Controller-Beteiligungscontrolling-Wasserburg-am-Inn-MEGGLE-GmbH-Co-KG--9897867-inline.html
+2023-08-24 14:33:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Trainee-Controlling-m-w-d-Fischach-Augsburg-Mueller-Service-GmbH--9968539-inline.html
+2023-08-24 14:33:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-SAP-Key-User-m-w-d-Muenchen-Korian-Deutschland-GmbH--9954206-inline.html
+2023-08-24 14:33:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--C-Softwareentwickler-m-w-d-Hannover-ecovium-GmbH--9902790-inline.html
+2023-08-24 14:34:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Karlsbad-Herrmann-Ultraschalltechnik-GmbH-Co-KG--9955813-inline.html
+2023-08-24 14:34:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Supply-Chain-Management-Mitarbeiter-Projekt-u-Prozessmanagement-w-d-m-Hamburg-Waldemar-Link-GmbH-Co-KG--9893975-inline.html
+2023-08-24 14:34:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Informationssicherheitsbeauftragter-m-w-d-Herten-Ruhrgebiet-PROSOZ-Herten-GmbH--9904883-inline.html
+2023-08-24 14:34:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--ERP-Anwendungsentwickler-und-betreuer-m-w-d-Fellbach-Buerkle-Baugruppe--9962571-inline.html
+2023-08-24 14:34:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Architect-Data-Warehouse-BI4AdvertisingServices-w-m-d-Hamburg-Otto-GmbH-Co-KG--9963025-inline.html
+2023-08-24 14:34:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referentin-Meldewesen-m-w-d-Berlin-Deutsche-Kreditbank-AG-DKB--9958287-inline.html
+2023-08-24 14:34:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Administrator-FISI-Operator-m-w-d-Schwerpunkt-RZ-Betrieb-Hamburg-BITMARCK-Unternehmensgruppe--9143229-inline.html
+2023-08-24 14:34:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-Data-Analyst-w-m-d-Hamburg-oder-Rostock-Car-Professional-Fuhrparkmanagement-und-Beratungsgesellschaft-mbH-Co-KG--9836049-inline.html
+2023-08-24 14:34:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-w-m-d-Koeln-enua-Pharma-GmbH--9965324-inline.html
+2023-08-24 14:34:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Oracle-Database-Administrator-m-w-d-Stuttgart-Mercedes-Benz-Tech-Innovation--9853511-inline.html
+2023-08-24 14:35:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projektmanager-BI-Tools-im-Finance-Accounting-m-w-d-T-TKF-20230817B-Stuttgart-Netze-BW-GmbH--9958718-inline.html
+2023-08-24 14:35:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Governance-Data-Management-Expert-wmd-Stuttgart-Berlin-BridgingIT-GmbH--9897908-inline.html
+2023-08-24 14:35:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Manager-AMXL-Performance-and-Insights-EU-SLS-Munich-Muenchen-Amazon-Europe-Core--9900343-inline.html
+2023-08-24 14:35:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkscontroller-Operationscontroller-w-m-d-Dortmund-Duisburg-Koegler-Compagnie-GmbH-Co-KG--9958543-inline.html
+2023-08-24 14:35:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Teamleiter-Service-m-w-d-Consulting-Support-Stuttgart-Boebingen-an-der-Rems-Pforzheim-ecovium-GmbH--9905053-inline.html
+2023-08-24 14:35:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-Business-and-Competitor-Intelligence-m-f-d-Muenchen-Muenchener-Rueckversicherungs-Gesellschaft-AG--9898874-inline.html
+2023-08-24 14:35:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Architekt-in-m-w-d-Hamburg-Borco-Marken-Import-Matthiesen-GmbH-Co-KG--9904691-inline.html
+2023-08-24 14:35:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Oracle-Database-Administrator-m-w-d-Ulm-Mercedes-Benz-Tech-Innovation--9853509-inline.html
+2023-08-24 14:35:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Application-Manager-IT-Projektleiter-in-Weiterbildung-Ausbildung-Freilassing-Marketplace-Hub--9960887-inline.html
+2023-08-24 14:35:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-mit-Schwerpunkt-BW-w-m-d-Hamburg-Veolia-Umweltservice-GmbH--9955821-inline.html
+2023-08-24 14:36:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analytics-Engineer-f-m-d-onsite-or-remote-home-office-Home-Office-bundesweit-Karlsruhe-Munich-11-Mail-Media--9902316-inline.html
+2023-08-24 14:36:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Expert-BI-Development-Implementation-m-w-d-Koeln-Intersnack-Deutschland-SE--9753637-inline.html
+2023-08-24 14:36:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Engineer-d-m-w-Nuernberg-NUERNBERGER-Versicherung--9954302-inline.html
+2023-08-24 14:36:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Entwickler-fuer-SAP-Schnittstellen-und-Microsoft-Power-BI-w-m-d-Tornesch-bei-Hamburg-HellermannTyton-GmbH--9907111-inline.html
+2023-08-24 14:36:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Informatikerin-Informatiker-w-m-d-als-Expertin-Experte-fuer-Kuenstliche-Intelligenz-Koeln-Generalzolldirektion--9927688-inline.html
+2023-08-24 14:36:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Trainees-m-w-d-Controlling-Finance-Bielefeld-GOLDBECK-GmbH--9585557-inline.html
+2023-08-24 14:36:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-SAP-Consultant-m-w-d-Veitshoechheim-bei-Wuerzburg-WEGMANN-automotive-GmbH--9892026-inline.html
+2023-08-24 14:36:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Financial-Controller-m-w-d-Produktion-Dortmund-Elmos-Semiconductor-SE--9955879-inline.html
+2023-08-24 14:37:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Mitarbeiter-im-Bereich-Grosskuechenzubehoer-Vertrieb-m-w-d-Hamburg-CHEFS-CULINAR-Nord-GmbH-Co-KG--9962846-inline.html
+2023-08-24 14:37:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Fertigungsplaner-in-der-internationalen-Fertigungskoordination-ABS-ESP-w-m-div-Immenstadt-im-Allgaeu-Bosch-Gruppe--9785873-inline.html
+2023-08-24 14:37:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Manager-Sales-Operations-m-w-d-Kerpen-Aalberts-Surface-Technologies-GmbH--9899503-inline.html
+2023-08-24 14:37:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Teamleiter-Financial-Controlling-w-m-d-International-Holzwickede-Rhenus-Freight-Road-Sales-Management-GmbH--9897721-inline.html
+2023-08-24 14:37:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--CRM-Spezialist-w-m-d-Frankfurt-am-Main-Deutsche-Gesellschaft-fuer-Qualitaet-DGQ-Service-GmbH--9959236-inline.html
+2023-08-24 14:37:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Account-Manager-m-w-d-fuer-den-Grossraum-Nordrhein-Westfalen-Home-Office-Nordrhein-Westfalen-Autobahn-Tank-Rast-Gruppe-GmbH-Co-KG--9892312-inline.html
+2023-08-24 14:37:38, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Engineer-Azure-w-m-d-Frankfurt-am-Main-Berlin-Erfurt-Deutsche-Bahn-AG--9957554-inline.html
+2023-08-24 14:37:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-Business-Development-m-w-d-Duesseldorf-Koegler-Compagnie-GmbH-Co-KG--9893149-inline.html
+2023-08-24 14:37:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Luegde-Synflex-Elektro-GmbH--9967690-inline.html
+2023-08-24 14:37:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Commercial-all-rounder-in-Pricing-Department-Hamburg-Oslo-DNV-GL-SE--9908185-inline.html
+2023-08-24 14:38:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Working-Student-m-f-d-IPP-OPEX-Benchmarking-Muenchen-BayWa-r-e-AG--9960104-inline.html
+2023-08-24 14:38:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Muenchen-M-net-Telekommunikations-GmbH--9902203-inline.html
+2023-08-24 14:38:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-und-ETL-Experte-m-w-d-Duesseldorf-HSBC-Trinkaus-Burkhardt-GmbH--9956708-inline.html
+2023-08-24 14:38:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-BI-Development-m-w-d-Hamburg-HIH-Invest-Real-Estate-GmbH--9907063-inline.html
+2023-08-24 14:38:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Controller-d-w-m-Neuss-Essity-Gmbh--9818416-inline.html
+2023-08-24 14:38:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Duisburg-CWS-Business-Services-GmbH--9964645-inline.html
+2023-08-24 14:38:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Consultant-m-w-d-Microsoft-Azure-Data-Engineering-Fuerth-Gescher-Guetersloh-Hamburg-Neu-Ulm-Wiesbaden-Wolfsburg-Windhoff-Group--9567713-inline.html
+2023-08-24 14:38:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Analytics-Engineer-m-w-d-Hamburg-Kiel-Bremen-Luebeck-Lueneburg-Obungi-GmbH--9953275-inline.html
+2023-08-24 14:38:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Prozessmanager-SAP-Rollout-m-w-d-Brackenheim-Hausen-SCHUNK-SE-Co-KG--9953099-inline.html
+2023-08-24 14:39:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Schwerpunkt-Cost-Controlling-Hardheim-Maschinenfabrik-Gustav-Eirich-GmbH-Co-KG--9892168-inline.html
+2023-08-24 14:39:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Logistics-Software-Consultant-w-m-d-Warehouse-Management-System-bundesweit-Berlin-Hamburg-Hannover-Duesseldorf-Bielefeld-Stuttgart-ecovium-GmbH--9891767-inline.html
+2023-08-24 14:39:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Big-Data-Engineer-m-w-d-Berlin-Frankfurt-Hamburg-Muenchen-Nuernberg-Ulm-Bonn-bundesweit-an-einem-anderen-BWI-Standort-BWI-GmbH--9964182-inline.html
+2023-08-24 14:39:21, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Anwendungsentwickler-m-w-d-Hamburg-Borco-Marken-Import-Matthiesen-GmbH-Co-KG--9904585-inline.html
+2023-08-24 14:39:28, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Manager-Reporting-Group-Performancemanagement-m-w-d-Wolfenbuettel-Mast-Jaegermeister-SE--9955998-inline.html
+2023-08-24 14:39:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-m-w-d-Bochum-Trafineo-GmbH-Co-KG--9891275-inline.html
+2023-08-24 14:39:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Analyst-m-w-d-E-Commerce-Rottendorf-S-OLIVER-GROUP--9897503-inline.html
+2023-08-24 14:39:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-BI-Consultant-m-w-d-Saarbruecken-Saarlytics-GmbH--9287899-inline.html
+2023-08-24 14:40:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-DWH-Datenarchitekt-m-w-d-Neckarsulm-Schwarz-Dienstleistungen--9906447-inline.html
+2023-08-24 14:40:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Consultant-m-w-d-Logistics-Stuttgart-Pforzheim-Boeblingen-an-der-Rems-ecovium-GmbH--9905054-inline.html
+2023-08-24 14:40:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Cloud-Operations-Manager-in-m-w-d-IT-Administrator-in-Leipzig-Marketplace-Hub--9960628-inline.html
+2023-08-24 14:40:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Engineer-Homeoffice-Option-m-w-d-Mannheim-Duesseldorf-Berlin-Muenchen-Koeln-Frankfurt-Stuttgart-Hamburg-Hays-Interne-Karriere-bei-Uns--9955282-inline.html
+2023-08-24 14:40:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Key-Account-Manager-m-w-d-Unterhaching-Erlangen-Erfurt-Magdeburg-Suhl-Frankfurt-Leipzig-Potsdam-Dresden-Nuernberg-CompuGroup-Medical-SE-Co-KGaA--9959534-inline.html
+2023-08-24 14:40:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Warehouse-Entwickler-m-w-d-Frankfurt-am-Main-Duesseldorf-Hauck-Aufhaeuser-Lampe-Privatbank-AG--9902403-inline.html
+2023-08-24 14:40:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Data-Engineer-w-m-d-bundesweit-dmTECH-GmbH--9960364-inline.html
+2023-08-24 14:40:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projectcoordinator-m-w-d-Purchase-Einkaeufer-in-Densborn-Marketplace-Hub--9842687-inline.html
+2023-08-24 14:40:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Mathematikerin-Versicherung-Aktuarielle-Rechnungslegung-Neu-Isenburg-Viridium-Gruppe--9901297-inline.html
+2023-08-24 14:41:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Oracle-Database-Administrator-m-w-d-Ulm-Stuttgart-Mercedes-Benz-Tech-Innovation--9904167-inline.html
+2023-08-24 14:41:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialistin-m-w-d-Konzeptionierung-Monitoring-und-Controlling-E-Payment-Webshop-Daten-Muenchen-Berlin-Dresden-Goettingen-Hamburg-Mannheim-Schwaebisch-Hall-Goethe-Institut-e-V--9907650-inline.html
+2023-08-24 14:41:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Finance-Controller-Schwerpunkt-Investitionen-w-m-d-Koenigstein-Hamburg-Asklepios-Kliniken-GmbH-Co-KGaA--9963553-inline.html
+2023-08-24 14:41:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Engineer-w-m-d-Darmstadt-bei-Frankfurt-am-Main-COUNT-CARE-GmbH-Co-KG--9898587-inline.html
+2023-08-24 14:41:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Digital-Solutions-Specialist-w-m-d-Frankfurt-am-Main-Bundesanstalt-fuer-Finanzdienstleistungsaufsicht--9891203-inline.html
+2023-08-24 14:41:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-UX-Interaktionsdesigner-m-w-d-Essen-BITMARCK-Unternehmensgruppe--9716256-inline.html
+2023-08-24 14:41:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Unit-Controller-m-w-d-Ellwangen-VARTA-Microbattery-GmbH--9898062-inline.html
+2023-08-24 14:41:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--International-Controller-m-w-x-Aalen-Baden-Wuerttemberg-ZEISS--9956683-inline.html
+2023-08-24 14:41:57, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-Payment-fuer-digitale-Geschaeftsmodelle-m-w-d-Neckarsulm-Lidl-Digital--9896490-inline.html
+2023-08-24 14:42:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Hamburg-Elis-Deutschland--9902754-inline.html
+2023-08-24 14:42:10, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Praktikum-im-Controlling-eMobility-Financial-Business-Partner-fuer-High-Power-Charging-Initiativen-Beteiligungen-und-Financial-Reporting-ab-Oktober-2023-Stuttgart-Mercedes-Benz-Mobility-AG--9956418-inline.html
+2023-08-24 14:42:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Consultant-m-w-d-Transport-Logistics-Bielefeld-Duesseldorf-Hannover-Pforzheim-ecovium-GmbH--9902795-inline.html
+2023-08-24 14:42:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-m-w-d-Ansbach-Gala-Group-GmbH--9891694-inline.html
+2023-08-24 14:42:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Backend-Application-Engineer-Kotlin-m-w-d-Berlin-Patronus-Group--9841157-inline.html
+2023-08-24 14:42:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Wirtschafts-Mathematiker-Aktuar-m-w-d-Krankenversicherung-Hamburg-Dortmund-SIGNAL-IDUNA-Gruppe--9899228-inline.html
+2023-08-24 14:42:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialist-w-m-d-Controlling-Darmstadt-bei-Frankfurt-am-Main-ENTEGA-AG--9898120-inline.html
+2023-08-24 14:42:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-Business-Intelligence-Analytics-m-w-d-Frankfurt-am-Main-DER-Touristik-Group-GmbH--9954078-inline.html
+2023-08-24 14:42:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Teamleiter-Operation-Excellence-Organisationsentwicklung-m-w-d-Salzgitter-WEVG-Salzgitter-GmbH-Co-KG--9954986-inline.html
+2023-08-24 14:43:02, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Corporate-Controller-Divisions-m-w-d-Hamburg-Eppendorf-SE--9906401-inline.html
+2023-08-24 14:43:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Engineer-m-w-d-Berlin-Frankfurt-Hamburg-Muenchen-Nuernberg-Ulm-Bonn-bundesweit-BWI-GmbH--9907363-inline.html
+2023-08-24 14:43:15, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Entwicklungsingenieur-Elektrik-Automation-Betrieb-Technikum-m-w-d-Moenchengladbach-SMS-group-GmbH--9903808-inline.html
+2023-08-24 14:43:22, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Head-of-Media-Products-Display-Network-Product-Advertising-Services-w-m-d-Hamburg-Otto-GmbH-Co-KG--9906921-inline.html
+2023-08-24 14:43:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Product-Owner-Business-Intelligence-Finance-w-m-d-Hamburg-Otto-GmbH-Co-KG--9967396-inline.html
+2023-08-24 14:43:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Prozessmanager-m-w-d-Business-Intelligence-Reporting-Schwaikheim-bei-Stuttgart-Kaercher-Global-Services-GmbH-Co-KG--9963213-inline.html
+2023-08-24 14:43:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Risk-Manager-EMEA-SLP-Risk-Resilience-Berlin-Munich-Leipzig-Berlin-Leipzig-Muenchen-Amazon-Europe-Core--9898799-inline.html
+2023-08-24 14:43:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudenten-m-w-d-Finance-Business-Intelligence-Kerpen-MEGABAD-GmbH--9693216-inline.html
+2023-08-24 14:43:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Consultant-w-m-d-Controlling-Finance-Schwerpunkt-Planung-Management-Reporting-Berlin-Duesseldorf-Frankfurt-Hamburg-Muenchen-Stuttgart-Horvaeth--9902886-inline.html
+2023-08-24 14:44:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkscontroller-Operationscontroller-m-w-d-Grossraum-Goettingen-Salzgitter-Koegler-Compagnie-GmbH-Co-KG--9958586-inline.html
+2023-08-24 14:44:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Vertriebscontroller-m-w-d-Neuenstadt-am-Kocher-Theo-Foerch-GmbH-Co-KG--9902688-inline.html
+2023-08-24 14:44:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Administrator-Data-Warehouse-m-w-d-Hamburg-ECE--9584557-inline.html
+2023-08-24 14:44:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Softwareentwickler-w-m-d-im-Bereich-Data-Warehouse-und-Business-Intelligence-Karlsruhe-STP-Informationstechnologie-GmbH--9958734-inline.html
+2023-08-24 14:44:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Reporting-BI-Manager-m-w-d-Hamburg-Hermes-Germany-GmbH--9847059-inline.html
+2023-08-24 14:44:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--SAP-S4-HANA-Process-Optimization-Manager-m-w-d-Fokus-Supply-Chain-Sales-SD-in-Voll-oder-Teilzeit-Muenchen-DENK-PHARMA-GmbH-Co-KG--9953792-inline.html
+2023-08-24 14:44:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Innovation-Management-Professional-m-w-d-Muenchen-Knorr-Bremse-Systeme-fuer-Schienenfahrzeuge-GmbH--9844901-inline.html
+2023-08-24 14:44:49, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Mobile-Application-Developer-m-w-x-Koeln-meinestadt-de-GmbH--9531757-inline.html
+2023-08-24 14:44:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Financial-Manager-in-m-w-d-Witten-Ardex-GmbH--9894049-inline.html
+2023-08-24 14:45:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Referent-in-Rechnungswesen-mit-Schwerpunkt-IT-m-w-d-Hamburg-Grundeigentuemer-Versicherung-VVaG--9893160-inline.html
+2023-08-24 14:45:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Purchasing-Manager-Policy-Process-m-f-d-Hamburg-Domino-Laser-GmbH--9953200-inline.html
+2023-08-24 14:45:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Product-Manager-Pharma-OTC-DACH-m-w-d-Berlin-Bausch-Lomb--9899964-inline.html
+2023-08-24 14:45:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Manager-Corporate-Planning-Forecasting-m-w-d-Wolfenbuettel-Mast-Jaegermeister-SE--9955981-inline.html
+2023-08-24 14:45:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Teamleitung-Controlling-w-m-d-Riedlingen-SRH-Fernhochschule-The-Mobile-University--9899578-inline.html
+2023-08-24 14:45:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Customer-Support-Manager-m-w-d-Transport-Logistics-Bielefeld-Duesseldorf-Hannover-Pforzheim-ecovium-GmbH--9902955-inline.html
+2023-08-24 14:45:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Architect-w-m-d-Frankfurt-am-Main-Berlin-Erfurt-Deutsche-Bahn-AG--9957555-inline.html
+2023-08-24 14:45:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controlling-Business-Partner-f-m-d-Elmshorn-bei-Hamburg-Capol-GmbH--9958642-inline.html
+2023-08-24 14:45:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Mathematikerin-Versicherung-Mitversicherung-Statistik-Neu-Isenburg-Viridium-Gruppe--9906163-inline.html
+2023-08-24 14:45:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Process-Improvement-Specialist-Munich-Berlin-Muenchen-Berlin-Amazon-Europe-Core--9897902-inline.html
+2023-08-24 14:46:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-Broker-Management-m-f-d-Muenchen-Muenchener-Rueckversicherungs-Gesellschaft-AG--9898848-inline.html
+2023-08-24 14:46:11, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Leiter-Applikationsmanagement-m-w-d-Bayreuth-Hays-Working-for-your-tomorrow--9957193-inline.html
+2023-08-24 14:46:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Communications-Manager-Medicine-Ingelheim-Boehringer-Ingelheim--9904093-inline.html
+2023-08-24 14:46:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Global-Business-Process-Manager-f-m-d-Hirschberg-an-der-Bergstrasse-Corteco-GmbH--9965348-inline.html
+2023-08-24 14:46:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-in-m-w-d-in-Vollzeit-Stockelsdorf-Luebeck-Luebecker-Marzipan-Fabrik-v-Minden-Bruhns-GmbH-Co-KG--9894595-inline.html
+2023-08-24 14:46:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-m-w-d-Data-Analytics-Quality-Management-Winnenden-bei-Stuttgart-Alfred-Kaercher-SE-Co-KG--9893801-inline.html
+2023-08-24 14:46:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Produktmanager-m-w-d-Herten-Ruhrgebiet-PROSOZ-Herten-GmbH--9903818-inline.html
+2023-08-24 14:46:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controllerin-m-w-d-Karlsruhe-VBK-Verkehrsbetriebe-Karlsruhe-GmbH--9893583-inline.html
+2023-08-24 14:46:55, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-m-w-d-Architekt-Data-Warehouse-Koeln-Toyota-Kreditbank-GmbH--9963643-inline.html
+2023-08-24 14:47:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Treasury-Manager-m-w-d-Wiesbaden-MEWA-Textil-Service-AG-Co-Management-OHG--9908278-inline.html
+2023-08-24 14:47:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Manager-Wuppertal-Gebr-Becker-GmbH--9785380-inline.html
+2023-08-24 14:47:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-Finance-Transformation-in-Financial-Services-m-w-d-Berlin-Dusseldorf-Hamburg-Kronberg-Munich-Accenture--9955972-inline.html
+2023-08-24 14:47:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Inhouse-Consultant-Business-Intelligence-w-m-d-bundesweit-dmTECH-GmbH--9960365-inline.html
+2023-08-24 14:47:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Standort-Erlangen-oder-Berlin-Erlangen-oder-Berlin-ZBI-Zentral-Boden-Immobilien-Gruppe--9436848-inline.html
+2023-08-24 14:47:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Softwareentwickler-m-w-d-Herrenberg-Feinmetall-GmbH--9892967-inline.html
+2023-08-24 14:47:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Controller-m-w-d-Berlin-Ziegert-Group--9850319-inline.html
+2023-08-24 14:47:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Mathematikerin-Versicherung-Bilanzielle-Sonderaufgaben-Neu-Isenburg-Viridium-Gruppe--9906160-inline.html
+2023-08-24 14:47:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Spezialist-Meldewesen-m-w-d-Berlin-Deutsche-Kreditbank-AG-DKB--9957354-inline.html
+2023-08-24 14:47:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Partner-Manager-m-w-d-im-ERP-Markt-Karlsruhe-enventa-Group-GmbH--9967542-inline.html
+2023-08-24 14:48:04, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Engineer-in-Frankfurt-am-Main-Schwerin-Deutsche-Bahn-AG--9953053-inline.html
+2023-08-24 14:48:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Warehouse-Entwickler-Schwerpunkt-ETL-m-w-d-Luenen-REMONDIS-IT-Services-GmbH-Co-KG--9841007-inline.html
+2023-08-24 14:48:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-ERP-Consultant-Schwerpunkt-Rollout-m-w-d-Luenen-REMONDIS-IT-Services-GmbH-Co-KG--9841025-inline.html
+2023-08-24 14:48:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Pricing-Software-Reporting-Coordinator-m-f-d-Munich-Klueber-Lubrication-Muenchen-GmbH-Co-KG--9893526-inline.html
+2023-08-24 14:48:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-m-w-d-Nordrach-Erwin-Junker-Maschinenfabrik-GmbH--9898471-inline.html
+2023-08-24 14:48:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Account-Manager-all-genders-Koeln-Marketplace-Hub--9845107-inline.html
+2023-08-24 14:48:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Analyst-m-f-d-Ismaning-Aioi-Nissay-Dowa-Insurance-Company-of-Europe-SE--9967886-inline.html
+2023-08-24 14:48:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Operations-Associate-f-m-x-Germany-Tourlane-GmbH--9582710-inline.html
+2023-08-24 14:49:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--BI-Senior-Consultant-Periodical-Steering-w-m-x-Muenchen-BMW-Group--9958111-inline.html
+2023-08-24 14:49:07, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Business-Development-Manager-m-f-d-Muenchen-PLAION-GmbH--9892316-inline.html
+2023-08-24 14:49:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Inhouse-Consultant-Business-Intelligence-m-w-d-Karlsruhe-IPG-Automotive-GmbH--9965027-inline.html
+2023-08-24 14:49:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--SAP-Management-Consultant-SAP-Lead-Architect-SAP-BI-w-m-d-Berlin-Frankfurt-Hamburg-Muenchen-Nuernberg-Ulm-Bonn-bundesweit-an-einem-anderen-BWI-Standort-BWI-GmbH--9892069-inline.html
+2023-08-24 14:49:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Frontend-Developer-Frontend-Entwickler-m-w-x-Koeln-meinestadt-de-GmbH--9531656-inline.html
+2023-08-24 14:49:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Vertriebsmitarbeiter-in-w-m-d-Berlin-B-A-U-Higher-Education-Service-gGmbH--9963453-inline.html
+2023-08-24 14:49:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--DevOps-Cloud-Engineer-Platform-m-w-d-Kiel-REWE-digital--9843982-inline.html
+2023-08-24 14:49:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Produktmanager-m-w-d-Investments-C24-Bank-Frankfurt-am-Main-CHECK24--9897981-inline.html
+2023-08-24 14:49:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Group-Controller-m-w-d-Mannheim-VAG-GmbH--9897131-inline.html
+2023-08-24 14:49:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialistin-Projektleiterin-Digitalisierung-Master-Data-Management-w-m-d-Ulm-Taufkirchen-Immenstaad-HENSOLDT--9897961-inline.html
+2023-08-24 14:50:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Inhouse-Consultant-m-w-d-BI-Business-Intelligence-Kulmbach-IREKS-GmbH--9968461-inline.html
+2023-08-24 14:50:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--IT-Controlling-m-w-d-Witten-Ardex-GmbH--9894048-inline.html
+2023-08-24 14:50:19, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Market-Intelligence-Managerin-Ludwigshafen-PFALZWERKE-AKTIENGESELLSCHAFT--9900502-inline.html
+2023-08-24 14:50:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Industry-Sales-Representative-Germany-Muenchen-Marketplace-Hub--9952330-inline.html
+2023-08-24 14:50:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Cloud-Data-Engineer-in-fuer-Azure-Databricks-Hannover-Hannover-Rueck-SE--9902563-inline.html
+2023-08-24 14:50:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Solution-Manager-DevOps-Service-Delivery-d-m-w-Muenchen-BayWa-r-e-AG--9892476-inline.html
+2023-08-24 14:50:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialistin-Spezialist-m-w-d-fuer-SAP-Business-Intelligence-in-Voll-oder-Teilzeit-Koeln-Landschaftsverband-Rheinland-LVR--9908037-inline.html
+2023-08-24 14:50:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Director-Business-IT-m-w-d-Frankfurt-am-Main-Merz-Consumer-Care-GmbH--9906543-inline.html
+2023-08-24 14:51:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Controller-f-m-d-Berlin-BMG-RIGHTS-MANAGEMENT-GmbH-Corporate--9903208-inline.html
+2023-08-24 14:51:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Professional-CRM-Insights-Lidl-Reisen-m-w-d-Neckarsulm-Lidl-Digital--9896487-inline.html
+2023-08-24 14:51:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Manager-Digitalisierungsberatung-mit-Schwerpunkt-Management-Reporting-und-BI-m-w-d-bundesweit-Grant-Thornton-AG-Wirtschaftspruefungsgesellschaft--8347172-inline.html
+2023-08-24 14:51:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--SAP-Consultant-Business-Intelligence-m-w-d-Koeln-Stroeer-SE-Co-KGaA--9897370-inline.html
+2023-08-24 14:51:30, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Software-Engineer-Business-Systeme-bei-Burda-Solutions-m-w-d-Offenburg-Hubert-Burda-Media--9841445-inline.html
+2023-08-24 14:51:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Data-Engineer-m-w-x-Guetersloh-Arvato--9891500-inline.html
+2023-08-24 14:51:43, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Team-Lead-Sales-Operations-m-f-d-Glashuette-Raum-Dresden-Lange-Uhren-GmbH--9888869-inline.html
+2023-08-24 14:51:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Underwriting-Assistant-Property-Assistant-Underwriter-Industriesachversicherung-Versicherungskaufmann-Kaufmann-fuer-Versicherung-und-Finanzen-Assistenz-Underwriting-w-m-d-Muenchen-Frankfurt-am-Main-Hamburg-Swiss-Re-Europe-S-A-Niederlassung-Deutschland--9954845-inline.html
+2023-08-24 14:51:56, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Produktmanager-m-w-d-Kundenservice-Operations-C24-Bank-Frankfurt-am-Main-CHECK24--9898106-inline.html
+2023-08-24 14:52:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Vertriebscontroller-Medical-m-w-d-befristet-auf-12-Monate-Hamburg-Olympus-Deutschland-GmbH--9837038-inline.html
+2023-08-24 14:52:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Market-Intelligence-Manager-m-w-d-Zeulenroda-Triebes-Bauerfeind-AG--9965102-inline.html
+2023-08-24 14:52:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Java-Developer-Customer-AcquisitionLoyalty-all-genders-full-remote-moeglich-Karlsruhe-Freiburg-Home-Office-Chrono24-GmbH--9693001-inline.html
+2023-08-24 14:52:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Controller-m-w-d-Duesseldorf-MVZ-Duesseldorf-Centrum-GbR--9929493-inline.html
+2023-08-24 14:52:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudent-Praktikant-IT-Process-Insights-m-w-d-Hamburg-ECE--9841930-inline.html
+2023-08-24 14:52:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Prozessorganisator-Projektmanager-Geschaeftsprozesse-m-w-d-Karben-Koenig-Neurath-AG--9891808-inline.html
+2023-08-24 14:52:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Teamleitung-m-w-d-Datenmanagement-OEPNV-Hamburg-Hamburger-Verkehrsverbund-GmbH--9893155-inline.html
+2023-08-24 14:52:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-SAP-BI-BW-Data-Engineering-m-w-d-Grafschaft-HARIBO-Deutschland--9964841-inline.html
+2023-08-24 14:52:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Development-Representative-m-w-d-Essen-Atlas-Copco-Tools-Central-Europe-GmbH--9902369-inline.html
+2023-08-24 14:53:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialist-Abschluss-und-Ergebnisrechnung-m-w-d-mit-Schwerpunkt-Produktbereich-VAN-Muenchen-MAN-Truck-Bus-Deutschland-GmbH--9955448-inline.html
+2023-08-24 14:53:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Abschlussarbeit-Controlling-Business-Intelligence-Neckarsulm-Lidl-Stiftung-Co-KG--9962760-inline.html
+2023-08-24 14:53:12, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Warehouse-Engineer-in-Koeln-Ampega-Investment-GmbH--9952596-inline.html
+2023-08-24 14:53:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudent-Data-Engineering-CRM-System-d-m-w-Berlin-VDI-VDE-Innovation-Technik-GmbH--9963539-inline.html
+2023-08-24 14:53:20, Abfrage beendet
+2023-08-24 14:53:22, Browser geschlossen
+2023-08-24 14:53:45, Es wurden 196 Daten von Stepstone hinzugefügt
+2023-08-24 14:53:49, Suche nach Data Analyst in Deutschland
+2023-08-24 14:53:53, Browser geoeffnet
+2023-08-24 14:55:21, Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-24 14:55:21, Linkliste erstellt
+2023-08-24 14:55:22, 14218 in der Datenbank bereits vorhanden
+2023-08-24 14:55:22, Abfrage begonnen
+2023-08-24 14:55:29, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Actuarial-Data-Analyst-Aktuar-m-w-d-Reservierung-Frankfurt-am-Main-Helvetia-Schweizerische-Versicherungsgesellschaft-AG--9968371-inline.html
+2023-08-24 14:55:36, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Scientist-m-w-d-Vertriebsdaten-Berlin-Sparkassen-Rating-und-Risikosysteme-GmbH--9968608-inline.html
+2023-08-24 14:55:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Specialist-Monitoring-Sanctioning-f-m-d-Frankfurt-Deutsche-Boerse-Group--9968552-inline.html
+2023-08-24 14:55:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Abschlussarbeit-im-A-LAB-Analyse-und-Bewertung-vorhandener-KI-Ressourcen-zur-Ermittlung-des-Potentials-im-Bereich-der-Trainingssimulation-m-w-d-Bremen-ATLAS-ELEKTRONIK-GmbH--9968565-inline.html
+2023-08-24 14:55:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Scientist-fuer-das-PNR-Verfahren-Passenger-Name-Records-m-w-d-Koeln-Berlin-Bundesverwaltungsamt--9963832-inline.html
+2023-08-24 14:56:01, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Analyst-Data-Science-m-w-d-Ostfildern-DAT-Deutsche-Automobil-Treuhand-GmbH--9907955-inline.html
+2023-08-24 14:56:08, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Analyst-Operations-m-w-d-Neckarsulm-KS-HUAYU-AluTech-GmbH--9851127-inline.html
+2023-08-24 14:56:08, Abfrage beendet
+2023-08-24 14:56:10, Browser geschlossen
+2023-08-24 14:56:11, Es wurden 7 Daten von Stepstone hinzugefügt
+2023-08-24 14:56:15, Suche nach Data Consultant in Deutschland
+2023-08-24 14:56:19, Browser geoeffnet
+2023-08-24 14:56:59, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:03, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:07, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:10, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:13, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:17, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:20, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-24 14:57:24, Es wurden 91 Duplikate in der "Link Liste" entfernt
+2023-08-24 14:57:24, Linkliste erstellt
+2023-08-24 14:57:25, 14225 in der Datenbank bereits vorhanden
+2023-08-24 14:57:25, Abfrage begonnen
+2023-08-24 14:57:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-m-w-d-Medientechnik-Muenster-Frankfurt-am-Main-Kassel-Duisburg-Hannover-Wedemark-Berlin-Ratiodata-SE--9860967-inline.html
+2023-08-24 14:57:38, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Consultant-Data-Driven-Sales-Marketing-m-w-d-Frankfurt-Karlsruhe-TRUUCO-GmbH--9745981-inline.html
+2023-08-24 14:57:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Technischer-Support-web-service-Dortmund-Marketplace-Hub--9921030-inline.html
+2023-08-24 14:57:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Quality-Consultant-Application-Consultant-m-w-d-Muenchen-Essen-Hoffmann-Group--9913218-inline.html
+2023-08-24 14:57:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Consultant-w-m-d-Frankfurt-am-Main-Profidata-Group--9911315-inline.html
+2023-08-24 14:58:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Consultant-Data-Governance-Consulting-Financial-Services-w-m-d-Frankfurt-Main-Ernst-Young-GmbH-Wirtschaftspruefungsgesellschaft--9897603-inline.html
+2023-08-24 14:58:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Inhouse-Consultant-Data-Quality-Processes-m-w-divers-Koeln-Delvag-Versicherungs-AG--9889715-inline.html
+2023-08-24 14:58:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Manager-Senior-Consultant-Business-Automation-m-w-d-Frankfurt-am-Main-Habona-Invest-GmbH--9962715-inline.html
+2023-08-24 14:58:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Data-Analytics-Consultant-m-f-d-Berlin-Oetker-Digital-GmbH--9958322-inline.html
+2023-08-24 14:58:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Beraterin-Marketing-Analytics-m-w-d-x-Hamburg-pilot-Agenturgruppe--9925129-inline.html
+2023-08-24 14:58:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Consultant-Data-Engineer-Automotive-m-w-d-bundesweit-Berlin-Frankfurt-Hamburg-Koeln-Leipzig-Muenchen-Sopra-Steria--9918858-inline.html
+2023-08-24 14:58:47, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Consultant-Data-Analytics-Valuation-Modeling-Economics-w-m-d-Berlin-Frankfurt-Main-Hamburg-Muenchen-Stuttgart-Duesseldorf-Ernst-Young-GmbH-Wirtschaftspruefungsgesellschaft--9863850-inline.html
+2023-08-24 14:58:47, Abfrage beendet
+2023-08-24 14:58:49, Browser geschlossen
+2023-08-24 14:58:50, Es wurden 12 Daten von Stepstone hinzugefügt
+2023-08-24 14:58:54, Suche nach Data Engineer in Deutschland
+2023-08-24 14:58:59, Browser geoeffnet
+2023-08-28 12:23:06, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 12:23:09, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 12:28:34, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 12:28:36, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 13:38:35, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 13:38:36, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 13:41:15, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 13:41:17, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 13:43:48, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 13:43:50, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 13:55:20, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 13:55:22, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 13:58:24, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 13:58:26, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 14:08:50, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 14:08:52, stepstone: Browser konnte nicht geoeffnet werden
+2023-08-28 14:12:51, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 14:12:56, stepstone: Browser geoeffnet
+2023-08-28 14:13:48, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:13:51, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:13:55, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:13:58, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:14:01, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:14:04, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:14:08, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 14:14:08, stepstone : Linkliste erstellt
+2023-08-28 14:14:09, stepstone : 16051 in der Datenbank bereits vorhanden
+2023-08-28 14:14:09, stepstone : Abfrage begonnen
+2023-08-28 14:14:09, stepstone : Abfrage beendet
+2023-08-28 14:14:11, stepstone: Browser geschlossen
+2023-08-28 14:14:11, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 14:26:05, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 14:26:10, stepstone: Browser geoeffnet
+2023-08-28 14:26:57, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:27:01, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:27:04, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:27:07, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:27:11, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:27:14, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:27:18, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 14:27:18, stepstone : Linkliste erstellt
+2023-08-28 14:27:19, stepstone : 16058 in der Datenbank bereits vorhanden
+2023-08-28 14:27:19, stepstone : Abfrage begonnen
+2023-08-28 14:27:19, stepstone : Abfrage beendet
+2023-08-28 14:27:21, stepstone: Browser geschlossen
+2023-08-28 14:27:21, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 14:48:03, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 14:48:09, stepstone: Browser geoeffnet
+2023-08-28 14:49:01, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:49:04, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:49:07, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:49:11, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:49:14, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:49:18, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:49:22, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 14:49:22, stepstone : Linkliste erstellt
+2023-08-28 14:49:22, stepstone : 16119 in der Datenbank bereits vorhanden
+2023-08-28 14:49:22, stepstone : Abfrage begonnen
+2023-08-28 14:49:33, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Analyst-m-w-d-Hamburg-Statista-GmbH--9848180-inline.html
+2023-08-28 14:49:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Analyst-BI-m-w-d-Ratingen-TOI-TOI-DIXI-Group-GmbH--8243635-inline.html
+2023-08-28 14:49:41, stepstone : Abfrage beendet
+2023-08-28 14:49:43, stepstone: Browser geschlossen
+2023-08-28 14:49:43, stepstone: Es wurden 2 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 14:58:16, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 14:58:21, stepstone: Browser geoeffnet
+2023-08-28 14:59:21, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:59:25, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:59:28, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:59:32, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:59:36, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:59:39, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 14:59:42, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 14:59:42, stepstone : Linkliste erstellt
+2023-08-28 14:59:43, stepstone : 16121 in der Datenbank bereits vorhanden
+2023-08-28 14:59:43, stepstone : Abfrage begonnen
+2023-08-28 14:59:43, stepstone : Abfrage beendet
+2023-08-28 14:59:46, stepstone: Browser geschlossen
+2023-08-28 14:59:46, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:15:11, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 15:15:19, stepstone: Browser geoeffnet
+2023-08-28 15:16:40, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:16:44, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:16:48, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:16:52, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:16:56, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:17:00, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:17:04, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:17:04, stepstone : Linkliste erstellt
+2023-08-28 15:17:05, stepstone : 16121 in der Datenbank bereits vorhanden
+2023-08-28 15:17:05, stepstone : Abfrage begonnen
+2023-08-28 15:17:05, stepstone : Abfrage beendet
+2023-08-28 15:17:07, stepstone: Browser geschlossen
+2023-08-28 15:17:07, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:20:21, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 15:20:36, stepstone: Browser geoeffnet
+2023-08-28 15:22:04, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:22:08, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:22:12, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:22:15, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:22:20, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:22:25, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:22:28, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:22:28, stepstone : Linkliste erstellt
+2023-08-28 15:22:29, stepstone : 16121 in der Datenbank bereits vorhanden
+2023-08-28 15:22:29, stepstone : Abfrage begonnen
+2023-08-28 15:22:29, stepstone : Abfrage beendet
+2023-08-28 15:22:32, stepstone: Browser geschlossen
+2023-08-28 15:22:32, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:43:58, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 15:44:04, stepstone: Browser geoeffnet
+2023-08-28 15:44:53, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:44:56, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:45:01, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:45:04, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:45:08, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:45:13, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:45:16, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:45:19, stepstone :Es wurden 21 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:45:19, stepstone : Linkliste erstellt
+2023-08-28 15:45:20, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 15:45:20, stepstone : Abfrage begonnen
+2023-08-28 15:45:20, stepstone : Abfrage beendet
+2023-08-28 15:45:23, stepstone: Browser geschlossen
+2023-08-28 15:45:23, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:52:19, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-28 15:52:25, stepstone: Browser geoeffnet
+2023-08-28 15:53:15, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:53:19, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:53:22, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:53:26, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:53:29, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:53:32, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 15:53:35, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:53:35, stepstone : Linkliste erstellt
+2023-08-28 15:53:36, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 15:53:36, stepstone : Abfrage begonnen
+2023-08-28 15:53:36, stepstone : Abfrage beendet
+2023-08-28 15:53:38, stepstone: Browser geschlossen
+2023-08-28 15:53:39, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:53:43, stepstone : Suche nach Business Intelligence in Deutschland
+2023-08-28 15:53:47, stepstone: Browser geoeffnet
+2023-08-28 15:55:36, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:55:36, stepstone : Linkliste erstellt
+2023-08-28 15:55:37, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 15:55:37, stepstone : Abfrage begonnen
+2023-08-28 15:55:37, stepstone : Abfrage beendet
+2023-08-28 15:55:40, stepstone: Browser geschlossen
+2023-08-28 15:55:40, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:55:44, stepstone : Suche nach Data Analyst in Deutschland
+2023-08-28 15:55:49, stepstone: Browser geoeffnet
+2023-08-28 15:57:31, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:57:31, stepstone : Linkliste erstellt
+2023-08-28 15:57:32, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 15:57:32, stepstone : Abfrage begonnen
+2023-08-28 15:57:32, stepstone : Abfrage beendet
+2023-08-28 15:57:34, stepstone: Browser geschlossen
+2023-08-28 15:57:34, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:57:38, stepstone : Suche nach Data Consultant in Deutschland
+2023-08-28 15:57:43, stepstone: Browser geoeffnet
+2023-08-28 15:59:27, stepstone :Es wurden 4 Duplikate in der "Link Liste" entfernt
+2023-08-28 15:59:27, stepstone : Linkliste erstellt
+2023-08-28 15:59:28, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 15:59:28, stepstone : Abfrage begonnen
+2023-08-28 15:59:28, stepstone : Abfrage beendet
+2023-08-28 15:59:31, stepstone: Browser geschlossen
+2023-08-28 15:59:31, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 15:59:35, stepstone : Suche nach Data Engineer in Deutschland
+2023-08-28 15:59:40, stepstone: Browser geoeffnet
+2023-08-28 16:01:06, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 16:01:11, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 16:01:15, stepstone :Es wurden 29 Duplikate in der "Link Liste" entfernt
+2023-08-28 16:01:15, stepstone : Linkliste erstellt
+2023-08-28 16:01:16, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 16:01:16, stepstone : Abfrage begonnen
+2023-08-28 16:01:16, stepstone : Abfrage beendet
+2023-08-28 16:01:18, stepstone: Browser geschlossen
+2023-08-28 16:01:19, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 16:01:23, stepstone : Suche nach Data Expert  in Deutschland
+2023-08-28 16:01:27, stepstone: Browser geoeffnet
+2023-08-28 16:03:25, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 16:03:25, stepstone : Linkliste erstellt
+2023-08-28 16:03:26, stepstone : 16125 in der Datenbank bereits vorhanden
+2023-08-28 16:03:26, stepstone : Abfrage begonnen
+2023-08-28 16:03:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Executive-Assistant-to-the-CEO-m-f-d-Muenchen-Veact-GmbH--9978257-inline.html
+2023-08-28 16:03:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--SEO-Manager-stern-GEO-Capital-w-m-d-Hamburg-RTL-News-GmbH--9977723-inline.html
+2023-08-28 16:03:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Lead-Database-Developer-System-Architect-m-w-d-Koeln-meta-five--9908535-inline.html
+2023-08-28 16:04:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Global-HR-Business-Partner-m-f-d-REF33174H-Frankfurt-am-Main-Continental-AG--9978360-inline.html
+2023-08-28 16:04:09, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudent-all-genders-Customer-Relation-Excellence-Gerlingen-BNP-Paribas-Cardif--9978267-inline.html
+2023-08-28 16:04:16, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Embedded-Software-Developer-Connected-Systems-m-f-d-Ulm-Liebherr-Digital-Development-Center-GmbH--9978428-inline.html
+2023-08-28 16:04:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Marketing-Automation-Lead-Generation-Manager-f-m-x-limited-to-27-months-Oberkochen-Baden-Wuerttemberg-ZEISS--9809260-inline.html
+2023-08-28 16:04:24, stepstone : Abfrage beendet
+2023-08-28 16:04:27, stepstone: Browser geschlossen
+2023-08-28 16:04:28, stepstone: Es wurden 7 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 16:04:32, stepstone : Suche nach Data Scientist in Deutschland
+2023-08-28 16:04:37, stepstone: Browser geoeffnet
+2023-08-28 16:05:54, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-28 16:05:57, stepstone :Es wurden 9 Duplikate in der "Link Liste" entfernt
+2023-08-28 16:05:57, stepstone : Linkliste erstellt
+2023-08-28 16:05:58, stepstone : 16132 in der Datenbank bereits vorhanden
+2023-08-28 16:05:58, stepstone : Abfrage begonnen
+2023-08-28 16:05:58, stepstone : Abfrage beendet
+2023-08-28 16:06:00, stepstone: Browser geschlossen
+2023-08-28 16:06:00, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 16:06:04, stepstone : Suche nach Data Specialist in Deutschland
+2023-08-28 16:06:08, stepstone: Browser geoeffnet
+2023-08-28 16:07:18, stepstone :Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-28 16:07:18, stepstone : Linkliste erstellt
+2023-08-28 16:07:19, stepstone : 16132 in der Datenbank bereits vorhanden
+2023-08-28 16:07:19, stepstone : Abfrage begonnen
+2023-08-28 16:07:19, stepstone : Abfrage beendet
+2023-08-28 16:07:21, stepstone: Browser geschlossen
+2023-08-28 16:07:21, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 16:07:25, stepstone : Suche nach Datenanalyst in Deutschland
+2023-08-28 16:07:29, stepstone: Browser geoeffnet
+2023-08-28 16:08:51, stepstone :Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-28 16:08:51, stepstone : Linkliste erstellt
+2023-08-28 16:08:52, stepstone : 16132 in der Datenbank bereits vorhanden
+2023-08-28 16:08:52, stepstone : Abfrage begonnen
+2023-08-28 16:08:52, stepstone : Abfrage beendet
+2023-08-28 16:08:54, stepstone: Browser geschlossen
+2023-08-28 16:08:54, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-28 16:08:58, stepstone : Suche nach Machine Learning in Deutschland
+2023-08-28 16:09:02, stepstone: Browser geoeffnet
+2023-08-28 16:10:10, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-28 16:10:10, stepstone : Linkliste erstellt
+2023-08-28 16:10:11, stepstone : 16132 in der Datenbank bereits vorhanden
+2023-08-28 16:10:11, stepstone : Abfrage begonnen
+2023-08-28 16:10:17, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Software-Architekt-m-w-d-Neu-Isenburg-efcom-gmbh--9978514-inline.html
+2023-08-28 16:10:17, stepstone : Abfrage beendet
+2023-08-28 16:10:19, stepstone: Browser geschlossen
+2023-08-28 16:10:20, stepstone: Es wurden 1 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 08:53:23, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-29 08:53:28, stepstone: Browser geoeffnet
+2023-08-29 08:54:24, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:54:28, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:54:32, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:54:36, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:54:40, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:54:44, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:55:21, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-29 08:55:27, stepstone: Browser geoeffnet
+2023-08-29 08:56:21, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:56:26, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:56:29, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:56:33, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:56:37, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:56:41, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 08:56:46, stepstone :Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-29 08:56:46, stepstone : Linkliste erstellt
+2023-08-29 08:56:46, stepstone : 16133 in der Datenbank bereits vorhanden
+2023-08-29 08:56:46, stepstone : Abfrage begonnen
+2023-08-29 08:56:46, stepstone : Abfrage beendet
+2023-08-29 08:56:49, stepstone: Browser geschlossen
+2023-08-29 08:56:49, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 08:56:53, stepstone : Suche nach Business Intelligence in Deutschland
+2023-08-29 08:56:59, stepstone: Browser geoeffnet
+2023-08-29 08:59:11, stepstone :Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-29 08:59:11, stepstone : Linkliste erstellt
+2023-08-29 08:59:11, stepstone : 16133 in der Datenbank bereits vorhanden
+2023-08-29 08:59:11, stepstone : Abfrage begonnen
+2023-08-29 08:59:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Sales-Director-m-w-x-Marketplace-Hamburg-Autorola-GmbH--9978794-inline.html
+2023-08-29 08:59:31, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Leitung-m-w-d-fuer-den-Bereich-Finanzen-Dueren-St-Marien-Hospital-Dueren-gGmbH--9979879-inline.html
+2023-08-29 08:59:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Specialist-m-w-d-Planning-and-Controlling-Troisdorf-bei-Koeln-Bonn-TXLOGISTIK--9756407-inline.html
+2023-08-29 08:59:48, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Market-Risk-Analyst-f-m-d-Duesseldorf-Uniper--9979890-inline.html
+2023-08-29 08:59:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudent-in-Datenmanagement-und-Business-Intelligence-Leipzig-Deutsche-Bahn-AG--9980056-inline.html
+2023-08-29 08:59:59, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--CRM-Manager-m-w-d-Radolfzell-Schiesser-GmbH--9979062-inline.html
+2023-08-29 09:00:05, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Marketing-Manager-Berlin-Berlin-Amazon-Europe-Core--9977957-inline.html
+2023-08-29 09:00:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Projekt-Portfolio-Controller-m-w-d-Bayreuth-TenneT-TSO-GmbH--9922900-inline.html
+2023-08-29 09:00:20, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--werkstudent-bi-datawarehouse-w-m-d-Gersthofen-DE-Seele-GmbH--9266510-inline.html
+2023-08-29 09:00:26, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--SAP-Berater-m-w-d-Thalfang-bei-Trier-Hochwald-Foods-GmbH--9978895-inline.html
+2023-08-29 09:00:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Application-Manager-SAP-BI-and-Analytics-Mainz-SCHOTT-AG--9979901-inline.html
+2023-08-29 09:00:40, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Expert-Digital-Finance-SAP-Analytics-Reporting-f-m-d-Duesseldorf-Uniper--9979892-inline.html
+2023-08-29 09:00:40, stepstone : Abfrage beendet
+2023-08-29 09:00:43, stepstone: Browser geschlossen
+2023-08-29 09:00:44, stepstone: Es wurden 12 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:00:48, stepstone : Suche nach Data Analyst in Deutschland
+2023-08-29 09:00:55, stepstone: Browser geoeffnet
+2023-08-29 09:03:00, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:03:00, stepstone : Linkliste erstellt
+2023-08-29 09:03:01, stepstone : 16145 in der Datenbank bereits vorhanden
+2023-08-29 09:03:01, stepstone : Abfrage begonnen
+2023-08-29 09:03:13, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Product-Data-Steward-m-w-d-Muenchen-Estee-Lauder-Companies-GmbH--9979053-inline.html
+2023-08-29 09:03:24, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Scientist-Fahrzeug-Analytics-w-m-d-Berlin-Deutsche-Bahn-AG--9979987-inline.html
+2023-08-29 09:03:34, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Financial-Data-Specialist-Regulierung-und-Rating-m-w-d-Frankfurt-am-Main-WM-Gruppe--9898167-inline.html
+2023-08-29 09:03:44, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Data-Scientist-Data-Analyst-Controlling-m-w-d-Heilbronn-Kaufland--9980144-inline.html
+2023-08-29 09:03:44, stepstone : Abfrage beendet
+2023-08-29 09:03:47, stepstone: Browser geschlossen
+2023-08-29 09:03:47, stepstone: Es wurden 4 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:03:51, stepstone : Suche nach Data Consultant in Deutschland
+2023-08-29 09:03:58, stepstone: Browser geoeffnet
+2023-08-29 09:06:13, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:06:13, stepstone : Linkliste erstellt
+2023-08-29 09:06:14, stepstone : 16149 in der Datenbank bereits vorhanden
+2023-08-29 09:06:14, stepstone : Abfrage begonnen
+2023-08-29 09:06:23, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-AI-Consultant-ML-Engineer-w-m-d-Frankfurt-am-Main-Cofinpro-AG--9978971-inline.html
+2023-08-29 09:06:35, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Business-Architect-m-w-d-SAP-PM-Hamburg-Olympus-Surgical-Technologies-Europe--9978622-inline.html
+2023-08-29 09:06:42, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Netzwerk-und-Security-System-Engineer-m-w-d-Appenweier-Freiburg-Karlsruhe-LEITWERK-AG--9979663-inline.html
+2023-08-29 09:06:50, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Digital-Technology-Consultant-fuer-die-Pilotierung-und-Umsetzung-digitaler-Innovationen-Hannover-Hannover-Rueck-SE--9979927-inline.html
+2023-08-29 09:06:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Head-of-Sustainability-m-w-d-Kiel-Bartels-Langness-Handelsgesellschaft-mbH-Co-KG--9978180-inline.html
+2023-08-29 09:07:06, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Remote-Beraterin-SAP-HCM-SuccessFactors-Bielefeld-Heidelberg-Stuttgart-NTT-DATA-Business-Solutions-AG--9393333-inline.html
+2023-08-29 09:07:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-HR-Generalist-m-f-x-Munich-Assistent-in-Personalwesen-Muenchen-Marketplace-Hub--9979628-inline.html
+2023-08-29 09:07:18, stepstone : Abfrage beendet
+2023-08-29 09:07:21, stepstone: Browser geschlossen
+2023-08-29 09:07:22, stepstone: Es wurden 7 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:07:26, stepstone : Suche nach Data Engineer in Deutschland
+2023-08-29 09:07:40, stepstone: Browser geoeffnet
+2023-08-29 09:10:00, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 09:10:05, Class-Name nicht gefunden für nächsten seite der Stellenanzeigen
+2023-08-29 09:10:09, stepstone :Es wurden 32 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:10:09, stepstone : Linkliste erstellt
+2023-08-29 09:10:09, stepstone : 16156 in der Datenbank bereits vorhanden
+2023-08-29 09:10:09, stepstone : Abfrage begonnen
+2023-08-29 09:10:09, stepstone : Abfrage beendet
+2023-08-29 09:10:12, stepstone: Browser geschlossen
+2023-08-29 09:10:12, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:10:16, stepstone : Suche nach Data Expert  in Deutschland
+2023-08-29 09:10:22, stepstone: Browser geoeffnet
+2023-08-29 09:12:44, stepstone :Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:12:44, stepstone : Linkliste erstellt
+2023-08-29 09:12:45, stepstone : 16156 in der Datenbank bereits vorhanden
+2023-08-29 09:12:45, stepstone : Abfrage begonnen
+2023-08-29 09:12:54, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Softwareentwickler-Problemloeser-Homeoffice-Muenster-Shoogee-GmbH-Co-KG--9980317-inline.html
+2023-08-29 09:13:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Lagerist-m-w-d-Karlsruhe-Atruvia-AG--9899403-inline.html
+2023-08-29 09:13:10, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Quality-Manager-Last-Mile-Delivery-Experience-Berlin-Berlin-Amazon-Europe-Core--9977905-inline.html
+2023-08-29 09:13:18, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--System-Engineer-On-Premise-Cloud-Storage-Hannover-Hannover-Rueck-SE--9979926-inline.html
+2023-08-29 09:13:25, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Werkstudententaetigkeit-im-Bereich-Planung-und-Datenanalyse-ab-Januar-2024-Boeblingen-Mercedes-Benz-AG--9978783-inline.html
+2023-08-29 09:13:32, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Auditor-PC-Underwriting-m-f-d-Muenchen-Allianz-SE--9978205-inline.html
+2023-08-29 09:13:39, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Specialist-Learning-f-m-d-Management-System-Heidenheim-PAUL-HARTMANN-AG--9923227-inline.html
+2023-08-29 09:13:46, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Kaufmaennische-Fachkraft-m-w-d-Kaufmann-frau-Bueromanagement-Bad-Muender-am-Deister-Marketplace-Hub--9922315-inline.html
+2023-08-29 09:13:53, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-AI-Specialist-w-m-d-Berlin-Erfurt-Frankfurt-Main-Deutsche-Bahn-AG--9979996-inline.html
+2023-08-29 09:14:00, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Spezialist-in-Digitalisierung-Anschlussmobilitaet-Berlin-Deutsche-Bahn-AG--9980045-inline.html
+2023-08-29 09:14:00, stepstone : Abfrage beendet
+2023-08-29 09:14:03, stepstone: Browser geschlossen
+2023-08-29 09:14:04, stepstone: Es wurden 10 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:14:08, stepstone : Suche nach Data Scientist in Deutschland
+2023-08-29 09:14:14, stepstone: Browser geoeffnet
+2023-08-29 09:16:29, stepstone :Es wurden 0 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:16:29, stepstone : Linkliste erstellt
+2023-08-29 09:16:29, stepstone : 16166 in der Datenbank bereits vorhanden
+2023-08-29 09:16:29, stepstone : Abfrage begonnen
+2023-08-29 09:16:37, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Scientist-Naturwissenschaftler-m-w-x-in-der-Diagnostik-Haematoonkologie-Planegg-MVZ-Martinsried-GmbH--9977423-inline.html
+2023-08-29 09:16:45, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Dr-rer-nat-Physik-Mathematik-Numerische-Simulation-Algorithmik-m-w-d-Grossraum-Stuttgart-Professional-Scientists-GmbH-Co-KG--9785245-inline.html
+2023-08-29 09:16:52, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Scientist-in-Technical-Platform-Development-f-m-d-Tuebingen-bei-Stuttgart-CureVac-SE--9978670-inline.html
+2023-08-29 09:16:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Junior-Senior-Scientist-Naturwissenschaftler-m-w-x-in-der-Reproduktionsgenetik-Planegg-MVZ-Martinsried-GmbH--9977420-inline.html
+2023-08-29 09:16:58, stepstone : Abfrage beendet
+2023-08-29 09:17:01, stepstone: Browser geschlossen
+2023-08-29 09:17:01, stepstone: Es wurden 4 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:17:05, stepstone : Suche nach Data Specialist in Deutschland
+2023-08-29 09:17:11, stepstone: Browser geoeffnet
+2023-08-29 09:19:19, stepstone :Es wurden 3 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:19:19, stepstone : Linkliste erstellt
+2023-08-29 09:19:20, stepstone : 16170 in der Datenbank bereits vorhanden
+2023-08-29 09:19:20, stepstone : Abfrage begonnen
+2023-08-29 09:19:20, stepstone : Abfrage beendet
+2023-08-29 09:19:22, stepstone: Browser geschlossen
+2023-08-29 09:19:22, stepstone: Es wurden 0 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:19:26, stepstone : Suche nach Datenanalyst in Deutschland
+2023-08-29 09:19:32, stepstone: Browser geoeffnet
+2023-08-29 09:21:48, stepstone :Es wurden 1 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:21:48, stepstone : Linkliste erstellt
+2023-08-29 09:21:49, stepstone : 16203 in der Datenbank bereits vorhanden
+2023-08-29 09:21:49, stepstone : Abfrage begonnen
+2023-08-29 09:21:58, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Senior-Expert-Data-Governance-m-w-d-Duisburg-thyssenkrupp-Steel-Europe-AG--9980333-inline.html
+2023-08-29 09:21:58, stepstone : Abfrage beendet
+2023-08-29 09:22:01, stepstone: Browser geschlossen
+2023-08-29 09:22:01, stepstone: Es wurden 1 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 09:22:05, stepstone : Suche nach Machine Learning in Deutschland
+2023-08-29 09:22:12, stepstone: Browser geoeffnet
+2023-08-29 09:24:38, stepstone :Es wurden 13 Duplikate in der "Link Liste" entfernt
+2023-08-29 09:24:38, stepstone : Linkliste erstellt
+2023-08-29 09:24:38, stepstone : 16204 in der Datenbank bereits vorhanden
+2023-08-29 09:24:38, stepstone : Abfrage begonnen
+2023-08-29 09:24:51, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Wissenschaftler-fuer-thermische-Simulationen-m-w-x-Oberkochen-Baden-Wuerttemberg-ZEISS--9436729-inline.html
+2023-08-29 09:25:03, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Experte-m-w-d-Technologie-Software-Sutthauser-Strasse-280-49080-Osnabrueck-Koester-GmbH--9980114-inline.html
+2023-08-29 09:25:14, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Fachingenieur-Sondermaschinenbau-und-Automatisierungstechnik-w-m-d-Burghausen-Wacker-Chemie-AG--9980167-inline.html
+2023-08-29 09:25:27, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--Abschlussarbeit-Erarbeitung-einer-automatischen-Anomaliedetektion-m-w-d-Zerspanungsmechaniker-in-Automaten-Drehtechnik-Dresden-Marketplace-Hub--9922244-inline.html
+2023-08-29 09:25:41, Daten wurden gezogen: https://www.stepstone.de/stellenangebote--System-Analyst-gn-Bornheim-HORNBACH-Baumarkt-AG--9979898-inline.html
+2023-08-29 09:25:41, stepstone : Abfrage beendet
+2023-08-29 09:25:44, stepstone: Browser geschlossen
+2023-08-29 09:25:44, stepstone: Es wurden 5 Daten von stepstone Stepstone hinzugefügt
+2023-08-29 10:45:48, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-29 10:45:53, stepstone: Browser geoeffnet
+2023-08-29 10:47:43, stepstone : Suche nach BI Analyst in Deutschland
+2023-08-29 10:47:50, stepstone: Browser geoeffnet

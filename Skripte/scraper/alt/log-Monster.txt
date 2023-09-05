@@ -1,0 +1,32 @@
+2023-08-27 15:27:00, suche nach Datenanalyst
+2023-08-27 15:27:02, Browser geoeffnet
+2023-08-27 15:27:49, Keine Links auf gefunden
+2023-08-27 15:27:51, suche nach Customer Data Analyst
+2023-08-27 15:27:54, Browser geoeffnet
+2023-08-27 15:28:39, Keine Links auf gefunden
+2023-08-27 15:28:41, suche nach Business Analyst Reporting & Data Analytics
+2023-08-27 15:28:44, Browser geoeffnet
+2023-08-27 15:29:32, Keine Links auf gefunden
+2023-08-27 15:29:35, suche nach Data Analyst
+2023-08-27 15:29:38, Browser geoeffnet
+2023-08-27 15:30:26, Keine Links auf gefunden
+2023-08-27 15:30:28, suche nach Business Analyst
+2023-08-27 15:30:31, Browser geoeffnet
+2023-08-27 15:31:19, Keine Links auf gefunden
+2023-08-27 15:31:22, suche nach Data Engineer and Analyst - BI Cloud
+2023-08-27 15:31:24, Browser geoeffnet
+2023-08-27 15:32:11, Keine Links auf gefunden
+2023-08-27 15:32:13, suche nach Machine Learning Specialist
+2023-08-27 15:32:16, Browser geoeffnet
+2023-08-27 15:33:02, Keine Links auf gefunden
+2023-08-27 15:40:01, suche nach Datenanalyst
+2023-08-27 15:40:05, Browser konnte nicht geoeffnet werden
+2023-08-27 15:40:11, Webseite wurde nicht geladen
+2023-08-28 09:23:58, suche nach Datenanalyst
+2023-08-28 09:24:04, Browser konnte nicht geoeffnet werden
+2023-08-28 09:24:10, Webseite wurde nicht geladen
+2023-08-28 09:24:35, suche nach Data Analyst
+2023-08-28 09:24:39, Browser konnte nicht geoeffnet werden
+2023-08-28 09:24:45, Webseite wurde nicht geladen
+2023-08-28 09:25:40, suche nach Data Analyst
+2023-08-28 09:25:46, Browser geoeffnet
